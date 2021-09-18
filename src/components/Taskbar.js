@@ -14,14 +14,12 @@ function Taskbar() {
             list={
                 <List>
                     <List.Item className="pointer" icon="cd_music">
-                        <Link href='https://soundcloud.com/webroketheweather' target="_blank">Demos</Link>
+                        <Link href='https://soundcloud.com/webroketheweather' target="_blank">soundcloud demos</Link>
                     </List.Item>
                     
                     <List.Item className="pointer" icon="brush">
-                        <Link href='https://instagram.com/webroketheweather' target="_blank">Instagram</Link>
-                    </List.Item>
-                  
-                  
+                        <Link href='https://instagram.com/webroketheweather' target="_blank">instagram</Link>
+                    </List.Item>   
                 </List>
             }
         />
