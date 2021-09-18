@@ -15,7 +15,7 @@ function Mine({ closeMine, isMobile }) {
     return (
         <Modal
             icon="earth"
-            title="Minesweeper"
+            title="minesweeper"
             closeModal={closeMine}
             style={{
                 left: isMobile ? '5%' : '15%',
