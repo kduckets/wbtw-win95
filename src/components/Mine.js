@@ -47,7 +47,9 @@ function Mine({ closeMine, isMobile }) {
             </Frame>
 
             <Timer>
+                <p>
 	        <Timer.Seconds />
+                </p>
             </Timer>
 
         </Modal>
