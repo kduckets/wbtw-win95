@@ -18,7 +18,7 @@ function Shortcuts({ openExplorer }) {
                     name="windows_explorer"
                     onClick={() => openExplorer()}
                 />
-                <div>Explorer</div>
+                <div>explorer</div>
             </StyledShorcut>
             <StyledShorcut>
                 <Icon
@@ -26,7 +26,7 @@ function Shortcuts({ openExplorer }) {
                     name="media_cd"
                     onClick={()=>startWebamp()}
                 />
-                <div>Media</div>
+                <div>media</div>
             </StyledShorcut>
         </div>
     )
