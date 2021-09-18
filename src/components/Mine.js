@@ -22,6 +22,11 @@ function Mine({ closeMine, isMobile }) {
                 top: '30%',
                 width: isMobile ? '90%' : 400,
             }}
+            buttons={[
+
+                { value: 'Exit', onClick: closeMine },
+    
+              ]}
             menu={[
                 { name: 'File', list: [] },
                 { name: 'Edit', list: [] },
