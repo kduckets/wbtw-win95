@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { Modal, Frame } from '@react95/core'
 import Minesweeper from 'react-minesweeper';
 import "react-minesweeper/lib/minesweeper.css";
+import Timer from 'react-compound-timer';
 
 const Wrapper = styled.div`
 	display: flex;
@@ -42,7 +43,13 @@ function Mine({ closeMine, isMobile }) {
             height={10} // amount of fields vertically
             />
                 </Wrapper>
+            
             </Frame>
+
+            <Timer>
+	        <Timer.Seconds />
+            </Timer>
+
         </Modal>
         
     )
