@@ -5,6 +5,8 @@ import DataContext from '../contexts/dataContext'
 import Shortcuts from './Shortcuts';
 import Player from './Player';
 import Alert from '@react95/core/Alert';
+import Mine from './Mine';
+
 
 function Desktop() {
 
@@ -15,6 +17,8 @@ function Desktop() {
     const [selectedItem, setSelectedItem] = useState(null);
     const [notepadOpened, toggleNotepad] = useState(false);
     const [alertOpened, toggleAlert] = useState(false);
+    const [mineOpened, toggleMine] = useState(false);
+
     const [items, setItems] = useState([]);
 
     useEffect(
@@ -25,6 +29,7 @@ function Desktop() {
             setSelectedItem(files[0]);
             toggleNotepad(false);
             toggleAlert(true);
+            toggleMine(false);
         }, [data, isMobile]);
 
 
@@ -32,7 +37,7 @@ function Desktop() {
         toggleExplorer(false);
     };
 
-    const openExlorer = () => {
+    const openExplorer = () => {
         toggleExplorer(true);
     };
 
@@ -48,11 +53,19 @@ function Desktop() {
         toggleAlert(false);
     };
 
+    const closeMine = () => {
+        toggleMine(false);
+    };
+
+    const openMine = () => {
+        toggleMine(true);
+    };
+
     return (
         
         <React.Fragment>
 
-            <Shortcuts openExplorer={openExlorer} />
+            <Shortcuts openExplorer={openExplorer} openMine={openMine}/>
             {
                 explorerOpened && (
                     <Explorer items={items} closeExplorer={closeExplorer} openNotepad={openNotepad} isMobile={isMobile} />
@@ -61,6 +74,11 @@ function Desktop() {
             {
                 notepadOpened && (
                     <Notepad closeNotepad={closeNotepad} selectedItem={selectedItem} isMobile={isMobile} />
+                )
+            }
+            {
+                 mineOpened && (
+                    <Mine closeMine={closeMine} selectedItem={selectedItem} isMobile={isMobile} />
                 )
             }
                 {
