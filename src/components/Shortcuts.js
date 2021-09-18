@@ -12,14 +12,14 @@ const StyledShorcut = styled.div`
 function Shortcuts({ openExplorer }) {
     return (
         <div>
-            <StyledShorcut>
+            {/* <StyledShorcut>
                 <Icon
                     className="pointer"
                     name="windows_explorer"
                     onClick={() => openExplorer()}
                 />
                 <div>Explorer</div>
-            </StyledShorcut>
+            </StyledShorcut> */}
             <StyledShorcut>
                 <Icon
                     className="pointer"
