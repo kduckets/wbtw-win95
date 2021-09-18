@@ -66,10 +66,10 @@ function Desktop() {
                 {
                 alertOpened && (
                     <Alert closeAlert={closeAlert} selectedItem={selectedItem} isMobile={isMobile} 
-                    title="404.exe"
+                    title="weather broke.exe"
                     type='error'
-                    message="fatal error: weather broken"
-                    hasSound='false'
+                    message="Fatal error: weather broken. Please contact your systems administrator."
+                    hasSound='true'
                     buttons={[{ value: 'OK', onClick: closeAlert }]}/>
                 )
             }
