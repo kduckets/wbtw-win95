@@ -19,7 +19,7 @@ function Mine({ closeMine, isMobile }) {
             closeModal={closeMine}
             style={{
                 left: isMobile ? '5%' : '15%',
-                top: '30%',
+                top: '10%',
                 width: isMobile ? '90%' : 400,
             }}
             buttons={[
