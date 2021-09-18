@@ -15,6 +15,14 @@ function Shortcuts({ openExplorer, openMine }) {
             <StyledShorcut>
                 <Icon
                     className="pointer"
+                    name="media_cd"
+                    onClick={()=>startWebamp()}
+                />
+                <div>media</div>
+            </StyledShorcut>
+            <StyledShorcut>
+                <Icon
+                    className="pointer"
                     name="windows_explorer"
                     onClick={() => openExplorer()}
                 />
@@ -28,14 +36,7 @@ function Shortcuts({ openExplorer, openMine }) {
                 />
                 <div>minesweeper</div>
             </StyledShorcut>
-            <StyledShorcut>
-                <Icon
-                    className="pointer"
-                    name="media_cd"
-                    onClick={()=>startWebamp()}
-                />
-                <div>media</div>
-            </StyledShorcut>
+       
         </div>
     )
 }

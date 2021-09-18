@@ -13,7 +13,7 @@ function Taskbar() {
         <TaskBar
             list={
                 <List>
-                    <List.Item className="pointer" icon="cd_music">
+                    <List.Item className="pointer" icon="mmsys_105">
                         <Link href='https://soundcloud.com/webroketheweather' target="_blank">soundcloud demos</Link>
                     </List.Item>
                     
