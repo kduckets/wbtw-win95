@@ -5,6 +5,7 @@ import DataService from '../services/dataService';
 import DataContext from '../contexts/dataContext';
 import Taskbar from './Taskbar';
 import Desktop from './Desktop';
+import ReactGA from 'react-ga';
 
 const dataService = new DataService();
 
@@ -13,6 +14,8 @@ const BodyFontSizeOverride = createGlobalStyle`
     font-size: 15px
   }
 `;
+
+ReactGA.initialize('G-M4C8FHNH82');
 
 const App = () => (
   <DataContext.Provider value={dataService}>
