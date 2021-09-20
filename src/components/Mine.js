@@ -49,7 +49,7 @@ function Mine({ closeMine, isMobile }) {
 
     return (
         <Modal
-            icon="earth"
+            icon="drvspace_7"
             title="minesweeper"
             closeModal={closeMine}
             style={{

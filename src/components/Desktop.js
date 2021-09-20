@@ -6,6 +6,7 @@ import Shortcuts from './Shortcuts';
 import Player from './Player';
 import Alert from '@react95/core/Alert';
 import Mine from './Mine';
+import Paint from './Paint';
 
 
 function Desktop() {
@@ -18,6 +19,8 @@ function Desktop() {
     const [notepadOpened, toggleNotepad] = useState(false);
     const [alertOpened, toggleAlert] = useState(false);
     const [mineOpened, toggleMine] = useState(false);
+    const [paintOpened, togglePaint] = useState(false);
+
 
     const [items, setItems] = useState([]);
 
@@ -30,6 +33,7 @@ function Desktop() {
             toggleNotepad(false);
             toggleAlert(true);
             toggleMine(false);
+            togglePaint(false);
         }, [data, isMobile]);
 
 
@@ -61,11 +65,20 @@ function Desktop() {
         toggleMine(true);
     };
 
+    const closePaint = () => {
+        togglePaint(false);
+    };
+
+    const openPaint = () => {
+        togglePaint(true);
+    };
+
+
     return (
         
         <React.Fragment>
 
-            <Shortcuts openExplorer={openExplorer} openMine={openMine}/>
+            <Shortcuts openExplorer={openExplorer} openMine={openMine} openPaint={openPaint}/>
             {
                 explorerOpened && (
                     <Explorer items={items} closeExplorer={closeExplorer} openNotepad={openNotepad} isMobile={isMobile} />
@@ -79,6 +92,11 @@ function Desktop() {
             {
                  mineOpened && (
                     <Mine closeMine={closeMine} selectedItem={selectedItem} isMobile={isMobile} />
+                )
+            }
+               {
+                 paintOpened && (
+                    <Paint closePaint={closePaint} selectedItem={selectedItem} isMobile={isMobile} />
                 )
             }
                 {

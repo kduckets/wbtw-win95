@@ -6,10 +6,11 @@ import {startWebamp} from '../utils/startWebamp';
 const StyledShorcut = styled.div`
     margin-left: 20px;
     margin-top: 20px;
-	align-items: center;
+	align-items: center !important;
+    color: white !important;
 `;
 
-function Shortcuts({ openExplorer, openMine }) {
+function Shortcuts({ openExplorer, openMine, openPaint }) {
     return (
         <div>
             <StyledShorcut>
@@ -23,18 +24,26 @@ function Shortcuts({ openExplorer, openMine }) {
             <StyledShorcut>
                 <Icon
                     className="pointer"
-                    name="windows_explorer"
+                    name="explorer_100"
                     onClick={() => openExplorer()}
                 />
-                <div>explorer</div>
+                <div>my computer</div>
             </StyledShorcut>
             <StyledShorcut>
                 <Icon
                     className="pointer"
-                    name="earth"
+                    name="drvspace_7"
                     onClick={() => openMine()}
                 />
                 <div>minesweeper</div>
+            </StyledShorcut>
+            <StyledShorcut>
+                <Icon
+                    className="pointer"
+                    name="mspaint"
+                    onClick={() => openPaint()}
+                />
+                <div>paint</div>
             </StyledShorcut>
        
         </div>

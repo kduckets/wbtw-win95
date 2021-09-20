@@ -13,8 +13,8 @@ const FilesWrapper = styled.div`
 function Explorer({ items, closeExplorer, openNotepad, isMobile }) {
     return (
         <Modal
-            icon="windows_explorer"
-            title="explorer"
+            icon="explorer_100"
+            title="my computer"
             closeModal={closeExplorer}
             style={{
                 left: isMobile ? '5%' : '15%',
