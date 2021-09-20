@@ -27,7 +27,11 @@ function Paint({ closePaint, isMobile }) {
                 width: isMobile ? '90%' : '80%',
                 height: isMobile ? '86%' : '86%'
             }}
-      >
+            buttons={[
+
+                { value: 'Exit', onClick: closePaint },
+    
+              ]}>
             <Frame>
                 <Wrapper>
                 <iframe
