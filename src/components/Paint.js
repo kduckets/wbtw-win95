@@ -37,7 +37,7 @@ function Paint({ closePaint, isMobile }) {
         style={{
           display: 'block',
           width: '100%',
-          height: '80vh',
+          height: isMobile ? '60vh' : '80vh',
           backgroundColor: 'rgb(192,192,192)',
         }}
       />
