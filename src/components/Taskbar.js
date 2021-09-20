@@ -13,12 +13,16 @@ function Taskbar() {
         <TaskBar
             list={
                 <List>
-                    <List.Item className="pointer" icon="mmsys_105">
-                        <Link href='https://soundcloud.com/webroketheweather' target="_blank">soundcloud demos</Link>
+                    <List.Item icon="mmsys_105">
+                        <Link href='https://soundcloud.com/webroketheweather' target="_blank">soundcloud</Link>
                     </List.Item>
                     
-                    <List.Item className="pointer" icon="brush">
+                    <List.Item icon="progman_24">
                         <Link href='https://instagram.com/webroketheweather' target="_blank">instagram</Link>
+                    </List.Item>   
+                    <List.Divider />
+                    <List.Item  icon="shell32_28">
+                        <Link href=''>Shut Down...</Link>
                     </List.Item>   
                 </List>
             }
