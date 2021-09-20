@@ -22,10 +22,10 @@ function Paint({ closePaint, isMobile }) {
             title="mspaint"
             closeModal={closePaint}
             style={{
-                left: isMobile ? '5%' : '15%',
-                top: '10%',
+                left: isMobile ? '5%' : '5%',
+                top: '5%',
                 width: isMobile ? '90%' : '80%',
-                height: isMobile ? '90%' : '50%'
+                height: isMobile ? '86%' : '86%'
             }}
       >
             <Frame>
@@ -37,7 +37,7 @@ function Paint({ closePaint, isMobile }) {
         style={{
           display: 'block',
           width: '100%',
-          minHeight: '400px',
+          height: '80vh',
           backgroundColor: 'rgb(192,192,192)',
         }}
       />
