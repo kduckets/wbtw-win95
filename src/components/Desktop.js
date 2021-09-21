@@ -30,7 +30,7 @@ function Desktop() {
             setItems(files);
             toggleExplorer(false);
             setSelectedItem(files[0]);
-            toggleNotepad(false);
+            toggleNotepad(true);
             toggleAlert(true);
             toggleMine(false);
             togglePaint(false);

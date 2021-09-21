@@ -4,7 +4,7 @@ function About({ content }) {
 
     return (
         <div>
-            <h2>About</h2>
+            <h2>we broke the weather</h2>
             <small><i><b>all wbtw demos were recorded in scott's basement and mixed by scott</b>
                  
                  <p>wbtw is:</p> 
