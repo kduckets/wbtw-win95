@@ -21,14 +21,14 @@ function About({ content }) {
             link: 'https://soundcloud.com/webroketheweather',
           },
           {
-            name: 'FaFacebook',
-            link: 'https://facebook.com/webroketheweather',
-          },
-          {
             name: 'FaInstagram',
             link: 'https://www.instagram.com/webroketheweather/',
           },
-  
+          {
+            name: 'FaFacebook',
+            link: 'https://facebook.com/webroketheweather',
+          },
+
         ]
       
     
@@ -54,7 +54,7 @@ function About({ content }) {
                  
            
                   </small>
-                  <ul>
+          
                 {
                     social.map((s, idx) => {
                         const Icon = Icons[s.name];
@@ -67,7 +67,7 @@ function About({ content }) {
                         );
                     })
                 }
-            </ul>
+         
 
         </div>
     )
