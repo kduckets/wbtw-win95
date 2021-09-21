@@ -1,6 +1,37 @@
 import React from 'react'
+import styled from 'styled-components'
+import { FaInstagram, FaFacebook, FaSoundcloud } from 'react-icons/fa'
+
+const Icons = { FaInstagram, FaFacebook, FaSoundcloud };
+
+const StyledItem = styled.li`
+    display: inline;
+    font-size: 20px;
+    margin-left: 10px;
+`
+
+const StyledLink = styled.a`
+    color: black;
+`
 
 function About({ content }) {
+    const social = [
+         {
+            name: 'FaSoundcloud',
+            link: 'https://soundcloud.com/webroketheweather',
+          },
+          {
+            name: 'FaFacebook',
+            link: 'https://facebook.com/webroketheweather',
+          },
+          {
+            name: 'FaInstagram',
+            link: 'https://www.instagram.com/webroketheweather/',
+          },
+  
+        ]
+      
+    
 
     return (
         <div>
@@ -23,6 +54,20 @@ function About({ content }) {
                  
            
                   </small>
+                  <ul>
+                {
+                    social.map((s, idx) => {
+                        const Icon = Icons[s.name];
+                        return (
+                            <StyledItem key={idx}>
+                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
+                                    <Icon />
+                                </StyledLink>
+                            </StyledItem>
+                        );
+                    })
+                }
+            </ul>
 
         </div>
     )
