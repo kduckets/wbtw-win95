@@ -5,8 +5,8 @@ function About({ content }) {
     return (
         <div>
             <h2>we broke the weather</h2>
-            <small><i><b>all wbtw demos were recorded in scott's basement and mixed by scott</b>
-                 
+            <small>
+            <i>
                  <p>wbtw is:</p> 
 
                    <p>nick - keys, sax, flute, etc, vocals</p>
@@ -21,6 +21,7 @@ function About({ content }) {
 
                    <p><a className="email" href="mailto:webroketheweather@gmail.com">webroketheweather@gmail.com</a></p>
                  
+           
                   </small>
 
         </div>
