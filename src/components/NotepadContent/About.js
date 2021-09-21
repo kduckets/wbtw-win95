@@ -37,9 +37,9 @@ function About({ content }) {
         <div>
             <h2>we broke the weather</h2>
             <small>
-            <i>
+           
                  <p>wbtw is:</p> 
-
+                 <i>
                    <p>nick - keys, sax, flute, etc, vocals</p>
                   
                    <p>andy - drums, vocals, count-ins</p>
