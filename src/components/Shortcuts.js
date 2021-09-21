@@ -10,7 +10,7 @@ const StyledShorcut = styled.div`
     color: white !important;
 `;
 
-function Shortcuts({ openExplorer, openMine, openPaint }) {
+function Shortcuts({ openExplorer, openMine, openPaint, openNotepad }) {
     return (
         <div>
             <StyledShorcut>
@@ -19,8 +19,16 @@ function Shortcuts({ openExplorer, openMine, openPaint }) {
                     name="media_cd"
                     onClick={()=>startWebamp()}
                 />
-                <div>media</div>
+                <div>music</div>
             </StyledShorcut>
+            {/* <StyledShorcut>
+                <Icon
+                    className="pointer"
+                    name="d3_maze_100"
+                    onClick={() => openExplorer}
+                />
+                <div>shows</div>
+                </StyledShorcut> */}
             <StyledShorcut>
                 <Icon
                     className="pointer"
@@ -32,7 +40,7 @@ function Shortcuts({ openExplorer, openMine, openPaint }) {
             <StyledShorcut>
                 <Icon
                     className="pointer"
-                    name="drvspace_7"
+                    name="winmine_1"
                     onClick={() => openMine()}
                 />
                 <div>minesweeper</div>
