@@ -77,6 +77,8 @@ function About({ content }) {
               target="_blank" rel="noopener noreferrer">
               <button><small>fix the weather</small></button>
               </a>
+              <br/>
+              <br/>
               </div>  
 
         </div>
