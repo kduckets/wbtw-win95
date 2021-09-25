@@ -13,11 +13,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy}) {
             
                   <List>
             
-                    <List.Item icon="folder_exe">
+                    {/* <List.Item icon="folder_exe">
             
                       Accessories
             
-                    </List.Item>
+                    </List.Item> */}
 
 
                     <List.Item icon="mspaint" onClick={() => openPaint()}>
