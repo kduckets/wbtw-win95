@@ -25,7 +25,7 @@ function Paint({ closePaint, isMobile }) {
                 left: isMobile ? '5%' : '5%',
                 top: '5%',
                 width: isMobile ? '90%' : '80%',
-                height: isMobile ? '86%' : '86%'
+                height: isMobile ? '86%' : '90%'
             }}
             buttons={[
 

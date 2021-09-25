@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { Icon } from '@react95/core'
 import {startWebamp} from '../utils/startWebamp';
 
+
 const StyledShorcut = styled.div`
     margin-left: 20px;
     margin-top: 20px;
@@ -10,26 +11,11 @@ const StyledShorcut = styled.div`
     color: white !important;
 `;
 
-function Shortcuts({ openExplorer, openMine, openPaint, openNotepad }) {
+function Shortcuts({openExplorer, openMine, openPaint, openNotepad, items }) {
+
     return (
         <div>
-            <StyledShorcut>
-                <Icon
-                    className="pointer"
-                    name="media_cd"
-                    onClick={()=>startWebamp()}
-                />
-                <div>music</div>
-            </StyledShorcut>
-            {/* <StyledShorcut>
-                <Icon
-                    className="pointer"
-                    name="d3_maze_100"
-                    onClick={() => openExplorer}
-                />
-                <div>shows</div>
-                </StyledShorcut> */}
-            <StyledShorcut>
+             <StyledShorcut>
                 <Icon
                     className="pointer"
                     name="explorer_100"
@@ -37,6 +23,27 @@ function Shortcuts({ openExplorer, openMine, openPaint, openNotepad }) {
                 />
                 <div>my computer</div>
             </StyledShorcut>
+            <StyledShorcut>
+                <Icon
+                    className="pointer"
+                    name="media_cd"
+                    onClick={()=>startWebamp()}
+                />
+                <div>demos</div>
+            </StyledShorcut>
+            {/* {
+            items.map((item) => (
+             <StyledShorcut key={item.id}>
+                    <Icon
+                className="pointer"
+                name="d3_maze_100"
+                onClick={() => openNotepad(item)}
+                     />
+                    <div>about</div>
+            </StyledShorcut>
+                ))
+            }      */}
+     
             <StyledShorcut>
                 <Icon
                     className="pointer"

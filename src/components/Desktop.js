@@ -48,7 +48,6 @@ function Desktop() {
     const closeNotepad = () => {
         toggleNotepad(false);
     };
-
     const openNotepad = (item) => {
         setSelectedItem(item)
         toggleNotepad(true);
@@ -78,7 +77,7 @@ function Desktop() {
         
         <React.Fragment>
 
-            <Shortcuts openExplorer={openExplorer} openMine={openMine} openPaint={openPaint}/>
+            <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint}/>
             {
                 explorerOpened && (
                     <Explorer items={items} closeExplorer={closeExplorer} openNotepad={openNotepad} isMobile={isMobile} />

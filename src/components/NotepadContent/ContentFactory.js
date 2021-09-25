@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useContext } from 'react'
 import DataContext from '../../contexts/dataContext'
 import About from './About'
+import Shows from './Shows'
 
 
 function ContentFactory({ id, isMobile }) {
@@ -19,6 +20,8 @@ function ContentFactory({ id, isMobile }) {
     switch (item.id) {
         case 'about':
             return <About content={item.content} />
+        case 'shows':
+            return <Shows content={item.content} />
         default:
             return (<div></div>);
     }

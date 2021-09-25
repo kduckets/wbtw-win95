@@ -4,13 +4,13 @@ export default class DataService {
     items: [
       {
         id: 'about',
-        name: 'About.txt',
+        name: 'about.txt',
         icon: 'info_bubble',
-        content: {
-          paragraphs: [
-            
-          ],
-        },
+      },
+      {
+        id: 'shows',
+        name: 'shows.exe',
+        icon: 'd3_maze_100',
       },
       
     ],
