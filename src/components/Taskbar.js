@@ -25,13 +25,7 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy}) {
                       Paint
             
                     </List.Item>
-            
-                    <List.Item icon="folder_exe">
-            
-                      StartUp
-            
-                    </List.Item>
-
+          
             
                     <List.Item icon="winmine_1" onClick={() => openMine()}>
             

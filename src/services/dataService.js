@@ -10,7 +10,12 @@ export default class DataService {
       {
         id: 'shows',
         name: 'shows',
-        icon: 'd3_maze_100',
+        icon: 'flying_through_space_100',
+      },
+      {
+        id: 'merch',
+        name: 'merch',
+        icon: 'mmsys_90',
       },
       
     ],
