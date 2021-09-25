@@ -7,6 +7,8 @@ import Player from './Player';
 import Alert from '@react95/core/Alert';
 import Mine from './Mine';
 import Paint from './Paint';
+import Floppy from './Floppy';
+
 
 
 function Desktop() {
@@ -20,6 +22,8 @@ function Desktop() {
     const [alertOpened, toggleAlert] = useState(false);
     const [mineOpened, toggleMine] = useState(false);
     const [paintOpened, togglePaint] = useState(false);
+    const [floppyOpened, toggleFloppy] = useState(false);
+
 
 
     const [items, setItems] = useState([]);
@@ -34,6 +38,7 @@ function Desktop() {
             toggleAlert(true);
             toggleMine(false);
             togglePaint(false);
+            toggleFloppy(false);
         }, [data, isMobile]);
 
 
@@ -72,12 +77,20 @@ function Desktop() {
         togglePaint(true);
     };
 
+    const closeFloppy = () => {
+        toggleFloppy(false);
+    };
+
+    const openFloppy = () => {
+        toggleFloppy(true);
+    };
+
 
     return (
         
         <React.Fragment>
 
-            <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint}/>
+            <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy}/>
             {
                 explorerOpened && (
                     <Explorer items={items} closeExplorer={closeExplorer} openNotepad={openNotepad} isMobile={isMobile} />
@@ -96,6 +109,11 @@ function Desktop() {
                {
                  paintOpened && (
                     <Paint closePaint={closePaint} selectedItem={selectedItem} isMobile={isMobile} />
+                )
+            }
+                 {
+                 floppyOpened && (
+                    <Floppy closeFloppy={closeFloppy} selectedItem={selectedItem} isMobile={isMobile} />
                 )
             }
                 {

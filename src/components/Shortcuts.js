@@ -11,7 +11,7 @@ const StyledShorcut = styled.div`
     color: white !important;
 `;
 
-function Shortcuts({openExplorer, openMine, openPaint, openNotepad, items }) {
+function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, items }) {
 
     return (
         <div>
@@ -59,6 +59,14 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, items }) {
                     onClick={() => openPaint()}
                 />
                 <div>paint</div>
+            </StyledShorcut>
+            <StyledShorcut>
+                <Icon
+                    className="pointer"
+                    name="joy_102"
+                    onClick={() => openFloppy()}
+                />
+                <div>floppy box</div>
             </StyledShorcut>
        
         </div>
