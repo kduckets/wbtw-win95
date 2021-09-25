@@ -8,6 +8,8 @@ import Alert from '@react95/core/Alert';
 import Mine from './Mine';
 import Paint from './Paint';
 import Floppy from './Floppy';
+import Taskbar from './Taskbar';
+
 
 
 
@@ -127,7 +129,9 @@ function Desktop() {
                 )
             }
             <Player />
+            <Taskbar openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy}/>
         </React.Fragment>
+        
     )
 }
 

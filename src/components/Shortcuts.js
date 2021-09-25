@@ -15,14 +15,14 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, 
 
     return (
         <div>
-             <StyledShorcut>
+             {/* <StyledShorcut>
                 <Icon
                     className="pointer"
                     name="explorer_100"
                     onClick={() => openExplorer()}
                 />
                 <div>my computer</div>
-            </StyledShorcut>
+            </StyledShorcut> */}
             <StyledShorcut>
                 <Icon
                     className="pointer"
@@ -31,43 +31,19 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, 
                 />
                 <div>demos</div>
             </StyledShorcut>
-            {/* {
+            {
             items.map((item) => (
              <StyledShorcut key={item.id}>
                     <Icon
                 className="pointer"
-                name="d3_maze_100"
+                name={item.icon}
                 onClick={() => openNotepad(item)}
                      />
-                    <div>about</div>
+                    <div>{item.name}</div>
             </StyledShorcut>
                 ))
-            }      */}
+            }     
      
-            <StyledShorcut>
-                <Icon
-                    className="pointer"
-                    name="winmine_1"
-                    onClick={() => openMine()}
-                />
-                <div>minesweeper</div>
-            </StyledShorcut>
-            <StyledShorcut>
-                <Icon
-                    className="pointer"
-                    name="mspaint"
-                    onClick={() => openPaint()}
-                />
-                <div>paint</div>
-            </StyledShorcut>
-            <StyledShorcut>
-                <Icon
-                    className="pointer"
-                    name="joy_102"
-                    onClick={() => openFloppy()}
-                />
-                <div>floppy box</div>
-            </StyledShorcut>
        
         </div>
     )

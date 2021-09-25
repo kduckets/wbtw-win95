@@ -3,7 +3,7 @@ import { TaskBar, List } from '@react95/core'
 import '@react95/icons/icons.css';
 
 
-function Taskbar() {
+function Taskbar({openExplorer, openPaint, openMine, openFloppy}) {
     return (
         <TaskBar
             list={
@@ -18,16 +18,24 @@ function Taskbar() {
                       Accessories
             
                     </List.Item>
+
+
+                    <List.Item icon="mspaint" onClick={() => openPaint()}>
+            
+                      Paint
+            
+                    </List.Item>
             
                     <List.Item icon="folder_exe">
             
                       StartUp
             
                     </List.Item>
+
             
-                    <List.Item icon="microsoft_exchange">
+                    <List.Item icon="winmine_1" onClick={() => openMine()}>
             
-                      Microsoft Exchange
+                      Minesweeper
             
                     </List.Item>
             
@@ -37,13 +45,13 @@ function Taskbar() {
             
                     </List.Item>
             
-                    <List.Item icon="microsoft_network">
+                    <List.Item icon="joy_102" onClick={() => openFloppy()}>
             
-                      The Microsoft Network
+                      Floppy Box
             
                     </List.Item>
             
-                    <List.Item icon="windows_explorer">
+                    <List.Item icon="windows_explorer"  onClick={() => openExplorer()}>
             
                       Windows Explorer
             
