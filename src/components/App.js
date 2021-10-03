@@ -12,6 +12,9 @@ const BodyFontSizeOverride = createGlobalStyle`
   body{
     font-size: 15px
   }
+  button{
+    color: black !important
+  }
 `;
 
 ReactGA.initialize('G-M4C8FHNH82');
