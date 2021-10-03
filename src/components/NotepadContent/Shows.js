@@ -8,7 +8,7 @@ function Shows({ content }) {
     return (
         <div>
             <h2>we broke the weather</h2>
-            <h3>upcoming shows</h3>
+            <h3>live, in concert!</h3>
             <small>
         
       
