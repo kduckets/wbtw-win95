@@ -36,7 +36,7 @@ function About({ content }) {
     return (
         <div>
             <h2>we broke the weather</h2>
-            <h4>album coming winter 2022!</h4>
+            <h4>album coming winter 2022</h4>
             <small>
            
                  <p>wbtw is:</p> 
