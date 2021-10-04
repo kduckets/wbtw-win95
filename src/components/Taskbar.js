@@ -1,10 +1,12 @@
 import React from 'react'
 import { TaskBar, List } from '@react95/core'
 import '@react95/icons/icons.css';
+import { NavLink } from "react-router-dom";
 
 
 function Taskbar({openExplorer, openPaint, openMine, openFloppy}) {
     return (
+    
         <TaskBar
             list={
                 <List>
@@ -88,14 +90,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy}) {
                 <List.Item icon="loader_bat">Run...</List.Item>
             
                 <List.Divider />
-            
                 <List.Item icon="computer_3">
-            
-                  Shut Down...
-            
+                <NavLink to="/404" style={{color:'inherit', textDecoration:'inherit'}}> Shut Down... </NavLink>
                 </List.Item>
-            
               </List>
+             
             }
         />
     )
