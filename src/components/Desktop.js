@@ -9,7 +9,7 @@ import Mine from './Mine';
 import Paint from './Paint';
 import Floppy from './Floppy';
 import Taskbar from './Taskbar';
-import Synth from './Synth';
+import Synth from './Synth/Synth';
 
 
 

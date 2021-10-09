@@ -1,3 +1,19 @@
+.PianoDarkTheme{
+-webkit-touch-callout:none;
+-webkit-user-select:none;
+-khtml-user-select:none;
+-moz-user-select:none;
+-ms-user-select:none;
+user-select:none;
+-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+
+.piano {
+  display: inline-block;
+  padding: 10px;
+  width: 100%;
+}
+
 .PianoDarkTheme .ReactPiano__Key--accidental {
     background: #010507;
     border: 1px solid #888;
