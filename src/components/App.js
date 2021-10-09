@@ -26,7 +26,7 @@ const BodyFontSizeOverride = createGlobalStyle`
     -webkit-tap-highlight-color:rgba(0,0,0,0);
   }
   button{
-    color: black !important
+    color: black !important;
   }
 `;
 
