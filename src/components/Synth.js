@@ -4,7 +4,8 @@ import 'react-piano/dist/styles.css';
 import { Modal, Frame } from '@react95/core';
 import SoundfontProvider from '../utils/SoundfontProvider';
 import DimensionsProvider from '../utils/DimensionsProvider';
-
+import 'react-piano/dist/styles.css';
+import '../styles/piano.css'
 
 function Synth ({ closeSynth, isMobile, props }) {
     const audioContext = new (window.AudioContext || window.webkitAudioContext)();
@@ -45,6 +46,7 @@ function Synth ({ closeSynth, isMobile, props }) {
           hostname={soundfontHostname}
           render={({ isLoading, playNote, stopNote }) => (
             <Piano
+              className="PianoDarkTheme"
               noteRange={noteRange}
               width={containerWidth}
               playNote={playNote}
