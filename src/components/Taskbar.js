@@ -4,7 +4,7 @@ import '@react95/icons/icons.css';
 import { NavLink } from "react-router-dom";
 
 
-function Taskbar({openExplorer, openPaint, openMine, openFloppy}) {
+function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
     return (
     
         <TaskBar
@@ -65,7 +65,7 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy}) {
             
                   <List>
             
-                    <List.Item icon="folder_settings">
+                    <List.Item icon="folder_settings" onClick={() => openSynth()}>
             
                       Control Panel
             

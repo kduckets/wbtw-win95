@@ -9,6 +9,7 @@ import Mine from './Mine';
 import Paint from './Paint';
 import Floppy from './Floppy';
 import Taskbar from './Taskbar';
+import Synth from './Synth';
 
 
 
@@ -25,6 +26,8 @@ function Desktop() {
     const [mineOpened, toggleMine] = useState(false);
     const [paintOpened, togglePaint] = useState(false);
     const [floppyOpened, toggleFloppy] = useState(false);
+    const [synthOpened, toggleSynth] = useState(false);
+
 
 
 
@@ -41,6 +44,7 @@ function Desktop() {
             toggleMine(false);
             togglePaint(false);
             toggleFloppy(false);
+            toggleSynth(false);
         }, [data, isMobile]);
 
 
@@ -86,13 +90,20 @@ function Desktop() {
     const openFloppy = () => {
         toggleFloppy(true);
     };
+    const closeSynth = () => {
+        toggleSynth(false);
+    };
+
+    const openSynth = () => {
+        toggleSynth(true);
+    };
 
 
     return (
         
         <React.Fragment>
 
-            <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy}/>
+            <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
             {
                 explorerOpened && (
                     <Explorer items={items} closeExplorer={closeExplorer} openNotepad={openNotepad} isMobile={isMobile} />
@@ -119,6 +130,11 @@ function Desktop() {
                 )
             }
                 {
+                 synthOpened && (
+                    <Synth closeSynth={closeSynth} selectedItem={selectedItem} isMobile={isMobile} />
+                )
+            }
+                {
                 alertOpened && (
                     <Alert closeAlert={closeAlert} selectedItem={selectedItem} isMobile={isMobile} 
                     title="system failure.exe"
@@ -129,7 +145,7 @@ function Desktop() {
                 )
             }
             <Player />
-            <Taskbar openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy}/>
+            <Taskbar openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
         </React.Fragment>
         
     )
