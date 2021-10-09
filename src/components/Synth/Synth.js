@@ -32,7 +32,7 @@ function Synth ({ closeSynth, isMobile }) {
     }}
     buttons={[
 
-        { value: 'Exit', onClick: closeSynth },
+
 
       ]}>
 
