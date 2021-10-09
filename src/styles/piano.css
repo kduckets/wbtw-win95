@@ -1,17 +1,17 @@
 .PianoDarkTheme .ReactPiano__Key--accidental {
-    background: #025d7d;
+    background: #010507;
     border: 1px solid #888;
   }
   .PianoDarkTheme .ReactPiano__Key--natural {
-    background: #013243;
-    border: 1px solid #888;
+    background: #350142;
+    border: 1px solid rgb(247, 126, 201);
     margin-right: 0;
   }
   .PianoDarkTheme .ReactPiano__Key--active.ReactPiano__Key--accidental {
-    background: #0396ca;
+    background: #f717f7;
   }
   .PianoDarkTheme .ReactPiano__Key--active.ReactPiano__Key--natural {
-    background: #0396ca;
+    background: #9203ca;
   }
 
   .ReactPiano__NoteLabelContainer {
