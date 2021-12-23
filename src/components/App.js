@@ -5,6 +5,7 @@ import DataService from '../services/dataService';
 import DataContext from '../contexts/dataContext';
 import Desktop from './Desktop';
 import ReactGA from 'react-ga';
+import img from '../assets/interior.jpg';
 import {
   BrowserRouter as Router,
   Switch,
@@ -16,6 +17,9 @@ const dataService = new DataService();
 
 const BodyFontSizeOverride = createGlobalStyle`
   body{
+    background-image: url(${img}) !important;
+    background-repeat: no-repeat;
+  background-size: cover;
     font-size: 15px;
     -webkit-touch-callout:none;
     -webkit-user-select:none;
