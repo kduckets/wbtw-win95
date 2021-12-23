@@ -17,9 +17,11 @@ const dataService = new DataService();
 
 const BodyFontSizeOverride = createGlobalStyle`
   body{
-    background-image: url(${img}) !important;
+    background-image: url(${img});
     background-repeat: no-repeat;
-  background-size: cover;
+    background-size: 100% 100%; 
+    height: 100vh;
+
     font-size: 15px;
     -webkit-touch-callout:none;
     -webkit-user-select:none;
