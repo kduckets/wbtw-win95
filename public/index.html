@@ -11,39 +11,13 @@
     <meta property="og:url" content="https://webroketheweather.com/" />
     <meta property="og:image" content="https://webroketheweather.com/wbtw-midway.jpg" />
     <meta property="og:description" content="Fuzzy, proggy, mathy, jazzy, occasionally danceable, usually mad about something rock from Boston." /> 
-    <script src="smoke.js"></script>
-    <canvas id="canvas" style="position:absolute;display:block"></canvas>
-    <script>
-      var canvas = document.getElementById('canvas')
-      var ctx = canvas.getContext('2d')
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
-    
-      var party = SmokeMachine(ctx, [54, 16.8, 18.2])
-    
-      party.start() // start animating
-    
-      party.addSmoke(500,500,10) // wow we made smoke
-    
-      setInterval(function(){
-  
-    
-        // party.addSmoke(600,500,100)
-        party.addSmoke(500,800,20)
-    
-        for(var i=0;i<10;i++){
-          party.step(10) // pretend 10 ms pass and rerender
-        }
-    
-        setTimeout(function(){
-          party.start()
-        },2000)
-    
-      },1000)
-    </script>  
+
   </head>
   <body>
 
+
     <div id="root"></div>  
+ 
+  
   </body>
 </html>
