@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@bijection/smoke": "^1.0.2",
     "@react95/core": "^2.10.0",
     "@react95/icons": "^2.0.4",
     "@testing-library/jest-dom": "^4.2.4",

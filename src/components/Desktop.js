@@ -13,7 +13,6 @@ import Synth from './Synth/Synth';
 
 
 
-
 function Desktop() {
 
     const isMobile = window.innerWidth < 850;
@@ -98,10 +97,10 @@ function Desktop() {
         toggleSynth(true);
     };
 
-
     return (
         
         <React.Fragment>
+        
 
             <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
             {
