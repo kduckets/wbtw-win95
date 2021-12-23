@@ -19,7 +19,7 @@ const BodyFontSizeOverride = createGlobalStyle`
   body{
     background-image: url(${img});
     background-repeat: no-repeat;
-    background-size: 100% 100%; 
+    background-size: auto 100%; 
     height: 100vh;
 
     font-size: 15px;
