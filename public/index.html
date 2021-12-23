@@ -12,12 +12,12 @@
     <meta property="og:image" content="https://webroketheweather.com/wbtw-midway.jpg" />
     <meta property="og:description" content="Fuzzy, proggy, mathy, jazzy, occasionally danceable, usually mad about something rock from Boston." /> 
     <script src="smoke.js"></script>
-    <canvas id="canvas" style="position:absolute;"></canvas>
+    <canvas id="canvas" style="position:absolute;display:block"></canvas>
     <script>
       var canvas = document.getElementById('canvas')
       var ctx = canvas.getContext('2d')
-      canvas.width = 1000
-      canvas.height = 1000
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
     
       var party = SmokeMachine(ctx, [54, 16.8, 18.2])
     
@@ -26,8 +26,7 @@
       party.addSmoke(500,500,10) // wow we made smoke
     
       setInterval(function(){
-    
-        party.start() // stop animating
+  
     
         // party.addSmoke(600,500,100)
         party.addSmoke(500,800,20)
