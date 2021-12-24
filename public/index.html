@@ -24,20 +24,32 @@
 
       party.start()
     
-      party.addSmoke(500,600,10) 
-    
-
+      party.addSmoke(200,600,10) 
 
       ctx.globalCompositeOperation='destination-over'
     
-    
       setInterval(function(){
     
-        party.addSmoke(500,600,10) 
+        party.addSmoke(200,900,10) 
 
         ctx.globalCompositeOperation='destination-over'
     
-      },1000)
+      },2000)
+
+      setInterval(function(){
+    
+      party.addSmoke(600,800,10) 
+
+      ctx.globalCompositeOperation='destination-over'
+
+       },15000)
+
+      setInterval(function(){
+    
+    party.addSmoke(420,600,69) 
+
+      ctx.globalCompositeOperation='destination-over'
+      },20000)
     </script>
   </head>
   <body>
