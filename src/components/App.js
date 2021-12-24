@@ -49,9 +49,10 @@ const App = () => (
    <DataContext.Provider value={dataService}>
     <ThemeProvider>
       <GlobalStyle />
-      <BodyFontSizeOverride />
+   
       <Desktop />
     </ThemeProvider>
+    <BodyFontSizeOverride />
   </DataContext.Provider>
    </Route>
  </Switch>
