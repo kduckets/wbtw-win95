@@ -23,7 +23,7 @@ const BodyFontSizeOverride = createGlobalStyle`
     background-size: auto 100%; 
     height: 100vh;
 
-    font-size: 15px;
+    font-size: 15px !important;
     -webkit-touch-callout:none;
     -webkit-user-select:none;
     -khtml-user-select:none;
@@ -49,9 +49,8 @@ const App = () => (
    <DataContext.Provider value={dataService}>
     <ThemeProvider>
     <Desktop />
+    <BodyFontSizeOverride />
       <GlobalStyle />
-      <BodyFontSizeOverride />
-    
     </ThemeProvider>
   </DataContext.Provider>
    </Route>
