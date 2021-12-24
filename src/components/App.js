@@ -48,9 +48,10 @@ const App = () => (
    <Route exact path="/">
    <DataContext.Provider value={dataService}>
     <ThemeProvider>
+    <Desktop />
       <GlobalStyle />
       <BodyFontSizeOverride />
-      <Desktop />
+    
     </ThemeProvider>
   </DataContext.Provider>
    </Route>
