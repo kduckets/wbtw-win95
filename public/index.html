@@ -21,27 +21,27 @@
       canvas.height = window.innerHeight
     
       var party = SmokeMachine(ctx, [54, 16.8, 18.2])
+
+      party.start()
     
-      party.start() // start animating
-    
-      party.addSmoke(500,800,10) // wow we made smoke
+      party.addSmoke(500,800,10) 
     
       setInterval(function(){
     
-        party.stop() // stop animating
+        party.stop()
     
         party.addSmoke(600,800,100)
         party.addSmoke(500,800,20)
-    
+
         for(var i=0;i<10;i++){
-          party.step(10) // pretend 10 ms pass and rerender
-        }
+			party.step(10) // pretend 10 ms pass and rerender
+		    }
+
+		setTimeout(function(){
+			party.start()
+		},2000)
     
-        setTimeout(function(){
-          party.start()
-        },2000)
-    
-      },1000)
+      },10000)
     </script>
   </head>
   <body>
