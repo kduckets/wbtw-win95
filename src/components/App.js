@@ -14,8 +14,6 @@ import {
 } from "react-router-dom";
 import ErrorPage from '../pages/404';
 
-const dataService = new DataService();
-
 const BodyFontSizeOverride = createGlobalStyle`
   body{
     background-image: url(${img});
@@ -36,6 +34,8 @@ const BodyFontSizeOverride = createGlobalStyle`
     color: black !important;
   }
 `;
+
+const dataService = new DataService();
 
 ReactGA.initialize('G-M4C8FHNH82');
 
