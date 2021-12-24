@@ -27,18 +27,7 @@
     
       setInterval(function(){
     
-        party.stop()
-    
         party.addSmoke(500,800,10) 
-
-
-        for(var i=0;i<10;i++){
-			party.step(10) // pretend 10 ms pass and rerender
-		    }
-
-		setTimeout(function(){
-			party.start()
-		},2000)
     
       },1000)
     </script>
