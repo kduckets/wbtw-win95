@@ -1,8 +1,8 @@
 import React from 'react';
 import { createGlobalStyle } from 'styled-components';
 import { GlobalStyle, ThemeProvider } from '@react95/core';
-import img from '../assets/interior.jpg';
 import DataService from '../services/dataService';
+import img from '../assets/interior.jpg';
 import DataContext from '../contexts/dataContext';
 import Desktop from './Desktop';
 import ReactGA from 'react-ga';
