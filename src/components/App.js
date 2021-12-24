@@ -1,11 +1,12 @@
 import React from 'react';
+import img from '../assets/interior.jpg';
 import { GlobalStyle, ThemeProvider } from '@react95/core';
 import { createGlobalStyle } from 'styled-components';
 import DataService from '../services/dataService';
 import DataContext from '../contexts/dataContext';
 import Desktop from './Desktop';
 import ReactGA from 'react-ga';
-import img from '../assets/interior.jpg';
+
 import {
   BrowserRouter as Router,
   Switch,
