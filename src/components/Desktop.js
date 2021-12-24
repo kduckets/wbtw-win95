@@ -100,8 +100,6 @@ function Desktop() {
     return (
         
         <React.Fragment>
-        
-
             <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
             {
                 explorerOpened && (
@@ -139,7 +137,6 @@ function Desktop() {
                     title="system failure.exe"
                     type='error'
                     message="fatal error: weather broken"
-                    hasSound='true'
                     buttons={[{ value: 'OK', onClick: closeAlert }]}/>
                 )
             }
