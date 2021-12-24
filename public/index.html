@@ -12,8 +12,7 @@
     <meta property="og:image" content="https://webroketheweather.com/wbtw-midway.jpg" />
     <meta property="og:description" content="Fuzzy, proggy, mathy, jazzy, occasionally danceable, usually mad about something rock from Boston." /> 
     <script src="smoke.js"></script>
-    <canvas id="canvas" style="position:absolute;bottom: 1px;right: 1px;"></canvas>
-
+    <canvas id="canvas" style="position:absolute;bottom: 0px;right: 0px;"></canvas>
     <script>
       var canvas = document.getElementById('canvas')
       var ctx = canvas.getContext('2d')
@@ -41,11 +40,10 @@
 			party.start()
 		},2000)
     
-      },4200)
+      },1000)
     </script>
   </head>
   <body>
     <div id="root"></div>  
-
   </body>
 </html>
