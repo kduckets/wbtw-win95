@@ -29,7 +29,7 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, 
                     name="media_cd"
                     onClick={()=>startWebamp()}
                 />
-                <div>demos</div>
+                <div>music</div>
             </StyledShorcut>
             {
             items.map((item) => (

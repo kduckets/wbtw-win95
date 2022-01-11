@@ -1,8 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
-import { FaInstagram, FaFacebook, FaSoundcloud } from 'react-icons/fa'
+import { FaInstagram, FaFacebook, FaSoundcloud, FaBandcamp } from 'react-icons/fa'
 
-const Icons = { FaInstagram, FaFacebook, FaSoundcloud };
+const Icons = { FaInstagram, FaFacebook, FaSoundcloud, FaBandcamp };
 
 const StyledItem = styled.li`
     display: inline;
@@ -16,6 +16,12 @@ const StyledLink = styled.a`
 
 function About({ content }) {
     const social = [
+
+          {
+            name: 'FaBandcamp',
+            link: 'https://webroketheweather.bandcamp.com',
+          },
+        
          {
             name: 'FaSoundcloud',
             link: 'https://soundcloud.com/webroketheweather',
