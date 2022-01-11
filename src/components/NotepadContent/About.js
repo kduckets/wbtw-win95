@@ -42,7 +42,10 @@ function About({ content }) {
     return (
         <div>
             <h2>we broke the weather</h2>
-            <h4>album coming winter 2022</h4>
+            <h4>album coming feb 11, 2022</h4>
+            <a href="https://webroketheweather.bandcamp.com" target="_blank" rel="noopener noreferrer">
+            <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='50%' ></img>
+            </a>
             <small>
            
                  <p>wbtw is:</p> 
