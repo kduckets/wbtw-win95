@@ -5,7 +5,6 @@ import DataService from '../services/dataService';
 import img from '../assets/interior.jpg';
 import DataContext from '../contexts/dataContext';
 import Desktop from './Desktop';
-import ReactGA from 'react-ga';
 
 import {
   BrowserRouter as Router,
@@ -37,7 +36,6 @@ const BodyFontSizeOverride = createGlobalStyle`
 
 const dataService = new DataService();
 
-ReactGA.initialize('G-M4C8FHNH82');
 
 const App = () => (
 <Router>
