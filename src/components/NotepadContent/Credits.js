@@ -11,6 +11,8 @@ function Credits({ content }) {
            
                    <p>react95 - <a href='https://github.com/React95/React95' target='_blank' rel="noopener noreferrer">https://github.com/React95/React95</a></p>
                   
+                   <p>webamp - <a href='https://github.com/captbaritone/webamp' target='_blank' rel="noopener noreferrer">https://github.com/captbaritone/webamp</a></p>
+
                    <p>jspaint - <a href='https://github.com/1j01/jspaint' target='_blank' rel="noopener noreferrer">https://github.com/1j01/jspaint</a></p>
                  
                    <p>minesweeper - <a href='https://github.com/oL-web/react-minesweeper' target='_blank' rel="noopener noreferrer">https://github.com/oL-web/react-minesweeper</a></p>
