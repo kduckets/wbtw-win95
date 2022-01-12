@@ -15,7 +15,7 @@ export default class DataService {
       {
         id: 'merch',
         name: 'merch',
-        icon: 'mmsys_90',
+        icon: 'progman_30',
       },
       {
         id: 'credits',
