@@ -3,6 +3,7 @@ import DataContext from '../../contexts/dataContext'
 import About from './About'
 import Shows from './Shows'
 import Merch from './Merch'
+import Credits from './Credits'
 
 
 function ContentFactory({ id, isMobile }) {
@@ -25,6 +26,8 @@ function ContentFactory({ id, isMobile }) {
             return <Shows content={item.content} />
         case 'merch':
             return <Merch content={item.content} />
+        case 'credits':
+            return <Credits content={item.content} />
         default:
             return (<div></div>);
     }

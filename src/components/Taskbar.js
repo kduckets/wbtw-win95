@@ -4,7 +4,7 @@ import '@react95/icons/icons.css';
 import { NavLink } from "react-router-dom";
 
 
-function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
+function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth, openNotepad}) {
     return (
     
         <TaskBar
@@ -15,11 +15,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
             
                   <List>
             
-                    <List.Item icon="folder_exe">
+                    {/* <List.Item icon="folder_exe">
             
                       Accessories
             
-                    </List.Item>
+                    </List.Item> */}
 
 
                     <List.Item icon="mspaint" onClick={() => openPaint()}>
@@ -35,11 +35,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
             
                     </List.Item>
             
-                    <List.Item icon="ms_dos">
+                    {/* <List.Item icon="ms_dos">
             
                       MS-DOS Prompt
             
-                    </List.Item>
+                    </List.Item> */}
             
                     <List.Item icon="joy_102" onClick={() => openFloppy()}>
             
@@ -47,11 +47,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
             
                     </List.Item>
             
-                    <List.Item icon="windows_explorer"  onClick={() => openExplorer()}>
+                    {/* <List.Item icon="windows_explorer"  onClick={() => openExplorer()}>
             
                       Windows Explorer
             
-                    </List.Item>
+                    </List.Item> */}
             
                   </List>
             
@@ -59,7 +59,9 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
             
                 </List.Item>
             
-                <List.Item icon="folder_file">Documents</List.Item>
+                <List.Item icon="folder_file" onClick={() => openExplorer()}>
+                  Documents
+                  </List.Item>
             
                 <List.Item icon="settings">
             
@@ -71,11 +73,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
             
                     </List.Item>
             
-                    <List.Item icon="folder_print">
+                    {/* <List.Item icon="folder_print">
             
                       Printers
             
-                    </List.Item>
+                    </List.Item> */}
             
                   </List>
             
@@ -83,9 +85,14 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth}) {
             
                 </List.Item>
             
-                <List.Item icon="file_find">Find</List.Item>
+                {/* <List.Item icon="file_find">Find</List.Item> */}
+
             
-                <List.Item icon="help_book">Help</List.Item>
+                <List.Item icon="help_book" onClick={() => openNotepad({
+                id: 'credits',
+                name: 'credits',
+                icon: 'mmsys_90',
+                 })}>Help</List.Item>
             
                 <List.Item icon="loader_bat">Run...</List.Item>
             

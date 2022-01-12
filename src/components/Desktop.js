@@ -141,7 +141,7 @@ function Desktop() {
                 )
             }
             <Player />
-            <Taskbar openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
+            <Taskbar openExplorer={openExplorer} openMine={openMine}  openNotepad={openNotepad} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
         </React.Fragment>
         
     )

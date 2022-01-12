@@ -17,7 +17,12 @@ export default class DataService {
         name: 'merch',
         icon: 'mmsys_90',
       },
-      
+      {
+        id: 'credits',
+        name: 'credits',
+        icon: 'shell32_21',
+      },
+       
     ],
     }
 
