@@ -6,10 +6,10 @@ function Credits({ content }) {
     return (
         <div>
             <h2>credits</h2>
-            <p>this website made possible by:</p> 
+            <h4>this website made possible by:</h4> 
             <small>
            
-                   <p>windows 95 react theme - <a href='https://github.com/React95/React95' target='_blank' rel="noopener noreferrer">https://github.com/React95/React95</a></p>
+                   <p>react95 - <a href='https://github.com/React95/React95' target='_blank' rel="noopener noreferrer">https://github.com/React95/React95</a></p>
                   
                    <p>jspaint - <a href='https://github.com/1j01/jspaint' target='_blank' rel="noopener noreferrer">https://github.com/1j01/jspaint</a></p>
                  
