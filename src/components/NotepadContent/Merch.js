@@ -11,10 +11,13 @@ function Merch({ content }) {
     <hr></hr>
             <h3>eco wallet compact disc</h3>  
             <p>CD comes in 100% plastic-free eco wallet gatefold</p>
+           
             <a href="https://webroketheweather.bandcamp.com" target="_blank" rel="noopener noreferrer">
             <img src='/cd.jpg' alt='wbtw-cd' width='90%' ></img>
             </a>
-          <br/>
+            <p>
+            <a href="https://webroketheweather.bandcamp.com" target="_blank" rel="noopener noreferrer"><button>pre-order on bandcamp</button></a>
+            </p>
           <br/>
             <hr></hr>
       
