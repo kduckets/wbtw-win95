@@ -37,7 +37,7 @@ function Floppy({ closeFloppy, isMobile }) {
                 <iframe
         src="https://floppy-box.vercel.app/tunes/demos"
         frameBorder="0"
-        title="paint"
+        title="floppy"
         style={{
           display: 'block',
           width: '100%',
