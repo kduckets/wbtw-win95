@@ -1,8 +1,15 @@
 import React from 'react'
 import { TaskBar, List } from '@react95/core'
+import styled from 'styled-components'
 import '@react95/icons/icons.css';
 import { NavLink } from "react-router-dom";
 
+const HideMobile = styled.div`
+@media (max-width: 767px) {
+  
+    display: none;
+  }
+`;
 
 function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth, openNotepad}) {
     return (
@@ -40,12 +47,13 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth, open
                       MS-DOS Prompt
             
                     </List.Item> */}
-            
+                    <HideMobile>
                     <List.Item icon="joy_102" onClick={() => openFloppy()}>
-            
+                  
                       Floppy Box
             
                     </List.Item>
+                    </HideMobile>
             
                     {/* <List.Item icon="windows_explorer"  onClick={() => openExplorer()}>
             
