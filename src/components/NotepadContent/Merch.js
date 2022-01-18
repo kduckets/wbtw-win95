@@ -18,7 +18,6 @@ function Merch({ content }) {
             <p>
             <a href="https://webroketheweather.bandcamp.com" target="_blank" rel="noopener noreferrer"><button>pre-order on bandcamp</button></a>
             </p>
-          <br/>
             <hr></hr>
       
           <h3>t-shirts</h3>
