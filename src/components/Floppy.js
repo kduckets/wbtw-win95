@@ -22,10 +22,8 @@ function Floppy({ closeFloppy, isMobile }) {
             title="floppy box.exe"
             closeModal={closeFloppy}
             style={{
-                left: isMobile ? '5%' : '5%',
-                top: '5%',
-                width: isMobile ? '90%' : '80%',
-                height: isMobile ? '86%' : '90%'
+                width: '80%',
+                height: '90%'
             }}
             buttons={[
 
@@ -37,12 +35,13 @@ function Floppy({ closeFloppy, isMobile }) {
                 <iframe
         src="https://floppy-box.vercel.app/tunes/demos"
         frameBorder="0"
-        title="paint"
+        title="floppy"
         style={{
           display: 'block',
-          width: '100%',
-          height: isMobile ? '60vh' : '80vh',
+          width: '90%',
+          height: '80vh',
           backgroundColor: 'rgb(192,192,192)',
+          position:'absolute'
         }}
       />
                 </Wrapper>
