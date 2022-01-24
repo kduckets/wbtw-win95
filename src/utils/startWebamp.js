@@ -10,7 +10,7 @@ const startWebamp = () => {
                     title: "llama whippin' intro"
                 },
                 url: `${process.env.PUBLIC_URL}/llama-2.91.mp3`,
-                duration: 213
+                duration: 12
             },
             {
                 metaData: {
@@ -18,8 +18,16 @@ const startWebamp = () => {
                    title: "Through the Wall"
                },
                url: `${process.env.PUBLIC_URL}/01 Through the Wall.mp3`,
-               duration: 213
-           }
+               duration: 332
+           },
+           {
+            metaData: {
+               artist: "we broke the weather",
+               title: "Rot King"
+           },
+           url: `${process.env.PUBLIC_URL}/02 Rot King.mp3`,
+           duration: 410
+       },
             //     {
                 
             //     metaData: {
