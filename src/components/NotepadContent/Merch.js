@@ -25,11 +25,23 @@ function Merch({ content }) {
           <h3>t-shirts</h3>
           <p>Wish your friends said “hey, cool tshirt” more often? Try this one.</p>  
           <a href="https://webroketheweather.bandcamp.com/merch/rot-king-t-shirt?campaign=website" target="_blank" rel="noopener noreferrer">
-            <img src='/t-shirt.jpg' alt='wbtw-cd' width='90%' ></img>
+            <img src='/t-shirt.jpg' alt='wbtw-tshirt' width='90%' ></img>
             </a>
             <h4>$20</h4>
             <p>
             <a href="https://webroketheweather.bandcamp.com/merch/rot-king-t-shirt?campaign=website" target="_blank" rel="noopener noreferrer"><button>pre-order on bandcamp</button></a>
+            </p>
+          <br/>
+          <br/>
+            <hr></hr>
+            <h3>sticker pack</h3>
+          <p>Who doesn't love shiny stickers?</p>  
+          <a href="https://webroketheweather.bandcamp.com/merch/wbtw-vinyl-sticker-pack?campaign=website" target="_blank" rel="noopener noreferrer">
+            <img src='/fire sticker.jpg' alt='wbtw-fire-sticker' width='90%' ></img>
+            </a>
+            <h4>$5</h4>
+            <p>
+            <a href="https://webroketheweather.bandcamp.com/merch/wbtw-vinyl-sticker-pack?campaign=website" target="_blank" rel="noopener noreferrer"><button>pre-order on bandcamp</button></a>
             </p>
           <br/>
           <br/>
