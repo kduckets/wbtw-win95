@@ -23,7 +23,7 @@ function Merch({ content }) {
             <hr></hr>
       
           <h3>t-shirts</h3>
-          <p>Wish your friends said “Hey, cool tshirt” more often? Try this one.</p>  
+          <p>Wish your friends said “hey, cool tshirt” more often? Try this one.</p>  
           <a href="https://webroketheweather.bandcamp.com/merch/rot-king-t-shirt" target="_blank" rel="noopener noreferrer">
             <img src='/t-shirt.jpg' alt='wbtw-cd' width='90%' ></img>
             </a>
