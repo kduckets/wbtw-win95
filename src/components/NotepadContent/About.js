@@ -42,10 +42,25 @@ function About({ content }) {
     return (
         <div>
             <h2>we broke the weather</h2>
+
             <h4>album coming feb 11, 2022</h4>
             <a href="https://webroketheweather.bandcamp.com?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='50%' ></img>
             </a>
+            <p>
+            {
+                    social.map((s, idx) => {
+                        const Icon = Icons[s.name];
+                        return (
+                            <StyledItem key={idx}>
+                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
+                                    <Icon />
+                                </StyledLink>
+                            </StyledItem>
+                        );
+                    })
+                }
+                </p>
             <small>
            
                  <p>wbtw is:</p> 
@@ -68,18 +83,7 @@ function About({ content }) {
            
                   </small>
           
-                {
-                    social.map((s, idx) => {
-                        const Icon = Icons[s.name];
-                        return (
-                            <StyledItem key={idx}>
-                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
-                                    <Icon />
-                                </StyledLink>
-                            </StyledItem>
-                        );
-                    })
-                }
+  
             <div>
                 <br/>
         

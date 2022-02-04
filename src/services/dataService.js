@@ -8,14 +8,14 @@ export default class DataService {
         icon: 'info_bubble',
       },
       {
-        id: 'shows',
-        name: 'shows',
-        icon: 'flying_through_space_100',
-      },
-      {
         id: 'merch',
         name: 'merch',
         icon: 'progman_30',
+      },
+      {
+        id: 'shows',
+        name: 'shows',
+        icon: 'flying_through_space_100',
       },
       {
         id: 'credits',

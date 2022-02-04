@@ -15,14 +15,7 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, 
 
     return (
         <div>
-             {/* <StyledShorcut>
-                <Icon
-                    className="pointer"
-                    name="explorer_100"
-                    onClick={() => openExplorer()}
-                />
-                <div>my computer</div>
-            </StyledShorcut> */}
+
             <StyledShorcut>
                 <Icon
                     className="pointer"
@@ -30,7 +23,9 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, 
                     onClick={()=>startWebamp()}
                 />
                 <div>music</div>
-            </StyledShorcut>
+            </StyledShorcut> 
+     
+     
             {
             items.map((item) => (
              <StyledShorcut key={item.id}>
@@ -42,8 +37,8 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, 
                     <div>{item.name}</div>
             </StyledShorcut>
                 ))
-            }     
-     
+            }    
+   
        
         </div>
     )
