@@ -19,7 +19,7 @@ function About({ content }) {
 
           {
             name: 'FaBandcamp',
-            link: 'https://webroketheweather.bandcamp.com',
+            link: 'https://webroketheweather.bandcamp.com?campaign=website',
           },
         
          {
@@ -43,7 +43,7 @@ function About({ content }) {
         <div>
             <h2>we broke the weather</h2>
             <h4>album coming feb 11, 2022</h4>
-            <a href="https://webroketheweather.bandcamp.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://webroketheweather.bandcamp.com?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='50%' ></img>
             </a>
             <small>
