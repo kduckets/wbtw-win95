@@ -27,11 +27,6 @@ function Credits({ content }) {
               <br/>
               <br/>
 
-              <iframe 
-            title="test"
-   
-            src="https://bandcamp.com/EmbeddedPlayer/album=1268013263/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/tracklist=true/tracks=1296694815,1699230572,594869779,3463374792,750574493,1667196910,1164474800,2879280594,499855469,2778579404/esig=b431f9078930b79c12c7f282e4236797/" seamless>
-                <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather">we broke the weather by we broke the weather</a></iframe>
 
         </div>
 
