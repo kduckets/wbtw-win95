@@ -12,7 +12,7 @@ function Shows({ content }) {
             <small>
         
       
-            <p>spring dates coming soon</p>
+            <p>spring show dates coming soon</p>
      
                  
            
