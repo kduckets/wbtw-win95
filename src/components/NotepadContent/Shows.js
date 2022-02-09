@@ -12,9 +12,8 @@ function Shows({ content }) {
             <small>
         
       
-            <p>October 2, 2021  -  Porchfest</p>
-            <p><i>15 Albion St. Somerville, MA</i></p>
-            <p><i>2 - 4 pm</i></p>
+            <p>spring dates coming soon</p>
+     
                  
            
              </small>
