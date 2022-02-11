@@ -45,20 +45,7 @@ function About({ content }) {
             </a> 
             <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
        
-            <p>
-            {
-                    social.map((s, idx) => {
-                        const Icon = Icons[s.name];
-                        return (
-                            <StyledItem key={idx}>
-                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
-                                    <Icon />
-                                </StyledLink>
-                            </StyledItem>
-                        );
-                    })
-                }
-                </p>
+ 
                  
             <small>
            
@@ -74,9 +61,22 @@ function About({ content }) {
 
                    <p>kev - guitar/loud noises</p></i>
 
-
-
+                
                    <p><a className="email" href="mailto:webroketheweather@gmail.com">webroketheweather@gmail.com</a></p>
+                   <p>
+            {
+                    social.map((s, idx) => {
+                        const Icon = Icons[s.name];
+                        return (
+                            <StyledItem key={idx}>
+                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
+                                    <Icon />
+                                </StyledLink>
+                            </StyledItem>
+                        );
+                    })
+                }
+                </p>
 
            
                   </small>
