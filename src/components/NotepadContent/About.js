@@ -37,13 +37,13 @@ function About({ content }) {
     return (
         <div>
            
+           <h2>we broke the weather</h2>
 
          
             <a href="https://webroketheweather.bandcamp.com?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='100%' ></img>
             </a> 
             <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
-            <h2>we broke the weather</h2>
             <h3>debut album out now!</h3>
             <p>
             {
