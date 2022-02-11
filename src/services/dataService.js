@@ -9,17 +9,17 @@ export default class DataService {
       },
       {
         id: 'merch',
-        name: 'merch',
+        name: 'merch.txt',
         icon: 'progman_30',
       },
       {
         id: 'shows',
-        name: 'shows',
+        name: 'shows.txt',
         icon: 'flying_through_space_100',
       },
       {
         id: 'credits',
-        name: 'credits',
+        name: 'credits.txt',
         icon: 'shell32_21',
       },
        
