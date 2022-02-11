@@ -6,7 +6,7 @@ const Icons = { FaInstagram, FaFacebook, FaBandcamp };
 
 const StyledItem = styled.li`
     display: inline;
-    font-size: 28px;
+    font-size: 32px;
     margin-left: 10px;
 `
 
@@ -45,6 +45,21 @@ function About({ content }) {
             <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
             <h2>we broke the weather</h2>
             <h3>debut album out now</h3>
+            <p>
+            {
+                    social.map((s, idx) => {
+                        const Icon = Icons[s.name];
+                        return (
+                            <StyledItem key={idx}>
+                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
+                                    <Icon />
+                                </StyledLink>
+                            </StyledItem>
+                        );
+                    })
+                }
+                </p>
+                 
             <small>
            
                  <p>wbtw is:</p> 
@@ -62,21 +77,7 @@ function About({ content }) {
 
 
                    <p><a className="email" href="mailto:webroketheweather@gmail.com">webroketheweather@gmail.com</a></p>
-                   <p>
-            {
-                    social.map((s, idx) => {
-                        const Icon = Icons[s.name];
-                        return (
-                            <StyledItem key={idx}>
-                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
-                                    <Icon />
-                                </StyledLink>
-                            </StyledItem>
-                        );
-                    })
-                }
-                </p>
-                 
+
            
                   </small>
           
