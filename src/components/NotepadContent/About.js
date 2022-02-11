@@ -1,12 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
-import { FaInstagram, FaFacebook, FaSoundcloud, FaBandcamp } from 'react-icons/fa'
+import { FaInstagram, FaFacebook, FaBandcamp } from 'react-icons/fa'
 
-const Icons = { FaInstagram, FaFacebook, FaSoundcloud, FaBandcamp };
+const Icons = { FaInstagram, FaFacebook, FaBandcamp };
 
 const StyledItem = styled.li`
     display: inline;
-    font-size: 20px;
+    font-size: 28px;
     margin-left: 10px;
 `
 
@@ -20,11 +20,6 @@ function About({ content }) {
           {
             name: 'FaBandcamp',
             link: 'https://webroketheweather.bandcamp.com?campaign=website',
-          },
-        
-         {
-            name: 'FaSoundcloud',
-            link: 'https://soundcloud.com/webroketheweather',
           },
           {
             name: 'FaInstagram',
@@ -43,24 +38,12 @@ function About({ content }) {
         <div>
             <h2>we broke the weather</h2>
 
-            <h4>album coming feb 11, 2022</h4>
+            {/* <h4>debut album out now!</h4> */}
             <a href="https://webroketheweather.bandcamp.com?campaign=website" target="_blank" rel="noopener noreferrer">
-            <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='50%' ></img>
-            </a>
-            <p>
-            {
-                    social.map((s, idx) => {
-                        const Icon = Icons[s.name];
-                        return (
-                            <StyledItem key={idx}>
-                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
-                                    <Icon />
-                                </StyledLink>
-                            </StyledItem>
-                        );
-                    })
-                }
-                </p>
+            <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='60%' ></img>
+            </a> 
+            <iframe title="wbtw-streams" width="60%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+ 
             <small>
            
                  <p>wbtw is:</p> 
@@ -75,10 +58,23 @@ function About({ content }) {
 
                    <p>kev - guitar/loud noises</p></i>
 
-           
-                 
+
 
                    <p><a className="email" href="mailto:webroketheweather@gmail.com">webroketheweather@gmail.com</a></p>
+                   <p>
+            {
+                    social.map((s, idx) => {
+                        const Icon = Icons[s.name];
+                        return (
+                            <StyledItem key={idx}>
+                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
+                                    <Icon />
+                                </StyledLink>
+                            </StyledItem>
+                        );
+                    })
+                }
+                </p>
                  
            
                   </small>
