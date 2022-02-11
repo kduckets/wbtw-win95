@@ -10,9 +10,9 @@ function Notepad({ closeNotepad, selectedItem, isMobile }) {
             closeModal={closeNotepad}
             buttons={[{ value: "Close", onClick: closeNotepad }]}
             style={{
-                left: isMobile ? '5%' : '50%',
-                top: isMobile ? '3%' : '15%',
-                width: isMobile ? '90%' : 450,
+                left: isMobile ? '5%' : '30%',
+                top: isMobile ? '3%' : '5%',
+                width: isMobile ? '90%' : 450
             }}
             menu={[
                 { name: 'File', list: [] },
@@ -25,7 +25,7 @@ function Notepad({ closeNotepad, selectedItem, isMobile }) {
                 padding={20}
                 style={{
 					overflowY: "auto",
-					maxHeight: "60vh",
+					maxHeight: "69vh",
 				}}
             >
             <ContentFactory id={selectedItem.id} isMobile={isMobile} />
