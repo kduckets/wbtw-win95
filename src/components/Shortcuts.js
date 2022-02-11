@@ -34,7 +34,7 @@ function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, 
                 name={item.icon}
                 onClick={() => openNotepad(item)}
                      />
-                    <div>{item.name}</div>
+                    <div>{item.name.replace(".txt","") }</div>
             </StyledShorcut>
                 ))
             }    
