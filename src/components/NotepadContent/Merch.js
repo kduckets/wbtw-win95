@@ -17,7 +17,7 @@ function Merch({ content }) {
             </a>
             <h4>$10</h4>
             <p>
-            <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer"><button>pre-order on bandcamp</button></a>
+            <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer"><button>order on bandcamp</button></a>
             </p>
           <br/>
             <hr></hr>
@@ -29,7 +29,7 @@ function Merch({ content }) {
             </a>
             <h4>$20</h4>
             <p>
-            <a href="https://webroketheweather.bandcamp.com/merch/rot-king-t-shirt?campaign=website" target="_blank" rel="noopener noreferrer"><button>pre-order on bandcamp</button></a>
+            <a href="https://webroketheweather.bandcamp.com/merch/rot-king-t-shirt?campaign=website" target="_blank" rel="noopener noreferrer"><button>order on bandcamp</button></a>
             </p>
           <br/>
           <br/>
@@ -41,7 +41,7 @@ function Merch({ content }) {
             </a>
             <h4>$5</h4>
             <p>
-            <a href="https://webroketheweather.bandcamp.com/merch/wbtw-vinyl-sticker-pack?campaign=website" target="_blank" rel="noopener noreferrer"><button>pre-order on bandcamp</button></a>
+            <a href="https://webroketheweather.bandcamp.com/merch/wbtw-vinyl-sticker-pack?campaign=website" target="_blank" rel="noopener noreferrer"><button>order on bandcamp</button></a>
             </p>
           <br/>
           <br/>
