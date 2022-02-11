@@ -25,7 +25,7 @@ function Notepad({ closeNotepad, selectedItem, isMobile }) {
                 padding={20}
                 style={{
 					overflowY: "auto",
-					maxHeight: "69vh",
+					maxHeight: isMobile ? '60vh' : '72vh'
 				}}
             >
             <ContentFactory id={selectedItem.id} isMobile={isMobile} />
