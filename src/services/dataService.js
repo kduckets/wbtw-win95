@@ -4,7 +4,7 @@ export default class DataService {
     items: [
       {
         id: 'about',
-        name: 'about',
+        name: 'wbtw.txt',
         icon: 'info_bubble',
       },
       {

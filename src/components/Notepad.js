@@ -6,7 +6,7 @@ function Notepad({ closeNotepad, selectedItem, isMobile }) {
     return (
         <Modal
             icon="notepad"
-            title={`notepad - ${selectedItem.name}`}
+            title={`${selectedItem.name}`}
             closeModal={closeNotepad}
             buttons={[{ value: "Close", onClick: closeNotepad }]}
             style={{
