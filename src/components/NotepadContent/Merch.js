@@ -35,7 +35,7 @@ function Merch({ content }) {
           <br/>
             <hr></hr>
             <h3>sticker pack</h3>
-          <p>grab some for your stickerless surfaces</p>  
+          <p>grab some stickers for your stickerless surfaces</p>  
           <a href="https://webroketheweather.bandcamp.com/merch/wbtw-vinyl-sticker-pack?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/fire sticker.jpg' alt='wbtw-fire-sticker' width='90%' ></img>
             </a>
