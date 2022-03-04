@@ -46,10 +46,14 @@ function Merch({ content }) {
           <br/>
           <br/>
             <hr></hr>
-            <div>
-                <br/>
+            <br/>
        
-              <br/>
+       <br/>
+            <small><i>In an effort to play some small role in contributing to much needed solutions, we broke the weather is donating a portion of all 
+              album and merch proceeds to the  <a href="https://www.climateemergencyfund.org/" 
+              target="_blank" rel="noopener noreferrer">Climate Emergency Fund</a>, a fantastic eNGO that funds "young, ultra-ambitious organizations that tell the truth about the climate emergency, disrupt normalcy, organize mass protests, and demand transformative change." Thanks for caring and supporting this important work!</i></small>
+            <div>
+
               <br/>
               </div>  
 
