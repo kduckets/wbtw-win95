@@ -85,7 +85,7 @@ function About({ content }) {
             <div>
                 <br/>
         
-            <a href="https://membership.onlineaction.org/site/Donation2?df_id=19284&19284.donation=form1&addl_info=nav-button&conversion_pg=www.edf.org%2F&_ga=2.192113130.1549475860.1607045714-634390749.1607045714" 
+            <a href="https://www.climateemergencyfund.org/" 
               target="_blank" rel="noopener noreferrer">
               <button><small>fix the weather</small></button>
               </a>
