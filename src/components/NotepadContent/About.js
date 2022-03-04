@@ -87,7 +87,7 @@ function About({ content }) {
         
             <a href="https://www.climateemergencyfund.org/" 
               target="_blank" rel="noopener noreferrer">
-              <button><small>fix the weather</small></button>
+              <button>fix the weather</button>
               </a>
               <br/>
               <br/>
