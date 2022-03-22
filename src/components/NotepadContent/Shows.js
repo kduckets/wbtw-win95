@@ -10,9 +10,11 @@ function Shows({ content }) {
             <h2>we broke the weather</h2>
             <h3>live, in concert!</h3>
             <small>
-        
-            {/* <p>4/21/22 - <a href='https://www.thejunglemusicclub.com/' target='_blank' rel="noopener noreferrer">The Jungle</a> <i>Somerville, MA</i></p> */}
-            <p>spring '22 show dates coming soon</p>
+         
+            <p><b>4.14.22 </b> &nbsp;Ralph's Rock Diner - Worcester, MA  <a href='https://fb.me/e/4v1erneLT' target='_blank' rel="noopener noreferrer"> &nbsp;(more info)</a></p>
+            <p><b>5.14.22 </b> &nbsp;Porchfest - Somerville, MA  <a href='https://somervilleartscouncil.org/porchfest' target='_blank' rel="noopener noreferrer"> &nbsp;(more info)</a></p>
+
+            <p><i>more spring '22 show dates coming soon</i></p>
      
                  
            
