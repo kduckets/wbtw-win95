@@ -19,7 +19,7 @@ function Shows({ content }) {
             <p><b>5.31.22 </b> &nbsp;O'Brien's Pub - Allston, MA <a href='https://obrienspubboston.com/' target='_blank' rel="noopener noreferrer"> <small>(info)</small></a></p>
             <p><small><i>w/ Bad Larrys and Me in Capris</i></small></p>
 
-            <img alt='wbtw-live' src='https://webroketheweather.com/wbtw-midway.jpg' style={{width:'90%'}}/>
+            <img alt='wbtw-live' src='https://webroketheweather.com/wbtw-midway.jpg' style={{width:'100%'}}/>
 
      
                  
