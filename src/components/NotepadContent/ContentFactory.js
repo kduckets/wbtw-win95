@@ -4,7 +4,7 @@ import About from './About'
 import Shows from './Shows'
 import Merch from './Merch'
 import Credits from './Credits'
-
+import Videos from './Videos'
 
 function ContentFactory({ id, isMobile }) {
     const data = useContext(DataContext);
@@ -20,12 +20,15 @@ function ContentFactory({ id, isMobile }) {
     }
 
     switch (item.id) {
-        case 'about':
-            return <About content={item.content} />
+     
         case 'shows':
             return <Shows content={item.content} />
         case 'merch':
             return <Merch content={item.content} />
+        case 'videos':
+            return <Videos content={item.content} />
+        case 'about':
+            return <About content={item.content} />
         case 'credits':
             return <Credits content={item.content} />
         default:
