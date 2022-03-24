@@ -9,20 +9,22 @@ function Shows({ content }) {
         <div>
             <h2>we broke the weather</h2>
             <h3>live, in concert!</h3>
-            <small>
-         
-            <p><b>4.14.22 </b> &nbsp;Ralph's Rock Diner - Worcester, MA <a href='https://fb.me/e/4v1erneLT' target='_blank' rel="noopener noreferrer"> (more info)</a></p>
-            <p><i>with T & the Wrecks, Bass Sabbath, and Allison & Moon</i></p>
-            <p><b>5.14.22 </b> &nbsp;Porchfest - Somerville, MA <a href='https://somervilleartscouncil.org/porchfest' target='_blank' rel="noopener noreferrer"> (more info)</a></p>
-            <p><b>5.31.22 </b> &nbsp;O'Brien's Pub - Allston, MA <a href='https://obrienspubboston.com/' target='_blank' rel="noopener noreferrer"> (more info)</a></p>
-            <p><i>with Bad Larrys and Me in Capris</i></p>
 
-            <br/>
-            <p><i>more spring '22 show dates coming soon</i></p>
+            <p><b>4.14.22 </b> &nbsp;Ralph's Rock Diner - Worcester, MA <a href='https://fb.me/e/4v1erneLT' target='_blank' rel="noopener noreferrer"> <small>(info)</small></a></p>
+            <p><small><i>w/ Bass Sabbath, T & the Wrecks, and Allison & Moon</i></small></p>
+            <p><b>4.21.22 </b> &nbsp;The Jungle - Somerville, MA <a href='https://www.facebook.com/events/639047397192438' target='_blank' rel="noopener noreferrer"> <small>(info)</small></a></p>
+            <p><small><i>w/ Blacktop Strut, The Love Shamans, and Desperate Electric</i></small></p>
+            <p><b>5.14.22 </b> &nbsp;Porchfest - Somerville, MA <a href='https://somervilleartscouncil.org/node/48180' target='_blank' rel="noopener noreferrer"> <small>(info)</small></a></p>
+            <p><small><i>w/ every band in the Somerville vicinity</i></small></p>
+            <p><b>5.31.22 </b> &nbsp;O'Brien's Pub - Allston, MA <a href='https://obrienspubboston.com/' target='_blank' rel="noopener noreferrer"> <small>(info)</small></a></p>
+            <p><small><i>w/ Bad Larrys and Me in Capris</i></small></p>
+
+            <img alt='wbtw-live' src='https://webroketheweather.com/wbtw-midway.jpg' style={{width:'90%'}}/>
+
      
                  
            
-             </small>
+        
           
             <div>
                 <br/>
