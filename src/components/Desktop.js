@@ -101,6 +101,16 @@ function Desktop() {
         
         <React.Fragment>
             <Shortcuts items={items} openNotepad={openNotepad} openExplorer={openExplorer} openMine={openMine} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
+            
+            {
+                alertOpened && (
+                    <Alert closeAlert={closeAlert} selectedItem={selectedItem} isMobile={isMobile} 
+                    title="system failure.exe"
+                    type='error'
+                    message="fatal error: weather broken"
+                    buttons={[{ value: 'OK', onClick: closeAlert }]}/>
+                )
+            }
             {
                 explorerOpened && (
                     <Explorer items={items} closeExplorer={closeExplorer} openNotepad={openNotepad} isMobile={isMobile} />
@@ -131,15 +141,7 @@ function Desktop() {
                     <Synth closeSynth={closeSynth} selectedItem={selectedItem} isMobile={isMobile} />
                 )
             }
-                {
-                alertOpened && (
-                    <Alert closeAlert={closeAlert} selectedItem={selectedItem} isMobile={isMobile} 
-                    title="system failure.exe"
-                    type='error'
-                    message="fatal error: weather broken"
-                    buttons={[{ value: 'OK', onClick: closeAlert }]}/>
-                )
-            }
+       
             <Player />
             <Taskbar openExplorer={openExplorer} openMine={openMine}  openNotepad={openNotepad} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
         </React.Fragment>
