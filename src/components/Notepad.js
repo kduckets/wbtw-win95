@@ -22,7 +22,10 @@ function Notepad({ closeNotepad, selectedItem, isMobile }) {
                 bg="white"
                 boxShadow="in"
                 height="100%"
-                padding={20}
+                paddingLeft={20}
+                paddingRight={20}
+                paddingBottom={20}
+                paddingTop={4}
                 style={{
 					overflowY: "auto",
 					maxHeight: isMobile ? '60vh' : '72vh'
