@@ -15,20 +15,31 @@ function Shows({ content }) {
             <p><b>4.14.22 // Worcester, MA</b> <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Ralph's Rock Diner <br/>
             <small><i>Bass Sabbath, T & the Wrecks, and Allison & Moon</i></small></p>
             <p><b>4.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/639047397192438' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>The Jungle <br/>
-            <small><i>The Love Shamans and Desperate Electric</i></small></p>
+            <small><i>Le Couteau, The Love Shamans and Desperate Electric</i></small></p>
+            <p><b>4.27.22 // Providence, RI</b> <a href='http://duskprovidence.com/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Dusk <br/>
+            <small><i>Chimp Jaw and Feep</i></small></p>
             <p><b>5.14.22 // Somerville, MA</b> <a href='https://somervilleartscouncil.org/node/48180' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Porchfest <br/>
            </p>
-            <p><b>5.31.22 // Allston, MA</b><a href='https://fb.me/e/1o5ayh2Ty' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a> <br/>O'Brien's Pub<br/>
+            <p><b>5.31.22 // Allston, MA</b><a href='https://www.facebook.com/events/1123949811738104/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a> <br/>O'Brien's Pub<br/>
             <small><i>Bad Larrys and Me in Capris</i></small></p>
             <br/>
-            {/* <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-ralphs' src='/ralphs-poster.jpg' style={{width:'50%'}}/>
+            <hr class="rounded"></hr> 
+            <br/>
+            <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-ralphs' src='/ralphs-poster.jpg' style={{width:'100%'}}/>
             </a>
-            <a href='https://fb.me/e/1o5ayh2Ty' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-obriens' src='/obriens-poster.png' style={{width:'50%'}}/>
-            </a> */}
+            <br/>
+            <br/>
+            <a href='http://duskprovidence.com/' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-dusk' src='/dusk-poster.jpg' style={{width:'100%'}}/>
+            </a>
+            <br/>
+            <br/>
+            <a href='https://www.facebook.com/events/1123949811738104/' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-obriens' src='/obriens-poster.png' style={{width:'100%'}}/>
+            </a>
 
-            <img alt='wbtw-live' src='/wbtw-midway.jpg' style={{width:'100%'}}/>
+            {/* <img alt='wbtw-live' src='/wbtw-midway.jpg' style={{width:'100%'}}/> */}
 
      
                  
