@@ -31,7 +31,7 @@ function Shows({ content }) {
             <br/>
             <br/>
             <a href='http://duskprovidence.com/' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-dusk' src='/dusk-poster.jpg' style={{width:'100%'}}/>
+            <img alt='wbtw-dusk' src='/dusk-poster.jpg' style={{width:'99%'}}/>
             </a>
             <br/>
             <br/>
