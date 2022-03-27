@@ -13,7 +13,7 @@ function Shows({ content }) {
             <h3>live, in concert!</h3>
 
             <p><b>3.30.22 // Cambridge, MA</b> <a href='https://www.mideastoffers.com/event/11958255/who-iam-we-broke-the-weather-as-seen-from-space' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Middle East Upstairs <br/>
-            <small><i>As Seen From Space, Who.iAM</i></small></p>
+            <small><i>As Seen From Space, Who.iAm</i></small></p>
             <p><b>4.14.22 // Worcester, MA</b> <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Ralph's Rock Diner <br/>
             <small><i>Bass Sabbath, T & the Wrecks, and Allison & Moon</i></small></p>
             <p><b>4.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/639047397192438' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>The Jungle <br/>
