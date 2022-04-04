@@ -11,12 +11,12 @@ function Videos({ content }) {
             <hr class="rounded"></hr> 
     
             <h3>video archives</h3>
-            {/* <p><small><i>"Through the Wall" (Live at Kennedy Studios)</i></small></p>
+            <p><small><i>"Through the Wall" (Live at Kennedy Studios)</i></small></p>
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/ooi2MEg4ZRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p><small><i>"Bellwether" (Live at Kennedy Studios)</i></small></p>
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/c0lfgAyV55A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p><small><i>"In Web" (Live at Kennedy Studios)</i></small></p>
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/Rk4mE3ULWYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/Rk4mE3ULWYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p><small><i>"Fire Season" (Live at Kennedy Studios)</i></small></p>
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/beA8Z1Ue9fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
