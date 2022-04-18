@@ -37,7 +37,7 @@ function Desktop() {
             const files = data.getItems();
             setItems(files);
             toggleExplorer(false);
-            setSelectedItem(files[0]);
+            setSelectedItem(files[3]);
             toggleNotepad(true);
             toggleAlert(true);
             toggleMine(false);
