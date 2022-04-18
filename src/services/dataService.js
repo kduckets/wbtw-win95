@@ -3,9 +3,9 @@ export default class DataService {
     react95Repo: 'https://github.com/React95/React95',
     items: [
       {
-        id: 'about',
-        name: 'wbtw.txt',
-        icon: 'info_bubble',
+        id: 'videos',
+        name: 'videos',
+        icon: 'media_video',
       },
       {
         id: 'shows',
@@ -17,19 +17,16 @@ export default class DataService {
         name: 'merch.txt',
         icon: 'progman_30',
       },
-
       {
-        id: 'videos',
-        name: 'videos',
-        icon: 'media_video',
+        id: 'about',
+        name: 'wbtw.txt',
+        icon: 'info_bubble',
       },
-
       {
         id: 'credits',
         name: 'credits.txt',
         icon: 'shell32_21',
-      },
-       
+      },      
     ],
     }
 
