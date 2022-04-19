@@ -49,7 +49,7 @@ function About({ content }) {
        
             <hr class="rounded"></hr> 
             <h3>upcoming shows</h3>
-            <p><small><i>note: shows at the jungle and dusk have been cancelled due to covid. see you at porchfest!</i></small></p>
+            <p><small><i>note: shows at the jungle and dusk have been cancelled due to covid. stay safe, and see you at porchfest!</i></small></p>
             <img src='/shows-covid.jpg' alt='wbtw-shows' width='100%' ></img>
             <hr class="rounded"></hr> 
 
