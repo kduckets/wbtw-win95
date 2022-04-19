@@ -16,10 +16,10 @@ function Shows({ content }) {
             <small><i>As Seen From Space, Who.iAm</i></small></p>
             <p><b>4.14.22 // Worcester, MA</b> <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Ralph's Rock Diner <br/>
             <small><i>Bass Sabbath, T & the Wrecks, Allison & Moon</i></small></p>
-            <p><b>4.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/639047397192438' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>The Jungle <br/>
-            <small><i>Le Couteau, The Love Shamans, Desperate Electric</i></small></p>
-            <p><b>4.27.22 // Providence, RI</b> <a href='https://www.facebook.com/events/939692190071596/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Dusk <br/>
-            <small><i>Chimp Jaw, Feep</i></small></p>
+            <p><s style={{color:'red'}}><b>4.21.22 // Somerville, MA</b> <br/>The Jungle <br/>
+            <small><i>Le Couteau, The Love Shamans, Desperate Electric</i></small></s></p>
+            <p><s style={{color:'red'}}><b>4.27.22 // Providence, RI</b> <br/>Dusk <br/>
+            <small><i>Chimp Jaw, Feep</i></small></s></p>
             <p><b>5.14.22 // Somerville, MA</b> <a href='https://somervilleartscouncil.org/node/48180' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Porchfest <br/>
            </p>
             <p><b>5.31.22 // Allston, MA</b><a href='https://www.facebook.com/events/1123949811738104/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a> <br/>O'Brien's Pub<br/>
