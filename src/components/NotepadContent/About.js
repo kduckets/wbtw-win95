@@ -49,6 +49,7 @@ function About({ content }) {
        
             <hr class="rounded"></hr> 
             <h3>upcoming shows</h3>
+            <p><small><i>note: shows at The Jungle and Dusk have been cancelled due to covid</i></small></p>
             <img src='/wbtw-shows.png' alt='wbtw-shows' width='100%' ></img>
             <hr class="rounded"></hr> 
 
