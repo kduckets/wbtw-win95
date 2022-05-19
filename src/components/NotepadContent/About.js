@@ -1,13 +1,13 @@
 import React from 'react'
 import styled from 'styled-components'
-import { FaInstagram, FaFacebook, FaBandcamp } from 'react-icons/fa'
+import { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope } from 'react-icons/fa'
 
-const Icons = { FaInstagram, FaFacebook, FaBandcamp };
+const Icons = { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope };
 
 const StyledItem = styled.li`
     display: inline;
-    font-size: 32px;
-    margin-left: 10px;
+    font-size: 20px;
+    margin-left: 8px;
 `
 
 const StyledLink = styled.a`
@@ -29,6 +29,10 @@ function About({ content }) {
             name: 'FaFacebook',
             link: 'https://facebook.com/webroketheweather',
           },
+          {
+            name: 'FaEnvelope',
+            link: 'mailto:webroketheweather@gmail.com',
+          },
 
         ]
       
@@ -38,6 +42,19 @@ function About({ content }) {
         <div>
            
            <h2>we broke the weather</h2>
+            {
+                    social.map((s, idx) => {
+                        const Icon = Icons[s.name];
+                        return (
+                            <StyledItem key={idx}>
+                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
+                                    <Icon />
+                                </StyledLink>
+                            </StyledItem>
+                        );
+                    })
+                }
+            
            <hr class="rounded"></hr> 
 
            <h3>debut album out now!</h3>
@@ -69,21 +86,6 @@ function About({ content }) {
 
                 
                    <p><a className="email" href="mailto:webroketheweather@gmail.com">webroketheweather@gmail.com</a></p>
-                   <p>
-            {
-                    social.map((s, idx) => {
-                        const Icon = Icons[s.name];
-                        return (
-                            <StyledItem key={idx}>
-                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
-                                    <Icon />
-                                </StyledLink>
-                            </StyledItem>
-                        );
-                    })
-                }
-                </p>
-
            
                   </small>
           
