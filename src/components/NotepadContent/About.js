@@ -12,19 +12,16 @@ const StyledItem = styled.li`
       }
 `
 const StyledList = styled.ul`
-margin: auto;
-padding:0px;
+      margin: auto;
+      padding:0px;
 `
-
-
 const StyledLink = styled.a`
     color: black;
 `
-
 const StyledDiv = styled.div`
     text-align: center;
     margin: auto;
-    width: 80%;
+    width: 100%;
 `
 
 function About({ content }) {

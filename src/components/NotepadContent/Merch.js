@@ -21,7 +21,7 @@ const StyledLink = styled.a`
 const StyledDiv = styled.div`
     text-align: center;
     margin: auto;
-    width: 80%;
+    width: 100%;
     `
 
 function Merch({ content }) {
