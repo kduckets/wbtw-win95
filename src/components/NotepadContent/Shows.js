@@ -1,13 +1,71 @@
 import React from 'react'
+import styled from 'styled-components'
+import { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope } from 'react-icons/fa'
 
+const Icons = { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope };
 
+const StyledItem = styled.li`
+    display: inline;
+    font-size: 20px;
+    &:not(:first-child) {
+      margin-left: 8px;
+      }
+`
+const StyledList = styled.ul`
+      margin: auto;
+      padding:0px;
+`
+const StyledLink = styled.a`
+    color: black;
+`
+const StyledDiv = styled.div`
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    `
 
 function Shows({ content }) {
+    const social = [
 
+        {
+          name: 'FaBandcamp',
+          link: 'https://webroketheweather.bandcamp.com?campaign=website',
+        },
+        {
+          name: 'FaInstagram',
+          link: 'https://www.instagram.com/webroketheweather/',
+        },
+        {
+          name: 'FaFacebook',
+          link: 'https://facebook.com/webroketheweather',
+        },
+        {
+          name: 'FaEnvelope',
+          link: 'mailto:webroketheweather@gmail.com',
+        },
+
+      ]
 
     return (
         <div>
-            <h2>we broke the weather</h2>
+          <StyledDiv>
+             <h2>we broke the weather</h2>
+             
+             <StyledList>
+            {
+                    social.map((s, idx) => {
+                        const Icon = Icons[s.name];
+                        return (
+                            <StyledItem key={idx}>
+                                <StyledLink href={s.link} target="_blank" rel="noopener noreferrer">
+                                    <Icon />
+                                </StyledLink>
+                            </StyledItem>
+                        );
+                    })
+                }
+                </StyledList>
+                </StyledDiv>
             <hr class="rounded"></hr> 
 
             <h3>live, in concert!</h3>

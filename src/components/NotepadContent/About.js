@@ -7,11 +7,24 @@ const Icons = { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope };
 const StyledItem = styled.li`
     display: inline;
     font-size: 20px;
-    margin-left: 8px;
+    &:not(:first-child) {
+      margin-left: 8px;
+      }
 `
+const StyledList = styled.ul`
+margin: auto;
+padding:0px;
+`
+
 
 const StyledLink = styled.a`
     color: black;
+`
+
+const StyledDiv = styled.div`
+    text-align: center;
+    margin: auto;
+    width: 80%;
 `
 
 function About({ content }) {
@@ -40,10 +53,11 @@ function About({ content }) {
 
     return (
         <div>
-           
+           <StyledDiv>
            <h2>we broke the weather</h2>
+           <StyledList>
             {
-                    social.map((s, idx) => {
+              social.map((s, idx) => {
                         const Icon = Icons[s.name];
                         return (
                             <StyledItem key={idx}>
@@ -54,6 +68,9 @@ function About({ content }) {
                         );
                     })
                 }
+                </StyledList>
+
+            </StyledDiv>
             
            <hr class="rounded"></hr> 
 
