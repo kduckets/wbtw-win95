@@ -80,7 +80,11 @@ function About({ content }) {
        
             <hr class="rounded"></hr> 
             <h3>upcoming shows</h3>
-            <p><small><i>note: shows at the jungle and dusk have been cancelled due to covid. stay safe, and see you at porchfest!</i></small></p>
+            <p><small><i>new show added! </i></small>
+            <br/>
+            <br/>
+            <b>6.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Parma Chai Gallery-Out of the Blue at the Somerville Armory <br/>
+          </p>
             <img src='/shows-covid.jpg' alt='wbtw-shows' width='100%' ></img>
             <hr class="rounded"></hr> 
 
