@@ -71,6 +71,14 @@ function About({ content }) {
             
            <hr class="rounded"></hr> 
 
+           <h3>next show:</h3>
+            <p>
+            <b>6.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Parma Chai Gallery-Out of the Blue at the Somerville Armory <br/>
+            <small><i>Varona, The Rupert Selection</i></small>
+          </p>
+            {/* <img src='/shows-covid.jpg' alt='wbtw-shows' width='100%' ></img> */}
+            <hr class="rounded"></hr> 
+
            <h3>debut album out now!</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
@@ -79,14 +87,7 @@ function About({ content }) {
             <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
        
             <hr class="rounded"></hr> 
-            <h3>upcoming shows</h3>
-            <p><small><i>new show added! </i></small>
-            <br/>
-            <br/>
-            <b>6.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Parma Chai Gallery-Out of the Blue at the Somerville Armory <br/>
-          </p>
-            <img src='/shows-covid.jpg' alt='wbtw-shows' width='100%' ></img>
-            <hr class="rounded"></hr> 
+            
 
             <small>
            
