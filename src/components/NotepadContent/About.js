@@ -73,8 +73,8 @@ function About({ content }) {
 
            <h3>next show:</h3>
             <p>
-            <b>6.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Parma Chai Gallery - Out of the Blue at the Somerville Armory <br/>
-            <small><i>Varona, The Rupert Selection</i></small>
+            <b>6.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Out of the Blue Too at the Somerville Armory <br/>
+            <small><i>Varona, The Rupert Selection, Parma Chai</i></small>
           </p>
             {/* <img src='/shows-covid.jpg' alt='wbtw-shows' width='100%' ></img> */}
             <hr class="rounded"></hr> 

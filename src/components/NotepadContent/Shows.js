@@ -82,8 +82,8 @@ function Shows({ content }) {
            </p>
             <p><b>5.31.22 // Allston, MA</b><a href='https://www.facebook.com/events/1123949811738104/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a> <br/>O'Brien's Pub<br/>
             <small><i>Bad Larrys, Me in Capris</i></small></p>
-            <p> <b>6.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Parma Chai Gallery-Out of the Blue at the Somerville Armory <br/>
-            <small><i>Varona, The Rupert Selection</i></small></p>
+            <p> <b>6.21.22 // Somerville, MA</b> <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer"><small>  (info)</small></a><br/>Out of the Blue Too at the Somerville Armory <br/>
+            <small><i>Varona, The Rupert Selection, Parma Chai</i></small></p>
          
             <br/>
             <hr class="rounded"></hr> 
