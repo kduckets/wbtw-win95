@@ -22,10 +22,10 @@ function Floppy({ closeFloppy, isMobile }) {
             title="floppy box.exe"
             closeModal={closeFloppy}
             style={{
-                left: isMobile ? '5%' : '5%',
+                left: isMobile ? '0%' : '5%',
                 top: '5%',
                 width: '80%',
-                height: isMobile ? '86%' : '90%'
+                height: isMobile ? '100%' : '90%'
             }}
             buttons={[
 
