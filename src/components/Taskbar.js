@@ -47,13 +47,13 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth, open
                       MS-DOS Prompt
             
                     </List.Item> */}
-                    <HideMobile>
+                  
                     <List.Item icon="joy_102" onClick={() => openFloppy()}>
                   
                       Floppy Box
             
                     </List.Item>
-                    </HideMobile>
+                 
             
                     {/* <List.Item icon="windows_explorer"  onClick={() => openExplorer()}>
             
