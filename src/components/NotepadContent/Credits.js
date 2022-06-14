@@ -19,7 +19,7 @@ function Credits({ content }) {
                      
                    <p>synth - <a href='https://github.com/kevinsqi/react-piano' target='_blank' rel="noopener noreferrer">https://github.com/kevinsqi/react-piano</a></p>
 
-                   <p>floppy box - <a href='https://github.com/joeblau/FlappyBlock' target='_blank' rel="noopener noreferrer">https://github.com/joeblau/FlappyBlock</a></p>               
+                   <p>floppy box - <a href='https://github.com/joeblau/FlappyBlock' target='_blank' rel="noopener noreferrer">https://github.com/Hitman666/FlappyBox</a></p>               
            
                   </small>
           
