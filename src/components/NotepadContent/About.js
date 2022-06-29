@@ -68,6 +68,16 @@ function About({ content }) {
                 </StyledList>
 
             </StyledDiv>
+
+            <hr class="rounded"></hr> 
+
+            <h3>wbtw live at kennedy studios</h3>
+
+            <a href="https://webroketheweather.bandcamp.com/album/live-at-kennedy-studios?campaign=website" target="_blank" rel="noopener noreferrer">
+            <img src='/wbtw-live.jpg' alt='wbtw-live' width='100%' ></img>
+            </a> 
+            <iframe title="wbtw-live-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fjjqxqhhznxttq&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+ 
             
             <hr class="rounded"></hr> 
 

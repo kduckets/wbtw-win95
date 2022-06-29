@@ -1,15 +1,15 @@
 import React from 'react'
 import { TaskBar, List } from '@react95/core'
-import styled from 'styled-components'
+// import styled from 'styled-components'
 import '@react95/icons/icons.css';
 import { NavLink } from "react-router-dom";
 
-const HideMobile = styled.div`
-@media (max-width: 767px) {
+// const HideMobile = styled.div`
+// @media (max-width: 767px) {
   
-    display: none;
-  }
-`;
+//     display: none;
+//   }
+// `;
 
 function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth, openNotepad}) {
     return (
