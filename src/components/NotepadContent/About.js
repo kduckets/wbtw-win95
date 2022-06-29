@@ -71,7 +71,7 @@ function About({ content }) {
 
             <hr class="rounded"></hr> 
 
-            <h3>wbtw live at kennedy studios</h3>
+            <h3>wbtw, live! (at kennedy studios)</h3>
 
             <a href="https://webroketheweather.bandcamp.com/album/live-at-kennedy-studios?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-live.jpg' alt='wbtw-live' width='100%' ></img>
