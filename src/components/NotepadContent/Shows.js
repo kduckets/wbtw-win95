@@ -69,10 +69,13 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
-            
+
             <hr class="rounded"></hr> 
 
             <h3>past shows</h3>
+
+            <p><b>1.21.20 - Boston, MA</b> <br/>Midway Cafe <br/>
+            <small><i>Minx, Gasoline Virgins</i></small></p>
 
             <p><b>3.30.22 - Cambridge, MA</b> <br/>Middle East Upstairs <br/>
             <small><i>As Seen From Space, Who.iAm</i></small></p>
