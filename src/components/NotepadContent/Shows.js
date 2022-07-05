@@ -77,15 +77,15 @@ function Shows({ content }) {
             <h3>past shows</h3>
 
             <p><b>1.21.20 - Boston, MA</b> <br/>Midway Cafe <br/>
-            <small><i>Minx, Gasoline Virgins</i></small></p>
+            <small><i><a href='https://minxroxxx.bandcamp.com/' target='_blank' rel="noopener noreferrer">Minx</a>, <a href='https://gasolinevirgins.bandcamp.com/' target='_blank' rel="noopener noreferrer">Gasoline Virgins</a></i></small></p>
 
             <p><b>3.30.22 - Cambridge, MA</b> <br/>Middle East Upstairs <br/>
-            <small><i>As Seen From Space, Who.iAm</i></small></p>
+            <small><i><a href='https://asfs.bandcamp.com/' target='_blank' rel="noopener noreferrer">As Seen From Space</a>, <a href='https://www.facebook.com/Who.iAm143/' target='_blank' rel="noopener noreferrer">Who.iAm</a></i></small></p>
             <a href='https://www.mideastoffers.com/event/11958255/who-iam-we-broke-the-weather-as-seen-from-space' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-mideast' src='/mideast-poster.png' style={{width:'50%'}}/>
             </a>
             <p><b>4.14.22 - Worcester, MA</b><br/>Ralph's Rock Diner <br/>
-            <small><i>Bass Sabbath, T & the Wrecks, Allison & Moon</i></small></p>
+            <small><i><a href='https://basssabbath.bandcamp.com/' target='_blank' rel="noopener noreferrer">Bass Sabbath</a>, <a href='https://tandthewrecks.bandcamp.com/' target='_blank' rel="noopener noreferrer">T & the Wrecks</a>, <a href='https://allisonandmoon.bandcamp.com/' target='_blank' rel="noopener noreferrer">Allison & Moon</a></i></small></p>
             <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-ralphs' src='/ralphs-poster.jpg' style={{width:'50%'}}/>
             </a>
@@ -102,12 +102,12 @@ function Shows({ content }) {
             <img alt='wbtw-porchfest' src='/porchfest-poster.jpg' style={{width:'50%'}}/>
             </a>
             <p><b>5.31.22 - Allston, MA</b><br/>O'Brien's Pub<br/>
-            <small><i>Bad Larrys, Me in Capris</i></small></p>
+            <small><i><a href='https://badlarrys.bandcamp.com/' target='_blank' rel="noopener noreferrer">Bad Larrys</a>, <a href='https://meincapris.bandcamp.com/' target='_blank' rel="noopener noreferrer">Me in Capris</a></i></small></p>
             <a href='https://www.facebook.com/events/1123949811738104/' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-obriens' src='/obriens-poster.png' style={{width:'50%'}}/>
             </a>
             <p> <b>6.21.22 - Somerville, MA</b> <br/>Out of the Blue Too at the Somerville Armory <br/>
-            <small><i>Varona, The Rupert Selection, Parma Chai</i></small></p>
+            <small><i><a href='https://music.varonaband.com/' target='_blank' rel="noopener noreferrer">Varona</a>, <a href='https://therupertselection.bandcamp.com/' target='_blank' rel="noopener noreferrer">The Rupert Selection</a></i></small></p>
             <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-parma chai' src='/armory-poster.jpg' style={{width:'50%'}}/>
             </a>
