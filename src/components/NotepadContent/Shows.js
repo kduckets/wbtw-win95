@@ -71,7 +71,7 @@ function Shows({ content }) {
             <h3>upcoming shows</h3>
 
 
-            <p><b>8.31.22 - Boston, MA</b> <br/><a href='https://www.facebook.com/events/768026157978865/' target='_blank' rel="noopener noreferrer">Midway Cafe</a><br/>
+            <p><b>8.31.22 - Boston, MA</b> - <a href='https://www.facebook.com/events/768026157978865/' target='_blank' rel="noopener noreferrer">Midway Cafe</a><br/>
             <small><i><a href='https://www.feepband.com' target='_blank' rel="noopener noreferrer">FEEP</a>, <a href='https://squashband.bandcamp.com' target='_blank' rel="noopener noreferrer">Squash</a>, <a href='https://www.facebook.com/100009500773621/videos/542493770597784/' target='_blank' rel="noopener noreferrer">Artist Jackie’s Face Eraser</a></i></small></p>
 
             <p>more shows coming soon!</p>
