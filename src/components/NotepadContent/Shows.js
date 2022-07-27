@@ -70,48 +70,57 @@ function Shows({ content }) {
 
             <h3>upcoming shows</h3>
 
-            <p>more shows coming soon</p>
+
+            <p><b>8.31.22 - Boston, MA</b> <br/><a href='https://www.facebook.com/events/768026157978865/' target='_blank' rel="noopener noreferrer">Midway Cafe</a><br/>
+            <small><i><a href='https://www.feepband.com' target='_blank' rel="noopener noreferrer">FEEP</a>, <a href='https://squashband.bandcamp.com' target='_blank' rel="noopener noreferrer">Squash</a>, <a href='https://www.facebook.com/100009500773621/videos/542493770597784/' target='_blank' rel="noopener noreferrer">Artist Jackie’s Face Eraser</a></i></small></p>
+
+            <p>more shows coming soon!</p>
 
             <hr class="rounded"></hr> 
 
             <h3>past shows</h3>
 
-            <p><b>1.21.20 - Boston, MA</b> <br/>Midway Cafe <br/>
-            <small><i><a href='https://minxroxxx.bandcamp.com/' target='_blank' rel="noopener noreferrer">Minx</a>, <a href='https://gasolinevirgins.bandcamp.com/' target='_blank' rel="noopener noreferrer">Gasoline Virgins</a></i></small></p>
+            <p> <b>6.21.22 - Somerville, MA</b> <br/>Out of the Blue Too at the Somerville Armory <br/>
+            <small><i><a href='https://music.varonaband.com/' target='_blank' rel="noopener noreferrer">Varona</a>, <a href='https://therupertselection.bandcamp.com/' target='_blank' rel="noopener noreferrer">The Rupert Selection</a></i></small></p>
+            <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-parma chai' src='/armory-poster.jpg' style={{width:'50%'}}/>
+            </a>
+
+            <p><b>5.31.22 - Allston, MA</b><br/>O'Brien's Pub<br/>
+            <small><i><a href='https://badlarrys.bandcamp.com/' target='_blank' rel="noopener noreferrer">Bad Larrys</a>, <a href='https://meincapris.bandcamp.com/' target='_blank' rel="noopener noreferrer">Me in Capris</a></i></small></p>
+            <a href='https://www.facebook.com/events/1123949811738104/' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-obriens' src='/obriens-poster.png' style={{width:'50%'}}/>
+            </a>
+
+            <p><b>5.14.22 - Somerville, MA</b><br/>Porchfest <br/>
+           </p>
+           <a href='https://somervilleartscouncil.org/node/48180' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-porchfest' src='/porchfest-poster.jpg' style={{width:'50%'}}/>
+            </a>
+
+            <p><s style={{color:'red'}}><b>4.27.22 - Providence, RI</b> <br/>Dusk <br/>
+           </s></p>
+           <a href='https://www.facebook.com/events/939692190071596/' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-dusk' src='/wbtw-dusk-poster.jpg' style={{width:'50%'}}/>
+            </a>
+               
+            <p><s style={{color:'red'}}><b>4.21.22 - Somerville, MA</b> <br/>The Jungle <br/>
+           </s></p>
+           
+            <p><b>4.14.22 - Worcester, MA</b><br/>Ralph's Rock Diner <br/>
+            <small><i><a href='https://basssabbath.bandcamp.com/' target='_blank' rel="noopener noreferrer">Bass Sabbath</a>, <a href='https://tandthewrecks.bandcamp.com/' target='_blank' rel="noopener noreferrer">T & the Wrecks</a>, <a href='https://allisonandmoon.bandcamp.com/' target='_blank' rel="noopener noreferrer">Allison & Moon</a></i></small></p>
+            <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-ralphs' src='/ralphs-poster.jpg' style={{width:'50%'}}/>
+            </a>
 
             <p><b>3.30.22 - Cambridge, MA</b> <br/>Middle East Upstairs <br/>
             <small><i><a href='https://asfs.bandcamp.com/' target='_blank' rel="noopener noreferrer">As Seen From Space</a>, <a href='https://www.facebook.com/Who.iAm143/' target='_blank' rel="noopener noreferrer">Who.iAm</a></i></small></p>
             <a href='https://www.mideastoffers.com/event/11958255/who-iam-we-broke-the-weather-as-seen-from-space' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-mideast' src='/mideast-poster.png' style={{width:'50%'}}/>
             </a>
-            <p><b>4.14.22 - Worcester, MA</b><br/>Ralph's Rock Diner <br/>
-            <small><i><a href='https://basssabbath.bandcamp.com/' target='_blank' rel="noopener noreferrer">Bass Sabbath</a>, <a href='https://tandthewrecks.bandcamp.com/' target='_blank' rel="noopener noreferrer">T & the Wrecks</a>, <a href='https://allisonandmoon.bandcamp.com/' target='_blank' rel="noopener noreferrer">Allison & Moon</a></i></small></p>
-            <a href='https://www.facebook.com/events/1021644978564043/' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-ralphs' src='/ralphs-poster.jpg' style={{width:'50%'}}/>
-            </a>
-            <p><s style={{color:'red'}}><b>4.21.22 - Somerville, MA</b> <br/>The Jungle <br/>
-           </s></p>
-            <p><s style={{color:'red'}}><b>4.27.22 - Providence, RI</b> <br/>Dusk <br/>
-           </s></p>
-           <a href='https://www.facebook.com/events/939692190071596/' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-dusk' src='/wbtw-dusk-poster.jpg' style={{width:'50%'}}/>
-            </a>
-            <p><b>5.14.22 - Somerville, MA</b><br/>Porchfest <br/>
-           </p>
-           <a href='https://somervilleartscouncil.org/node/48180' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-porchfest' src='/porchfest-poster.jpg' style={{width:'50%'}}/>
-            </a>
-            <p><b>5.31.22 - Allston, MA</b><br/>O'Brien's Pub<br/>
-            <small><i><a href='https://badlarrys.bandcamp.com/' target='_blank' rel="noopener noreferrer">Bad Larrys</a>, <a href='https://meincapris.bandcamp.com/' target='_blank' rel="noopener noreferrer">Me in Capris</a></i></small></p>
-            <a href='https://www.facebook.com/events/1123949811738104/' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-obriens' src='/obriens-poster.png' style={{width:'50%'}}/>
-            </a>
-            <p> <b>6.21.22 - Somerville, MA</b> <br/>Out of the Blue Too at the Somerville Armory <br/>
-            <small><i><a href='https://music.varonaband.com/' target='_blank' rel="noopener noreferrer">Varona</a>, <a href='https://therupertselection.bandcamp.com/' target='_blank' rel="noopener noreferrer">The Rupert Selection</a></i></small></p>
-            <a href='https://www.facebook.com/events/1692579974410214/' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-parma chai' src='/armory-poster.jpg' style={{width:'50%'}}/>
-            </a>
-         
+
+            <p><b>1.21.20 - Boston, MA</b> <br/>Midway Cafe <br/>
+            <small><i><a href='https://minxroxxx.bandcamp.com/' target='_blank' rel="noopener noreferrer">Minx</a>, <a href='https://gasolinevirgins.bandcamp.com/' target='_blank' rel="noopener noreferrer">Gasoline Virgins</a></i></small></p>
             <br/>
 
             <div>
