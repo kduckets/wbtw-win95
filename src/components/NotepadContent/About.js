@@ -68,7 +68,11 @@ function About({ content }) {
                 </StyledList>
 
             </StyledDiv>
-
+            <hr class="rounded"></hr> 
+            <h3>next show:</h3>
+            <b>8.31.22 - Boston, MA</b> - <a href='https://www.facebook.com/events/768026157978865/' target='_blank' rel="noopener noreferrer">Midway Cafe</a>
+            <br/>
+            <br/>
             <hr class="rounded"></hr> 
 
             <h3>wbtw, live! <small>(at kennedy studios)</small></h3>
