@@ -72,11 +72,11 @@ function Shows({ content }) {
 
 
             <p><b>8.31.22 - Boston, MA </b><a href='https://www.facebook.com/events/768026157978865/'  target="_blank" rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
-            Midway Cafe <br/>  
+            <i>Midway Cafe</i><br/>  
             <small><a href='https://www.feepband.com' target='_blank' rel="noopener noreferrer">FEEP</a>, <a href='https://squashband.bandcamp.com' target='_blank' rel="noopener noreferrer">Squash</a>, <a href='https://www.facebook.com/100009500773621/videos/542493770597784/' target='_blank' rel="noopener noreferrer">Artist Jackie’s Face Eraser</a></small></p>
 
             <p><b>10.23.22 - Allston, MA</b> <a href='https://www.eventbrite.com/e/blk-jks-we-broke-the-weather-obriens-tickets-396699969287' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
-            O'Brien's Pub <br/>
+            <i>O'Brien's Pub</i><br/>
             <small><a href='https://blk-jks.bandcamp.com/album/abantu-before-humans' target='_blank' rel="noopener noreferrer">BLK JKS</a></small></p>
 
             <hr class="rounded"></hr> 
