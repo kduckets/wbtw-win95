@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope } from 'react-icons/fa'
+import { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope, FaInfoCircle } from 'react-icons/fa'
 
 const Icons = { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope };
 
@@ -70,7 +70,9 @@ function About({ content }) {
             </StyledDiv>
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
-            <b>8.31.22 - Boston, MA</b> - <a href='https://www.facebook.com/events/768026157978865/' target='_blank' rel="noopener noreferrer">Midway Cafe</a>
+            <b>8.31.22 - Boston, MA </b><a href='https://www.facebook.com/events/768026157978865/' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a>
+            <br/>
+            Midway Cafe 
             <br/>
             <br/>
             <hr class="rounded"></hr> 
