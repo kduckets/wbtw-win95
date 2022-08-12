@@ -18,6 +18,7 @@ function Credits({ content }) {
                    <p>mines - <a href='https://github.com/oL-web/react-minesweeper' target='_blank' rel="noopener noreferrer">https://github.com/oL-web/react-minesweeper</a></p>
                      
                    <p>synth - <a href='https://github.com/kevinsqi/react-piano' target='_blank' rel="noopener noreferrer">https://github.com/kevinsqi/react-piano</a></p>
+                   <p><a href='https://github.com/JackZYang/react-synthesizer' target='_blank' rel="noopener noreferrer">https://github.com/JackZYang/react-synthesizer</a></p> 
 
                    <p>floppy box - <a href='https://github.com/Hitman666/FlappyBox' target='_blank' rel="noopener noreferrer">https://github.com/Hitman666/FlappyBox</a></p>               
            
