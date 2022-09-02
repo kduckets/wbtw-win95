@@ -70,9 +70,9 @@ function About({ content }) {
             </StyledDiv>
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
-            <b>8.31.22 - Boston, MA </b><a href='https://www.facebook.com/events/768026157978865/' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a>
-            <br/>
-            <i>Midway Cafe</i>
+            <p><b>10.23.22 - Allston, MA</b> <a href='https://www.eventbrite.com/e/blk-jks-we-broke-the-weather-obriens-tickets-396699969287' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
+            <i>O'Brien's Pub</i><br/>
+            <small><a href='https://blk-jks.bandcamp.com/album/abantu-before-humans' target='_blank' rel="noopener noreferrer">BLK JKS</a></small></p>
             <br/>
             <br/>
             <hr class="rounded"></hr> 
