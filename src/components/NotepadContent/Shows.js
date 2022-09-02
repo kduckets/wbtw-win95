@@ -80,7 +80,7 @@ function Shows({ content }) {
             <h3>past shows</h3>
 
             <p><b>8.31.22 - Boston, MA </b><br/>
-            <i>Midway Cafe</i><br/>  
+            Midway Cafe<br/>  
             <small><a href='https://www.feepband.com' target='_blank' rel="noopener noreferrer">FEEP</a>, <a href='https://squashband.bandcamp.com' target='_blank' rel="noopener noreferrer">Squash</a>, <a href='https://www.facebook.com/100009500773621/videos/542493770597784/' target='_blank' rel="noopener noreferrer">Artist Jackie’s Face Eraser</a></small></p>
 
             <p> <b>6.21.22 - Somerville, MA</b> <br/>Out of the Blue Too at the Somerville Armory <br/>
