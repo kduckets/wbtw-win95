@@ -75,7 +75,7 @@ function Shows({ content }) {
             <i>O'Brien's Pub</i><br/>
             <small><a href='https://www.feepband.com' target='_blank' rel="noopener noreferrer">FEEP</a>, <a href='https://www.instagram.com/bikethrasher_/' target='_blank' rel="noopener noreferrer">Bike Thrasher</a></small></p>
             <a href='https://www.eventbrite.com/e/we-broke-the-weather-feep-bikethrasher-obriens-tickets-396699969287' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-obriens-hween' src='/obriens 10-23-22.jpeg' style={{width:'50%'}}/>
+            <img alt='wbtw-obriens-hween' src='/obriens 10-23-22.jpeg' style={{width:'100%'}}/>
             </a>
             <hr class="rounded"></hr> 
 
