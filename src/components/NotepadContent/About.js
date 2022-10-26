@@ -69,25 +69,8 @@ function About({ content }) {
 
             </StyledDiv>
             <hr class="rounded"></hr> 
-            <h3>next show:</h3>
-            <p><b>10.23.22 - Allston, MA</b> <a href='https://www.eventbrite.com/e/we-broke-the-weather-feep-bikethrasher-obriens-tickets-396699969287' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
-            O'Brien's Pub<br/>
-            <small>w/ <a href='https://www.feepband.com' target='_blank' rel="noopener noreferrer">FEEP</a>, <a href='https://www.instagram.com/bikethrasher_/' target='_blank' rel="noopener noreferrer">Bikethrasher</a>,
-            <a href='https://detroitrebellion.com/' target='_blank' rel="noopener noreferrer"> Detroit Rebellion</a></small></p>
-            <a href='https://www.eventbrite.com/e/we-broke-the-weather-feep-bikethrasher-obriens-tickets-396699969287' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-obriens-hween' src='/obriens 10-23-22.png' style={{width:'100%'}}/>
-            </a>
-            <hr class="rounded"></hr> 
 
-            <h3>wbtw, live! <small>(at kennedy studios)</small></h3>
-
-            <a href="https://webroketheweather.bandcamp.com/album/live-at-kennedy-studios?campaign=website" target="_blank" rel="noopener noreferrer">
-            <img src='/wbtw-live.jpg' alt='wbtw-live' width='100%' ></img>
-            </a> 
-            <iframe title="wbtw-live-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fjjqxqhhznxttq&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
- 
-            
-            <hr class="rounded"></hr> 
+            <p><a href='https://bostonmusicawards.com/vote/' target="_blank" rel="noopener noreferrer">vote for wbtw for BME jazz artist of the year</a></p>
 
            <h3>debut album out now</h3>
          
@@ -96,6 +79,16 @@ function About({ content }) {
             </a> 
             <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
        
+            <hr class="rounded"></hr> 
+
+            <h3>wbtw, live! <small>(at kennedy studios)</small></h3>
+
+            <a href="https://webroketheweather.bandcamp.com/album/live-at-kennedy-studios?campaign=website" target="_blank" rel="noopener noreferrer">
+            <img src='/wbtw-live.jpg' alt='wbtw-live' width='100%' ></img>
+            </a> 
+            <iframe title="wbtw-live-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fjjqxqhhznxttq&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+
+
             <hr class="rounded"></hr> 
             
 
