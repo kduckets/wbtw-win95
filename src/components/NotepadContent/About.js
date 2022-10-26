@@ -70,7 +70,7 @@ function About({ content }) {
             </StyledDiv>
             <hr class="rounded"></hr> 
 
-            <p><a href='https://bostonmusicawards.com/vote/' target="_blank" rel="noopener noreferrer">vote for wbtw for BME jazz artist of the year</a></p>
+            <p><a href='https://bostonmusicawards.com/vote/' target="_blank" rel="noopener noreferrer">vote for wbtw</a> boston music awards jazz artist of the year</p>
 
            <h3>debut album out now</h3>
          
