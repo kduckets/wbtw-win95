@@ -82,7 +82,6 @@ function Shows({ content }) {
             <a href='https://www.eventbrite.com/e/we-broke-the-weather-feep-bikethrasher-obriens-tickets-396699969287' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-obriens-hween' src='/obriens 10-23-22.png' style={{width:'50%'}}/>
             </a>
-            <hr class="rounded"></hr> 
 
             <p><b>8.31.22 - Boston, MA </b><br/>
             Midway Cafe<br/>  
