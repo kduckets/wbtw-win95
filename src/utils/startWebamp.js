@@ -91,6 +91,14 @@ const startWebamp = () => {
             },
             {
                 metaData: {
+                    artist: "we broke the weather",
+                    title: "Boneloader (demo)"
+                },
+                url: `${process.env.PUBLIC_URL}/Boneloader.mp3`,
+                duration: 260
+            },
+            {
+                metaData: {
                    artist: "dj mike llama",
                    title: "llama whippin' intro"
                },
