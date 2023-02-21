@@ -72,7 +72,9 @@ function Shows({ content }) {
             <p><b>2.26.23 - Somerville, MA </b><a href='https://www.facebook.com/events/1246278469574993' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
             The Jungle<br/>  
             <small><a href='https://ttzopp.bandcamp.com/album/garage-demos' target='_blank' rel="noopener noreferrer">TT Zopp</a>, <a href='https://m.facebook.com/gwfireband/' target='_blank' rel="noopener noreferrer">Greenwood Fire</a></small></p>
-           <p> <small><i>more shows coming soon!</i></small></p>
+            <a href='https://www.facebook.com/events/1246278469574993' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-jungle' src='/jungle.jpeg' style={{width:'50%'}}/>
+            </a>
 
             <h3>past shows</h3>
 
