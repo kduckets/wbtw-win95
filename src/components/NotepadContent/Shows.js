@@ -69,14 +69,16 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
+ 
+
+            <h3>past shows</h3>
+
             <p><b>2.26.23 - Somerville, MA </b><a href='https://www.facebook.com/events/1246278469574993' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
             The Jungle<br/>  
             <small><a href='https://ttzopp.bandcamp.com/album/garage-demos' target='_blank' rel="noopener noreferrer">TT Zopp</a>, <a href='https://m.facebook.com/gwfireband/' target='_blank' rel="noopener noreferrer">Greenwood Fire</a></small></p>
             <a href='https://www.facebook.com/events/1246278469574993' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-jungle' src='/jungle.jpeg' style={{width:'50%'}}/>
             </a>
-
-            <h3>past shows</h3>
 
 
             <p><b>10.23.22 - Allston, MA</b> <a href='https://www.eventbrite.com/e/we-broke-the-weather-feep-bikethrasher-obriens-tickets-396699969287' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>

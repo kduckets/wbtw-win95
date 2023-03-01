@@ -69,12 +69,12 @@ function About({ content }) {
 
             </StyledDiv>
             <hr class="rounded"></hr> 
-            <h3><small>next show:</small></h3>
+            {/* <h3><small>next show:</small></h3>
             <p><b>2.26.23 - Somerville, MA </b><a href='https://www.facebook.com/events/1246278469574993' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
             The Jungle<br/>  
             <small><a href='https://ttzopp.bandcamp.com/album/garage-demos' target='_blank' rel="noopener noreferrer">TT Zopp</a>, <a href='https://m.facebook.com/gwfireband/' target='_blank' rel="noopener noreferrer">Greenwood Fire</a></small></p>
 
-            <hr class="rounded"></hr> 
+            <hr class="rounded"></hr>  */}
             <h3>debut album out now</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
