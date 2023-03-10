@@ -5,6 +5,7 @@ function Diary({ content }) {
 
     return (
         <div>
+            <h2>kev's diary - keep out, dude</h2>
             <h4>A band</h4> 
             <small>
            

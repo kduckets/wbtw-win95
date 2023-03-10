@@ -29,7 +29,7 @@ export default class DataService {
       },      
       {
         id: 'recycle',
-        name: 'recycle bin.txt',
+        name: 'recycle bin',
         icon: 'explorer_108',
       }, 
     ],
