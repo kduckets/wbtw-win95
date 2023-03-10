@@ -23,4 +23,4 @@ function Diary({ content }) {
     )
 }
 
-export default Credits
+export default Diary
