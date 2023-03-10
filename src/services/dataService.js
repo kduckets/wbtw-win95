@@ -28,7 +28,7 @@ export default class DataService {
         icon: 'shell32_21',
       },      
       {
-        id: 'kevdiary',
+        id: 'recycle bin',
         name: 'kevs diary.txt',
         icon: 'explorer_108',
       }, 
