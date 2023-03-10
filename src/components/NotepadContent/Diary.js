@@ -10,7 +10,7 @@ function Diary({ content }) {
         
            <p>
             <small>
-            when a band gets loud, one listens. if a band get soft, one may not. a band drowns, in fear! a band is free            </small>   </p>
+            make a band. when a band gets loud, one listens. if a band get soft, one may not. a band drowns, in fear! a band is free            </small>   </p>
 <p><small>love, kev</small></p>
               <br/>
               <br/>
