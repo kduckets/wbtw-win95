@@ -5,6 +5,7 @@ import Shows from './Shows'
 import Merch from './Merch'
 import Credits from './Credits'
 import Videos from './Videos'
+import Diary from './Diary'
 
 function ContentFactory({ id, isMobile }) {
     const data = useContext(DataContext);
