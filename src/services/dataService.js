@@ -28,7 +28,7 @@ export default class DataService {
         icon: 'shell32_21',
       },      
       {
-        id: 'recycle bin',
+        id: 'recycle',
         name: 'recycle bin.txt',
         icon: 'explorer_108',
       }, 

@@ -32,7 +32,7 @@ function ContentFactory({ id, isMobile }) {
             return <About content={item.content} />
         case 'credits':
             return <Credits content={item.content} />
-        case 'kevsdiary':
+        case 'recycle':
             return <Diary content={item.content} />
         default:
             return (<div></div>);
