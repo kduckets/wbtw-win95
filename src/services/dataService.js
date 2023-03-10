@@ -27,6 +27,11 @@ export default class DataService {
         name: 'credits.txt',
         icon: 'shell32_21',
       },      
+      {
+        id: 'kevdiary',
+        name: 'kevs diary.txt',
+        icon: 'explorer_108',
+      }, 
     ],
     }
 
