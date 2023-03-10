@@ -69,13 +69,15 @@ function About({ content }) {
 
             </StyledDiv>
             <hr class="rounded"></hr> 
-            {/* <h3><small>next show:</small></h3>
-            <p><b>2.26.23 - Somerville, MA </b><a href='https://www.facebook.com/events/1246278469574993' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
-            The Jungle<br/>  
-            <small><a href='https://ttzopp.bandcamp.com/album/garage-demos' target='_blank' rel="noopener noreferrer">TT Zopp</a>, <a href='https://m.facebook.com/gwfireband/' target='_blank' rel="noopener noreferrer">Greenwood Fire</a></small></p>
+            <h3><small>next show:</small></h3>
+            <p><b>4.8.23 - Lowell, MA </b>
+            The Overlook<br/>  
+            <small><a href='https://www.sonslunaris.com/' target='_blank' rel="noopener noreferrer">Sons Lunaris</a>, <a href='https://www.facebook.com/RumboatChili/' target='_blank' rel="noopener noreferrer">Rumboat Chili</a></small></p>
+            
+            <img alt='wbtw-overlook' src='/overlook.png' style={{width:'50%'}}/>
 
-            <hr class="rounded"></hr>  */}
-            <h3>debut album out now</h3>
+            <hr class="rounded"></hr> 
+            <h3>debut album out now!</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='100%' ></img>
