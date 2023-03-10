@@ -74,7 +74,7 @@ function About({ content }) {
             The Overlook<br/>  
             <small><a href='https://www.sonslunaris.com/' target='_blank' rel="noopener noreferrer">Sons Lunaris</a>, <a href='https://www.facebook.com/RumboatChili/' target='_blank' rel="noopener noreferrer">Rumboat Chili</a></small></p>
             
-            <img alt='wbtw-overlook' src='/overlook.png' style={{width:'50%'}}/>
+            <img alt='wbtw-overlook' src='/overlook.png' style={{width:'100%'}}/>
 
             <hr class="rounded"></hr> 
             <h3>debut album, out now!</h3>
