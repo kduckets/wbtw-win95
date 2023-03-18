@@ -69,7 +69,7 @@ function About({ content }) {
 
             </StyledDiv>
             <hr class="rounded"></hr> 
-            <h3>next show!</h3>
+            <h3>next show:</h3>
             <p><b>4.8.23 - Lowell, MA </b>
             The Overlook<br/>  
             <small><a href='https://www.sonslunaris.com/' target='_blank' rel="noopener noreferrer">Sons Lunaris</a>, <a href='https://www.facebook.com/RumboatChili/' target='_blank' rel="noopener noreferrer">Rumboat Chili</a></small></p>
@@ -77,7 +77,7 @@ function About({ content }) {
             <img alt='wbtw-overlook' src='/overlook.png' style={{width:'100%'}}/>
 
             <hr class="rounded"></hr> 
-            <h3>debut album, out now!</h3>
+            <h3>debut album, out now</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='100%' ></img>
