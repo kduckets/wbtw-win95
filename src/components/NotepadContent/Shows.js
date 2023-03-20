@@ -69,6 +69,12 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
+            <p><b>3.25.23 - Medford, MA </b>
+            Gordita Beach<br/>  
+            <small><a href='http://www.courtneyswain.com/' target='_blank' rel="noopener noreferrer">Courtney Swain</a>, <a href='https://eightfootmanchild.bandcamp.com/' target='_blank' rel="noopener noreferrer">Eight Foot Manchild</a></small></p>
+            
+            <img alt='wbtw-gordita' src='/gordita.png' style={{width:'50%'}}/>
+
             <p><b>4.8.23 - Lowell, MA </b><a href='https://millno5.com/event/sons-lunaris-rumboat-chili-we-broke-the-weather/' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
             The Overlook<br/>  
             <small><a href='https://www.sonslunaris.com/' target='_blank' rel="noopener noreferrer">Sons Lunaris</a>, <a href='https://www.facebook.com/RumboatChili/' target='_blank' rel="noopener noreferrer">Rumboat Chili</a></small></p>
