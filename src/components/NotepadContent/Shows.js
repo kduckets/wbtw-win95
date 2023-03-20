@@ -69,7 +69,7 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
-            <p><b>3.25.23 - Medford, MA </b>
+            <p><b>3.25.23 - Medford, MA </b> <br/>
             Gordita Beach<br/>  
             <small><a href='http://www.courtneyswain.com/' target='_blank' rel="noopener noreferrer">Courtney Swain</a>, <a href='https://eightfootmanchild.bandcamp.com/' target='_blank' rel="noopener noreferrer">Eight Foot Manchild</a></small></p>
             
