@@ -20,7 +20,9 @@ const StyledLink = styled.a`
     color: black;
 `
 const StyledButton = styled.button`
-    color: #000;
+      button {
+        color: #000;
+      }
 `
 const StyledDiv = styled.div`
     text-align: center;
