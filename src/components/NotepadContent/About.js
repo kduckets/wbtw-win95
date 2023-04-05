@@ -25,10 +25,6 @@ const StyledDiv = styled.div`
     width: 100%;
 `
 
-  const formButton = {
-    color: "#000"
-  };
-
 function About({ content }) {
     const social = [
 
@@ -91,7 +87,6 @@ function About({ content }) {
                 duplicate: "this email is already subscribed",
                 button: "subscribe",
               }}
-              className={formButton}
             />
             <small>drop your email to get the weather report</small>
             </StyledDiv>
