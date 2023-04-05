@@ -19,11 +19,6 @@ const StyledList = styled.ul`
 const StyledLink = styled.a`
     color: black;
 `
-const StyledButton = styled.button`
-      button {
-        color: #000;
-      }
-`
 const StyledDiv = styled.div`
     text-align: center;
     margin: auto;
@@ -73,7 +68,6 @@ function About({ content }) {
                 }
                 </StyledList>
           <br/>
-            <StyledButton>   
             <Mailchimp
             action="https://webroketheweather.us21.list-manage.com/subscribe/post?u=65c5bfbaf87d036d0dd3dcacc&id=c76f5699f5&f_id=0015a6e1f0"
             fields={[
@@ -95,7 +89,6 @@ function About({ content }) {
               }}
             />
             <small>drop your email to get the weather report</small>
-            </StyledButton>
             </StyledDiv>
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
