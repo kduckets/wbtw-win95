@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope, FaInfoCircle } from 'react-icons/fa'
+import Mailchimp from 'react-mailchimp-form'
 
 const Icons = { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope };
 
@@ -69,6 +70,18 @@ function About({ content }) {
 
             </StyledDiv>
             <hr class="rounded"></hr> 
+            <Mailchimp
+            action="https://webroketheweather.us21.list-manage.com/subscribe/post?u=65c5bfbaf87d036d0dd3dcacc&id=c76f5699f5&f_id=0015a6e1f0"
+            fields={[
+              {
+                name: "EMAIL",
+                placeholder: "email",
+                type: "email",
+                required: true,
+              },
+              ]}
+            />
+       <hr class="rounded"></hr> 
             <h3>next show:</h3>
             <p><b>4.8.23 - Lowell, MA </b><a href='https://millno5.com/event/sons-lunaris-rumboat-chili-we-broke-the-weather/' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
             The Overlook<br/>  
@@ -117,7 +130,6 @@ function About({ content }) {
                    <p><a className="email" href="mailto:webroketheweather@gmail.com">webroketheweather@gmail.com</a></p>
            
                   </small>
-          
   
             <div>
                 <br/>
