@@ -92,7 +92,7 @@ function About({ content }) {
             </StyledDiv>
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
-            <p><b>4.8.23 - Lowell, MA </b><a href='https://millno5.com/event/sons-lunaris-rumboat-chili-we-broke-the-weather/' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
+            <p><b>4.8.23 - Lowell, MA </b><br/>
             The Overlook<br/>  
             <small><a href='https://www.sonslunaris.com/' target='_blank' rel="noopener noreferrer">Sons Lunaris</a>, <a href='https://www.facebook.com/RumboatChili/' target='_blank' rel="noopener noreferrer">Rumboat Chili</a></small></p>
             
