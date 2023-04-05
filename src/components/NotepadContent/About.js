@@ -70,8 +70,7 @@ function About({ content }) {
 
             </StyledDiv>
           <br/>
-            <StyledDiv>
-            
+            <StyledDiv>   
             <Mailchimp
             action="https://webroketheweather.us21.list-manage.com/subscribe/post?u=65c5bfbaf87d036d0dd3dcacc&id=c76f5699f5&f_id=0015a6e1f0"
             fields={[
@@ -81,9 +80,18 @@ function About({ content }) {
                 type: "email",
                 required: true,
               },
+              
               ]}
+              messages={{
+                sending: "sending...",
+                success: "thanks for subscribing",
+                error: "something went wrong",
+                empty: "drop your email, please",
+                duplicate: "this email is already subscribed",
+                button: "subscribe",
+              }}
             />
-            <small>drop your email to receive the weather report</small>
+            <small>drop your email to get the weather report</small>
             </StyledDiv>
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
