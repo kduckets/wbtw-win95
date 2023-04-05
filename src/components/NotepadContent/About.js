@@ -83,7 +83,7 @@ function About({ content }) {
                 sending: "sending...",
                 success: "thanks for subscribing!",
                 error: "something went wrong",
-                empty: "drop your email, please",
+                empty: "please enter your email to subscribe",
                 duplicate: "this email is already subscribed",
                 button: "subscribe",
               }}
