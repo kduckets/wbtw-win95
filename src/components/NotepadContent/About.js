@@ -84,7 +84,7 @@ function About({ content }) {
               ]}
             />
             </StyledDiv>
-          <hr class="rounded"></hr> 
+         
             <h3>next show:</h3>
             <p><b>4.8.23 - Lowell, MA </b><a href='https://millno5.com/event/sons-lunaris-rumboat-chili-we-broke-the-weather/' target='_blank' rel="noopener noreferrer"> <FaInfoCircle/></a><br/>
             The Overlook<br/>  
