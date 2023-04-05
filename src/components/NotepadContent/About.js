@@ -69,7 +69,7 @@ function About({ content }) {
                 </StyledList>
 
             </StyledDiv>
-          
+          <br/>
             <StyledDiv>
             
             <Mailchimp
