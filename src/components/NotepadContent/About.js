@@ -84,7 +84,7 @@ function About({ content }) {
               ]}
               messages={{
                 sending: "sending...",
-                success: "thanks for subscribing",
+                success: "thanks for subscribing!",
                 error: "something went wrong",
                 empty: "drop your email, please",
                 duplicate: "this email is already subscribed",
