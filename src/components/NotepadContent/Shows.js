@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope, FaInfoCircle } from 'react-icons/fa'
+import { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope, FaInfoCircle, BsTicketPerforated } from 'react-icons/fa'
 
 const Icons = { FaInstagram, FaFacebook, FaBandcamp, FaEnvelope };
 
