@@ -77,10 +77,7 @@ function Videos({ content }) {
             <p><small><i>"Fire Season" (Live at Kennedy Studios)</i></small></p>
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/beA8Z1Ue9fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-            <p><small><i>"Fire Season" (January 21, 2020 at the Midway JP)</i></small></p>
-            <iframe width="100%" height="315" 
-            src="https://www.youtube.com/embed/gJOayQVMbIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+          
         </div>
     )
 }
