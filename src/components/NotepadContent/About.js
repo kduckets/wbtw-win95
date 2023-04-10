@@ -92,13 +92,11 @@ function About({ content }) {
             </StyledDiv>
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
-            <p><b>4.8.23 - Lowell, MA </b><br/>
-            The Overlook<br/>  
-            <small><a href='https://www.sonslunaris.com/' target='_blank' rel="noopener noreferrer">Sons Lunaris</a>, <a href='https://www.facebook.com/RumboatChili/' target='_blank' rel="noopener noreferrer">Rumboat Chili</a></small></p>
-            
-            <a href='https://millno5.com/event/sons-lunaris-rumboat-chili-we-broke-the-weather/' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-overlook' src='/overlook.png' style={{width:'100%'}}/>
-            </a>
+            <p><b>5.6.23 - Somerville, MA </b><br/>
+            <a href='https://www.eventbrite.com/e/we-broke-the-weather-free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127' target='_blank' rel="noopener noreferrer">The Jungle</a><br/>  
+            <small><a href='https://freerockband.com/' target='_blank' rel="noopener noreferrer">Free Rock</a>, <a href='https://www.facebook.com/thecosmicvultures' target='_blank' rel="noopener noreferrer">The Cosmic Vultures</a>,
+           <a href=' https://www.facebook.com/reneemaskinmusic/' target='_blank' rel="noopener noreferrer">Renee Maskin</a></small></p>
+          
 
             <hr class="rounded"></hr> 
             <h3>debut album, out now</h3>
