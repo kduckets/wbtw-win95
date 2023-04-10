@@ -92,7 +92,7 @@ function About({ content }) {
             </StyledDiv>
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
-            <p> <b>5.6.23 - Somerville, MA </b><a href='https://www.eventbrite.com/e/we-broke-the-weather-free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127' target='_blank' rel="noopener noreferrer"><small>[tix]</small></a><br/>
+            <p> <b>5.6.23 - Somerville, MA </b><a href='https://www.eventbrite.com/e/we-broke-the-weather-free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127' target='_blank' rel="noopener noreferrer"><small>[tickets]</small></a><br/>
             The Jungle<br/>  
             <small><a href='https://freerockband.com/' target='_blank' rel="noopener noreferrer">Free Rock</a>, <a href='https://www.facebook.com/thecosmicvultures' target='_blank' rel="noopener noreferrer">The Cosmic Vultures</a>,            <a href=' https://www.facebook.com/reneemaskinmusic/' target='_blank' rel="noopener noreferrer">Renee Maskin</a></small></p>
 
