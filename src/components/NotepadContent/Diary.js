@@ -5,9 +5,11 @@ function Diary({ content }) {
 
     return (
         <div>
-            <h4>kev's diary - keep out, dude</h4>
+            <h4>is prog cool again?</h4>
         
            <p>
+            by Kev
+            <br/>
             <small>
            [redacted]          </small>   </p>
               <br/>
