@@ -3,10 +3,9 @@ import React from 'react'
 
 function Diary({ content }) {
 
-    return (
-        
+return (      
 <div>
-<img alt="" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/5bbf2533-1511-6c36-7dd2-c699eed83bf8.png" style="max-width: 196px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage" width="196" align="middle"/>    
+<img alt="" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/5bbf2533-1511-6c36-7dd2-c699eed83bf8.png" width="196" align="middle"/>    
 <br/>        
 <h3>the weather report</h3>
                 
@@ -18,18 +17,19 @@ Hellooo weatherheads!!! Welcome to the inaugural w e a t h e r  r e p o r t, a f
 
 We’re moving on up in 2023, comin at ya with weekend shows at potentially more reasonable hours. Next up:
 <br/>
-<img data-file-id="82238" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/1d17a463-decd-421f-63e4-4952eb45ada9.png" style="border: 0px;width: 271px;height: 420px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="271" height="420"/>
-<a href="https://lunalowell.com/movies/sons-lunaris-rumboat-chili-we-broke-the-weather-4-8-630/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">4/8 with Sons Lunaris and Rumboat Chili @ The Overlook in Lowell, MA</a>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/1d17a463-decd-421f-63e4-4952eb45ada9.png"  width="271" height="420"/>
+<a href="https://lunalowell.com/movies/sons-lunaris-rumboat-chili-we-broke-the-weather-4-8-630/" >4/8 with Sons Lunaris and Rumboat Chili @ The Overlook in Lowell, MA</a>
 <br/>
 <br/>
-<a href="https://eventbrite.com/e/free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">5/6 with Free Rock, Cosmic Vultures, and Renee Maskin&nbsp;@ The Jungle in Somerville MA</a>
+<a href="https://eventbrite.com/e/free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127" target="_blank">5/6 with Free Rock, Cosmic Vultures, and Renee Maskin&nbsp;@ The Jungle in Somerville MA</a>
 <br/>
 With more to come. We'll keep you posted here and at webroketheweather.com as shows crop up. <br/>
 Sadly, due to a scheduling conflict, we will not be playing Somerville Porchfest this year :(
 <br/>
 But rest assured, while we aren't on stage actively trying to decapitate you with sound, we’re also hard at work on new material, upgrading the practice space, cooking up demos, messin around with synths, revamping the live setup, etc etc 
  <br/>
-- Steve</p>
+- Steve
+</p>
 <br/>
 
 <hr class="rounded"></hr> 
@@ -37,20 +37,20 @@ But rest assured, while we aren't on stage actively trying to decapitate you wit
 <h3>feast your earholes</h3>
 <h4>Nick's Picks</h4>
 <br/>
-<img data-file-id="82240" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7af92216-5442-4616-ea60-ca815c0dc30b.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7af92216-5442-4616-ea60-ca815c0dc30b.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
 <br/>
 <p>
 <a href="https://aimingforenrike.bandcamp.com/album/empty-airports" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">Aiming For Enrike - Empty Airports</a> <b>(electronic, minimalism, math rock)</b>
 <br/>
   The first time I saw Norway’s Aiming For Enrike was opening for fellow Norwegian jazz-rock juggernauts Jaga Jazzist in I think 2016 or ‘17. Back then the duo were more solidly in the playful/driving instrumental math rock space – think Battles, And So I Watch You From Afar, VASA, etc. I’ve loosely kept tabs on them since, but Empty Airports has caught my attention in a way they hadn’t before. Something about the mixture of smooth synths on top of their more typical guitar loops and themes just does something to me. Feels like a synthwave-y, cyberpunk-y beach party at sunset. Basically the vibes are immaculate.      
 </p>    
-<img data-file-id="82241" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7c9fd555-42c3-49fc-0626-071e08768372.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7c9fd555-42c3-49fc-0626-071e08768372.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
 <br/>
 <a href="https://atsukochiba.bandcamp.com/album/water-it-feels-like-its-growing" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">Atsuko Chiba - Water, It Feels Like It’s Growing</a> <b>(prog psych rock)</b>   
 <p>
 Montreal’s Atsuko Chiba have made a point of being near impossible to define, but whatever they’ve thrown out there has been both fascinating and an utter joy to listen to. Their winning streak continues on their latest, which I can basically describe as the psychedelic grooviness of Gizzard but just the more experimental parts and also after having taken an edible. Once again, vibes up the wazoo. Take me up to space and let me float amongst the stars to this shit.
 </p>
-<img data-file-id="82243" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9c4eb1fb-f7f4-89f4-d1a5-a6268cbfee84.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9c4eb1fb-f7f4-89f4-d1a5-a6268cbfee84.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
 <br/>
 <a href="https://witchripper.bandcamp.com/album/the-flight-after-the-fall-2" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">Witch Ripper - The Flight After the Fall</a> <b>(prog stoner metal)</b>
  <p>
@@ -58,7 +58,7 @@ Montreal’s Atsuko Chiba have made a point of being near impossible to define, 
  </p>    
 
  <h4>Steve's sleeve</h4>
- <img data-file-id="82239" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/34249729-91a1-bf52-6534-dbf28e744eef.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
+ <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/34249729-91a1-bf52-6534-dbf28e744eef.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
  <br/>
  <a href="https://delugegrander.bandcamp.com/album/oceanarium-2" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">Deluge Grander - Oceanarium</a> <b>(instrumental prog)</b>
 <p>
@@ -69,7 +69,7 @@ Slip into your wizard robes, pack yourself a bowl of halflings leaf, and whisper
 
 <h3>and now, this</h3>
 <br/>
-<img data-file-id="82248" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/b2cdcf9a-5bd3-625f-c078-0524bc32a08d.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/b2cdcf9a-5bd3-625f-c078-0524bc32a08d.jpg" style="border: 0px;width: 350px;height: 350px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="350" height="350"></img>
 <br/>
 <h4>art, ai, baseball</h4>
 <p>
@@ -88,10 +88,8 @@ If you didn’t like baseball before, you most likely still won’t. If you like
 Love,<br/>
 Kev 
 </p>
-        </div>
-
-        
-    )
+</div>
+)
 }
 
 export default Diary
