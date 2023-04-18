@@ -55,16 +55,24 @@ But rest assured, while we aren't on stage actively trying to decapitate you wit
 <p>
 <a href="https://aimingforenrike.bandcamp.com/album/empty-airports" target="_blank"  >Aiming For Enrike - Empty Airports</a> <b>(electronic, minimalism, math rock)</b>
 <br/>
+<br/>
+
   The first time I saw Norway’s Aiming For Enrike was opening for fellow Norwegian jazz-rock juggernauts Jaga Jazzist in I think 2016 or ‘17. Back then the duo were more solidly in the playful/driving instrumental math rock space – think Battles, And So I Watch You From Afar, VASA, etc. I’ve loosely kept tabs on them since, but Empty Airports has caught my attention in a way they hadn’t before. Something about the mixture of smooth synths on top of their more typical guitar loops and themes just does something to me. Feels like a synthwave-y, cyberpunk-y beach party at sunset. Basically the vibes are immaculate.      
 </p>    
+<br/>
+
 <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7c9fd555-42c3-49fc-0626-071e08768372.jpg"   width="350" height="350"></img>
 <br/>
+<br/>
+
 <a href="https://atsukochiba.bandcamp.com/album/water-it-feels-like-its-growing" target="_blank"  >Atsuko Chiba - Water, It Feels Like It’s Growing</a> <b>(prog psych rock)</b>   
 <p>
 Montreal’s Atsuko Chiba have made a point of being near impossible to define, but whatever they’ve thrown out there has been both fascinating and an utter joy to listen to. Their winning streak continues on their latest, which I can basically describe as the psychedelic grooviness of Gizzard but just the more experimental parts and also after having taken an edible. Once again, vibes up the wazoo. Take me up to space and let me float amongst the stars to this shit.
 </p>
 <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9c4eb1fb-f7f4-89f4-d1a5-a6268cbfee84.jpg"   width="350" height="350"></img>
 <br/>
+<br/>
+
 <a href="https://witchripper.bandcamp.com/album/the-flight-after-the-fall-2" target="_blank"  >Witch Ripper - The Flight After the Fall</a> <b>(prog stoner metal)</b>
  <p>
  One of the qualities that pretty much without fail will make me love a piece of music is if I think to myself, “This shit sounds like Mastodon’s Blood Mountain!” If that doesn’t automatically conjure up a very specific image to you, then basically imagine music with big-ass riffs, big-ass melodies, and big-ass fuzz that straddles the line between being nerd shit and music to slam beer cans on your forehead to. There’s definitely some touches of more Mars Volta, Rush, The Dear Hunter, what-have-you kind of capital P prog as well if you’re into that (and if you’re reading this, I’m going on a hunch that you probably are).
@@ -73,6 +81,8 @@ Montreal’s Atsuko Chiba have made a point of being near impossible to define, 
  <h4>Steve's sleeve</h4>
  <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/34249729-91a1-bf52-6534-dbf28e744eef.jpg"   width="350" height="350"></img>
  <br/>
+ <br/>
+
  <a href="https://delugegrander.bandcamp.com/album/oceanarium-2" target="_blank"  >Deluge Grander - Oceanarium</a> <b>(instrumental prog)</b>
 <p>
 Slip into your wizard robes, pack yourself a bowl of halflings leaf, and whisper some forbidden incantations because this is a straight up instrumental prog banger. This 2017 offering from Dan Britton’s Deluge Grander feels very much like an extension of his work in Birds and Buildings—which I typically describe as early King Crimson crossed with fusion era Zappa—only with more over the top instrumentation and somehow even more thematic composition. If you’re looking to score your next D&D campaign and/or just looking to escape to the shadow realm for an hour and change, look no further. 
