@@ -12,22 +12,35 @@ return (
 <p>
 Hellooo weatherheads!!! Welcome to the inaugural w e a t h e r  r e p o r t, a friendly little newsletter for keeping our buds and pals up to date on all things we broke the weather.
 <br/>
+<br/>
 
 2022 was an exciting year for us. We released our debut album to critical acclaim (which we’re still floored by tbh), released a live-in-the-studio EP (along with some sick headless kev vids), and even got nominated for Boston Music Awards’ Jazz Artist of the Year–which is pretty neat. Best of all though, we got to stay up late and play some rock n roll for you, our fans and buds and pals. Words cannot describe our appreciation for y’all showing up for our string of late nite weeknight dive bar sets. It really means the world to us.
-
+<br/>
+<br/>
 We’re moving on up in 2023, comin at ya with weekend shows at potentially more reasonable hours. Next up:
 <br/>
+<br/>
+<br/>
 <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/1d17a463-decd-421f-63e4-4952eb45ada9.png"  width="271" height="420"/>
+
+<br/>
+<br/>
 <a href="https://lunalowell.com/movies/sons-lunaris-rumboat-chili-we-broke-the-weather-4-8-630/" >4/8 with Sons Lunaris and Rumboat Chili @ The Overlook in Lowell, MA</a>
 <br/>
 <br/>
 <a href="https://eventbrite.com/e/free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127" target="_blank">5/6 with Free Rock, Cosmic Vultures, and Renee Maskin&nbsp;@ The Jungle in Somerville MA</a>
 <br/>
+<br/>
+<br/>
 With more to come. We'll keep you posted here and at webroketheweather.com as shows crop up. <br/>
 Sadly, due to a scheduling conflict, we will not be playing Somerville Porchfest this year :(
 <br/>
+<br/>
+<br/>
 But rest assured, while we aren't on stage actively trying to decapitate you with sound, we’re also hard at work on new material, upgrading the practice space, cooking up demos, messin around with synths, revamping the live setup, etc etc 
  <br/>
+ <br/>
+<br/>
 - Steve
 </p>
 <br/>
