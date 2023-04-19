@@ -20,7 +20,7 @@ return (
 <small>4/7/23</small>
 </StyledDiv>             
 <p>
-Hellooo weatherheads!!! Welcome to the inaugural w e a t h e r  r e p o r t, a friendly little newsletter for keeping our buds and pals up to date on all things we broke the weather.
+Hellooo weatherheads!!! Welcome to the inaugural w e a t h e r  <br/>r e p o r t, a friendly little newsletter for keeping our buds and pals up to date on all things we broke the weather.
 <br/>
 <br/>
 
