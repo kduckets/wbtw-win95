@@ -60,7 +60,7 @@ But rest assured, while we aren't on stage actively trying to decapitate you wit
 
 <h3>feast your earholes</h3>
 <h4>Nick's Picks</h4>
-<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7af92216-5442-4616-ea60-ca815c0dc30b.jpg"   width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7af92216-5442-4616-ea60-ca815c0dc30b.jpg"   width="100%" ></img>
 <br/>
 <p>
 <a href="https://aimingforenrike.bandcamp.com/album/empty-airports" target="_blank"  >Aiming For Enrike - Empty Airports</a> <b>(electronic, minimalism, math rock)</b>
@@ -71,7 +71,7 @@ But rest assured, while we aren't on stage actively trying to decapitate you wit
 </p>    
 <br/>
 
-<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7c9fd555-42c3-49fc-0626-071e08768372.jpg"   width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/7c9fd555-42c3-49fc-0626-071e08768372.jpg"   width="100%"></img>
 <br/>
 <br/>
 
@@ -79,7 +79,7 @@ But rest assured, while we aren't on stage actively trying to decapitate you wit
 <p>
 Montreal’s Atsuko Chiba have made a point of being near impossible to define, but whatever they’ve thrown out there has been both fascinating and an utter joy to listen to. Their winning streak continues on their latest, which I can basically describe as the psychedelic grooviness of Gizzard but just the more experimental parts and also after having taken an edible. Once again, vibes up the wazoo. Take me up to space and let me float amongst the stars to this shit.
 </p>
-<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9c4eb1fb-f7f4-89f4-d1a5-a6268cbfee84.jpg"   width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9c4eb1fb-f7f4-89f4-d1a5-a6268cbfee84.jpg"    width="100%"></img>
 <br/>
 <br/>
 
@@ -89,7 +89,7 @@ Montreal’s Atsuko Chiba have made a point of being near impossible to define, 
  </p>    
 <br/>
  <h4>Steve's sleeve</h4>
- <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/34249729-91a1-bf52-6534-dbf28e744eef.jpg"   width="350" height="350"></img>
+ <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/34249729-91a1-bf52-6534-dbf28e744eef.jpg"   width="100%"></img>
  <br/>
  <br/>
 
@@ -102,7 +102,7 @@ Slip into your wizard robes, pack yourself a bowl of halflings leaf, and whisper
 
 <h3>and now, this</h3>
 <br/>
-<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/b2cdcf9a-5bd3-625f-c078-0524bc32a08d.jpg"   width="350" height="350"></img>
+<img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/b2cdcf9a-5bd3-625f-c078-0524bc32a08d.jpg"    width="100%"></img>
 <br/>
 <h4>art, ai, baseball</h4>
 <p>
