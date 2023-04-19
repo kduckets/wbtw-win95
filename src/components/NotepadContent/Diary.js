@@ -1,4 +1,6 @@
 import React from 'react'
+import styled from 'styled-components'
+
 
 const StyledDiv = styled.div`
     text-align: center;
@@ -50,7 +52,6 @@ But rest assured, while we aren't on stage actively trying to decapitate you wit
 
 - Steve
 </p>
-<br/>
 
 <hr class="rounded"></hr> 
 
