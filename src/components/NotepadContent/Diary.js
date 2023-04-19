@@ -17,7 +17,7 @@ return (
 <img alt="" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/5bbf2533-1511-6c36-7dd2-c699eed83bf8.png" width="196" align="middle"/>    
 <br/>        
 <h3>the weather report</h3>
-<i><small>4/7/23</small></i>
+<small>4/7/23</small>
 </StyledDiv>             
 <p>
 Hellooo weatherheads!!! Welcome to the inaugural w e a t h e r  r e p o r t, a friendly little newsletter for keeping our buds and pals up to date on all things we broke the weather.
