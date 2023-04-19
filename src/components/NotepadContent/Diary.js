@@ -27,7 +27,7 @@ Hellooo weatherheads!!! Welcome to the inaugural w e a t h e r  r e p o r t, a f
 We’re moving on up in 2023, comin at ya with weekend shows at potentially more reasonable hours. Next up:
 <br/>
 <br/>
-<br/>
+
 <img src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/1d17a463-decd-421f-63e4-4952eb45ada9.png"  width="271" height="420"/>
 
 <br/>
@@ -38,16 +38,16 @@ We’re moving on up in 2023, comin at ya with weekend shows at potentially more
 <a href="https://eventbrite.com/e/free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127" target="_blank">5/6 with Free Rock, Cosmic Vultures, and Renee Maskin&nbsp;@ The Jungle in Somerville MA</a>
 <br/>
 <br/>
-<br/>
+
 With more to come. We'll keep you posted here and at webroketheweather.com as shows crop up. <br/>
 Sadly, due to a scheduling conflict, we will not be playing Somerville Porchfest this year :(
 <br/>
 <br/>
-<br/>
+
 But rest assured, while we aren't on stage actively trying to decapitate you with sound, we’re also hard at work on new material, upgrading the practice space, cooking up demos, messin around with synths, revamping the live setup, etc etc 
  <br/>
  <br/>
-<br/>
+
 - Steve
 </p>
 <br/>
