@@ -13,6 +13,8 @@ function Diary({ content }) {
 
 return (      
 <div>
+<br/>
+ <br/>
 <StyledDiv>
 <img alt="" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/5bbf2533-1511-6c36-7dd2-c699eed83bf8.png" width="196" align="middle"/>    
 <br/>        
