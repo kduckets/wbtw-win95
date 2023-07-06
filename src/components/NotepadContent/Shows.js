@@ -73,7 +73,7 @@ function Shows({ content }) {
            
             <h3>past shows</h3>
             
-           <p> <b>7.4.23 - Somerville, MA </b><br/> The Middle East<br/>  
+           <p> <b>7.4.23 - Cambridge, MA </b><br/> The Middle East<br/>  
             <small><a href='https://www.facebook.com/weareheadfirst/' target='_blank' rel="noopener noreferrer">Headfirst</a>, <a href='https://www.facebook.com/Kruisershow/' target='_blank' rel="noopener noreferrer">Kruiser</a>, <a href='https://wearemaplehead.com/' target='_blank' rel="noopener noreferrer">Maplehead</a></small></p>
           
 
