@@ -99,7 +99,7 @@ function About({ content }) {
           
 
             <hr class="rounded"></hr> 
-            <h3>cabin fever ep</h3>
+            <h3>cabin fever ep, <small>home of the boneloader</small></h3>
          
          <a href="https://webroketheweather.bandcamp.com/album/cabin-fever-ep?campaign=website" target="_blank" rel="noopener noreferrer">
          <img src='/cabin_fever_cover.png' alt='cabin-fever-cover' width='100%' ></img>
