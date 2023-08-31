@@ -99,6 +99,13 @@ function About({ content }) {
           
 
             <hr class="rounded"></hr> 
+            <h3>just released - Cabin Fever EP</h3>
+         
+         <a href="https://webroketheweather.bandcamp.com/album/cabin-fever-ep?campaign=website" target="_blank" rel="noopener noreferrer">
+         <img src='/cabin_fever_cover.png' alt='cabin-fever-cover' width='100%' ></img>
+         </a> 
+
+         <hr class="rounded"></hr> 
             <h3>debut album, out now:</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
