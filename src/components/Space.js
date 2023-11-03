@@ -37,7 +37,7 @@ function Space({ closeSpace, isMobile }) {
                 <iframe
         src="https://spaceinvaders-phi.vercel.app/"
         frameBorder="0"
-        title="space invaders"
+        title="space invaders!"
         style={{
           display: 'block',
           width: '100%',
