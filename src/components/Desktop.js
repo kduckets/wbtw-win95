@@ -143,8 +143,8 @@ function Desktop() {
                 )
                 
             }
-                          {
-                 SpaceOpened && (
+                 {
+                 spaceOpened && (
                     <Space closeSPace={closeSpace} selectedItem={selectedItem} isMobile={isMobile} />
                 )
                 
