@@ -21,12 +21,12 @@ function Space({ closeSpace, isMobile }) {
             icon="flying_through_space_100"
             title="space_invaders.exe"
             closeModal={closeSpace}
-            // style={{
-            //     left: isMobile ? '5%' : '5%',
-            //     top: '5%',
-            //     width: isMobile ? '90%' : '80%',
-            //     height: isMobile ? '90%' : '90%'
-            // }}
+            style={{
+                left: isMobile ? '5%' : '5%',
+                top: '5%',
+                width: isMobile ? '90%' : '80%',
+                height: isMobile ? '90%' : '90%'
+            }}
             buttons={[
 
                 { value: 'Exit', onClick: closeSpace },
