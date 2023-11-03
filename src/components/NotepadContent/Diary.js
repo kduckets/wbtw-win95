@@ -39,6 +39,8 @@ Next up, in the heat of July, Fire Season came for WMBR. Specifically the show P
 Now, as some of you may know, I’ll soon be the only kidless dad in wbtw. And for that reason we likely won’t playing shows again until well into 2024. But fear not, for my final piece of news for you weatherheads is that wbtw is bound for Kennedy Studios once again to track our second LP!!! Forged in the depths of Scott’s basement, honed on the killing fields of the small and medium small-ish stages in and around greater Boston, chock full of weird noises and songs and stuff… What else can I say? We’re pumped to cook up some new music for y’all!
 <br/>
 <br/>
+<br/>
+<br/>
 On to Nick for some album recs:
 </p>
 <h2>feast your earholes</h2>
