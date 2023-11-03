@@ -42,9 +42,10 @@ Now, as some of you may know, I’ll soon be the only kidless dad in wbtw. And f
 On to Nick for some album recs:
 </p>
 <h2>feast your earholes</h2>
-<h3>wbtw’s Summer Jamz Playlist 2023</h3>
+<i>wbtw’s Summer Jamz Playlist 2023</i>
 <p>
-<b>King Gizzard and the Lizard Wizard - PetroDragonic Apocalypse etc. etc. etc.</b>
+<b>King Gizzard and the Lizard Wizard - <i>PetroDragonic Apocalypse etc. etc. etc.</i></b>
+<br/>
 <br/>
 Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously, this goddamn album. I still don’t know how they did it, but somehow Gizz managed to write the gnarliest, most technically and cognitively-demanding shit and make it sound like the soundtrack to a mosh pit at Hellfest. When people say that the goal of complex music is to make it sound simple, this is what they’re talking about. They’ve been elevating their game for a while now, but they basically went into god mode for this one. We’re truly not worthy.
 <br/>
@@ -52,7 +53,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
 <img height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/4f681a1c-fd26-627c-98fb-7ed0e20d0abf.jpg" width="300"/>
 </p>
 <p>
-  <b>Astroverse Dimensions - Feeding on the Spirit</b>
+  <b>Astroverse Dimensions - <i>Feeding on the Spirit</i></b>
   <br/>
   Okay, stick with me here. Remember that Smashmouth album Astro Lounge, with the terrible/amazing artwork that can only be described as late 90s future-core (everything was very shiny and poorly-rendered)? I’m pretty sure this is the album that would actually be played in said Astro Lounge. It’s got some synthy pastiche to it, distorted voiceovers and all, and it heavily features some kind of theremin patch for extra spook. But it also grooves like a motherfucker and makes me want to dance around like an idiot. The riffs are great too, if that’s your thing (if you’re reading this and follow us it should be your thing).
   <br/>
@@ -61,7 +62,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
 </p>
 
 <p>
-  <b>Scaphoid - Echoes of the Rift</b>
+  <b>Scaphoid - <i>Echoes of the Rift</i></b>
   <br/>
   Speaking of riffs, this album is basically just one giant riff. Echoes of the Rift is 45 minutes of immaculately-composed instrumental progressive rock/metal. This one is for the adventurer who wants to be aurally bludgeoned in the face by the sheer epicness of their journey. I guarantee you will want to scale some mountain or conquer some shit (metaphorically or literally) upon listening to this album.
   <br/>
@@ -70,7 +71,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
 </p>
 
 <p>
-  <b>Reformat - Precursed</b>
+  <b>Reformat - <i>Precursed</i></b>
   <br/>
   Okay, I got one more high-octane pick for you all. There’s a specific brand of instrumental post-rock that I can’t get enough of that consists of screeching synths, electronic elements, futuristic themes and visions, and energy out the wazoo. 65daysofstatic are pretty much the standard-bearer for this niche, with a bunch of other incredible bands filling in the space around them, some darker (pg.lost, Barrens), and some lighter (Three Trapped Tigers). Reformat are in the latter category, taking a somewhat tongue-in-cheek approach to their work of composing gigantic robot apocalypse parties. Their previous effort was really good. This one is incredible. Just front to back heartstopping action. If anything could motivate me to run long distances in the heat, it would be this album.
   <br/>
