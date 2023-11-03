@@ -12,12 +12,10 @@ const StyledDiv = styled.div`
 function Diary({ content }) {
 
 return (      
-
 <div>
 <br/>
  <br/>
  <StyledDiv>
-
  <img alt="" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/5bbf2533-1511-6c36-7dd2-c699eed83bf8.png" width="196" align="middle"/>    
 <br/>        
 <h3>the weather report 002</h3>
@@ -25,7 +23,6 @@ return (
  </StyledDiv>
 <p>
 Hellooo weatherheads!!! Steve here again with the second edition of the approximately seasonal we broke the weather newsletter, the weather report. Got a few updates for yas…
-
 <br/>
 <br/>
 Firstly we have a brand spanking new ~ b a n d c a m p  e x c l u s i v e ~ EP: Cabin Fever. Forged in the belly of the White Mountains. Fueled by hot dogs and cheap beers. We venture further into jam territory than ever before on this EP*. And also get synthy. Check it out <a href='https://webroketheweather.bandcamp.com/music' target="_blank">here</a>.
@@ -34,12 +31,10 @@ Firstly we have a brand spanking new ~ b a n d c a m p  e x c l u s i v e ~ EP: 
 <br/>
 <br/>
 Next up, in the heat of July, Fire Season came for WMBR. Specifically the show Pipeline! (Also, in breaking news, they rebroadcasted the show on my birthday—neat!)
-<img data-file-id="2508656" height="105" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9370eaac-dc81-6cd6-88c9-bf7d14659d27.png" style="border-image: none;width: 266px;height: 105px;margin: 0px;border: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="266"/>
+<img height="105" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9370eaac-dc81-6cd6-88c9-bf7d14659d27.png" width="266"/>
 <br/>
 <br/>
-
 Now, as some of you may know, I’ll soon be the only kidless dad in wbtw. And for that reason we likely won’t playing shows again until well into 2024. But fear not, for my final piece of news for you weatherheads is that wbtw is bound for Kennedy Studios once again to track our second LP!!! Forged in the depths of Scott’s basement, honed on the killing fields of the small and medium small-ish stages in and around greater Boston, chock full of weird noises and songs and stuff… What else can I say? We’re pumped to cook up some new music for y’all!
-
 <br/>
 <br/>
 On to Nick for some album recs:
@@ -51,15 +46,14 @@ On to Nick for some album recs:
 <br/>
 Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously, this goddamn album. I still don’t know how they did it, but somehow Gizz managed to write the gnarliest, most technically and cognitively-demanding shit and make it sound like the soundtrack to a mosh pit at Hellfest. When people say that the goal of complex music is to make it sound simple, this is what they’re talking about. They’ve been elevating their game for a while now, but they basically went into god mode for this one. We’re truly not worthy.
 <br/>
-<img data-file-id="2508651" height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/4f681a1c-fd26-627c-98fb-7ed0e20d0abf.jpg" style="border: 0px;width: 300px;height: 300px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="300"></img>
+<img height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/4f681a1c-fd26-627c-98fb-7ed0e20d0abf.jpg" width="300"/>
 </p>
-
 <p>
   <b>Astroverse Dimensions - Feeding on the Spirit</b>
   <br/>
   Okay, stick with me here. Remember that Smashmouth album Astro Lounge, with the terrible/amazing artwork that can only be described as late 90s future-core (everything was very shiny and poorly-rendered)? I’m pretty sure this is the album that would actually be played in said Astro Lounge. It’s got some synthy pastiche to it, distorted voiceovers and all, and it heavily features some kind of theremin patch for extra spook. But it also grooves like a motherfucker and makes me want to dance around like an idiot. The riffs are great too, if that’s your thing (if you’re reading this and follow us it should be your thing).
   <br/>
-  <img data-file-id="2508653" height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/535716be-ab08-6b37-02fe-681bce4281d6.jpg" style="border: 0px;width: 300px;height: 300px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="300"></img>
+  <img height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/535716be-ab08-6b37-02fe-681bce4281d6.jpg" width="300"/>
 </p>
 
 <p>
@@ -67,7 +61,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
   <br/>
   Speaking of riffs, this album is basically just one giant riff. Echoes of the Rift is 45 minutes of immaculately-composed instrumental progressive rock/metal. This one is for the adventurer who wants to be aurally bludgeoned in the face by the sheer epicness of their journey. I guarantee you will want to scale some mountain or conquer some shit (metaphorically or literally) upon listening to this album.
   <br/>
-  <img data-file-id="2508652" height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/d23126ae-42d6-d4f5-08f1-6d665c80d251.jpg" style="border: 0px;width: 300px;height: 300px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="300"></img>
+  <img height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/d23126ae-42d6-d4f5-08f1-6d665c80d251.jpg" width="300"/>
 </p>
 
 <p>
@@ -75,7 +69,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
   <br/>
   Okay, I got one more high-octane pick for you all. There’s a specific brand of instrumental post-rock that I can’t get enough of that consists of screeching synths, electronic elements, futuristic themes and visions, and energy out the wazoo. 65daysofstatic are pretty much the standard-bearer for this niche, with a bunch of other incredible bands filling in the space around them, some darker (pg.lost, Barrens), and some lighter (Three Trapped Tigers). Reformat are in the latter category, taking a somewhat tongue-in-cheek approach to their work of composing gigantic robot apocalypse parties. Their previous effort was really good. This one is incredible. Just front to back heartstopping action. If anything could motivate me to run long distances in the heat, it would be this album.
   <br/>
-  <img data-file-id="2508650" height="272" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/540bd55d-b2ac-0afc-3932-fa567dda83d1.jpg" style="border: 0px;width: 300px;height: 272px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="300"></img>
+  <img height="272" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/540bd55d-b2ac-0afc-3932-fa567dda83d1.jpg" width="300"/>
 
 </p>
 <br/>
@@ -83,7 +77,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
 
 <h3>and now, this</h3>
 <br/>
-<img data-file-id="2508654" height="400" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/cd1ab65f-a733-3412-e54f-5128c20ebe8d.jpg" style="border: 0px;width: 300px;height: 400px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="300"></img>
+<img data-file-id="2508654" height="400" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/cd1ab65f-a733-3412-e54f-5128c20ebe8d.jpg" width="300"/>
 <br/>
 <p>And finally, to Restart our approximately seasonal we broke the weather newsletter baseball commentary section, here’s Kev:</p>
 <br/>
@@ -94,11 +88,6 @@ Bottom of the 9th. Bases loaded. No outs. Disaster lurking around the corner. Yo
 <br/>
 <br/>
 <br/>
-
-
-
-
-
 
 <StyledDiv>
 <img alt="" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/5bbf2533-1511-6c36-7dd2-c699eed83bf8.png" width="196" align="middle"/>    
