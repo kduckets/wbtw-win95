@@ -38,12 +38,12 @@ function Space({ closeSpace, isMobile }) {
         src="https://spaceinvaders-phi.vercel.app/"
         frameBorder="0"
         title="space invaders!"
-        // style={{
-        //   display: 'block',
-        //   width: '100%',
+        style={{
+          display: 'block',
+          width: '100%',
         //   height: isMobile ? '60vh' : '80vh',
-        //   backgroundColor: 'rgb(255,255,255)',
-        // }}
+          backgroundColor: 'rgb(255,255,255)',
+        }}
       />
                 </Wrapper>
             
