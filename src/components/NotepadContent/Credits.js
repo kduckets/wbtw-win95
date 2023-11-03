@@ -22,6 +22,9 @@ function Credits({ content }) {
 
                    <p>floppy box - <a href='https://github.com/Hitman666/FlappyBox' target='_blank' rel="noopener noreferrer">https://github.com/Hitman666/FlappyBox</a></p>               
            
+                   <p>space invaders - <a href=' https://github.com/dwmkerr/spaceinvaders' target='_blank' rel="noopener noreferrer"> https://github.com/dwmkerr/spaceinvaders</a></p>               
+
+                  
                   </small>
           
                

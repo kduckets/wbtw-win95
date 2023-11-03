@@ -89,6 +89,10 @@ function Desktop() {
         toggleFloppy(false);
     };
 
+    const closeSpace = () => {
+        toggleSpace(false);
+    };
+
     const openFloppy = () => {
         toggleFloppy(true);
     };
