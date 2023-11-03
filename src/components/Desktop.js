@@ -8,6 +8,7 @@ import Alert from '@react95/core/Alert';
 import Mine from './Mine';
 import Paint from './Paint';
 import Floppy from './Floppy';
+import Space from './Space';
 import Taskbar from './Taskbar';
 import Synth from './Synth/Synth';
 
@@ -25,6 +26,7 @@ function Desktop() {
     const [mineOpened, toggleMine] = useState(false);
     const [paintOpened, togglePaint] = useState(false);
     const [floppyOpened, toggleFloppy] = useState(false);
+    const [spaceOpened, toggleSpace] = useState(false);
     const [synthOpened, toggleSynth] = useState(false);
 
 
@@ -43,6 +45,7 @@ function Desktop() {
             toggleMine(false);
             togglePaint(false);
             toggleFloppy(false);
+            toggleSpace(false);
             toggleSynth(false);
         }, [data, isMobile]);
 
@@ -88,6 +91,9 @@ function Desktop() {
 
     const openFloppy = () => {
         toggleFloppy(true);
+    };
+    const openSpace = () => {
+        toggleSpace(true);
     };
     const closeSynth = () => {
         toggleSynth(false);
@@ -135,6 +141,13 @@ function Desktop() {
                  floppyOpened && (
                     <Floppy closeFloppy={closeFloppy} selectedItem={selectedItem} isMobile={isMobile} />
                 )
+                
+            }
+                          {
+                 SpaceOpened && (
+                    <Space closeSPace={closeSpace} selectedItem={selectedItem} isMobile={isMobile} />
+                )
+                
             }
                 {
                  synthOpened && (
@@ -143,7 +156,7 @@ function Desktop() {
             }
        
             <Player />
-            <Taskbar openExplorer={openExplorer} openMine={openMine}  openNotepad={openNotepad} openPaint={openPaint} openFloppy={openFloppy} openSynth={openSynth}/>
+            <Taskbar openExplorer={openExplorer} openMine={openMine}  openNotepad={openNotepad} openPaint={openPaint} openFloppy={openFloppy} openSpace={openSpace} openSynth={openSynth}/>
         </React.Fragment>
         
     )

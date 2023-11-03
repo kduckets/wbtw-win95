@@ -11,7 +11,7 @@ const StyledShorcut = styled.div`
     color: white !important;
 `;
 
-function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, items }) {
+function Shortcuts({openExplorer, openMine, openPaint, openNotepad, openFloppy, openSpace, items }) {
 
     return (
         <div>

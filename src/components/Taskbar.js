@@ -11,7 +11,7 @@ import { NavLink } from "react-router-dom";
 //   }
 // `;
 
-function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth, openNotepad}) {
+function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSpace, openSynth, openNotepad}) {
     return (
     
         <TaskBar
@@ -53,6 +53,12 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSynth, open
                       Floppy Box
             
                     </List.Item>
+
+                    <List.Item icon="flying_through_space_100" onClick={() => openSpace()}>
+                  
+                     Space Invaders
+        
+                </List.Item>
                  
             
                     {/* <List.Item icon="windows_explorer"  onClick={() => openExplorer()}>
