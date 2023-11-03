@@ -42,7 +42,7 @@ function Space({ closeSpace, isMobile }) {
           display: 'block',
           width: '100%',
           height: isMobile ? '60vh' : '80vh',
-          backgroundColor: 'rgb(192,192,192)',
+          backgroundColor: 'rgb(255,255,255)',
         }}
       />
                 </Wrapper>
