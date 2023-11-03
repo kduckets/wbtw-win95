@@ -31,6 +31,8 @@ Firstly we have a brand spanking new ~ b a n d c a m p  e x c l u s i v e ~ EP: 
 <br/>
 <br/>
 Next up, in the heat of July, Fire Season came for WMBR. Specifically the show Pipeline! (Also, in breaking news, they rebroadcasted the show on my birthday—neat!)
+<br/>
+<br/>
 <img height="105" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/9370eaac-dc81-6cd6-88c9-bf7d14659d27.png" width="266"/>
 <br/>
 <br/>
@@ -46,12 +48,14 @@ On to Nick for some album recs:
 <br/>
 Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously, this goddamn album. I still don’t know how they did it, but somehow Gizz managed to write the gnarliest, most technically and cognitively-demanding shit and make it sound like the soundtrack to a mosh pit at Hellfest. When people say that the goal of complex music is to make it sound simple, this is what they’re talking about. They’ve been elevating their game for a while now, but they basically went into god mode for this one. We’re truly not worthy.
 <br/>
+<br/>
 <img height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/4f681a1c-fd26-627c-98fb-7ed0e20d0abf.jpg" width="300"/>
 </p>
 <p>
   <b>Astroverse Dimensions - Feeding on the Spirit</b>
   <br/>
   Okay, stick with me here. Remember that Smashmouth album Astro Lounge, with the terrible/amazing artwork that can only be described as late 90s future-core (everything was very shiny and poorly-rendered)? I’m pretty sure this is the album that would actually be played in said Astro Lounge. It’s got some synthy pastiche to it, distorted voiceovers and all, and it heavily features some kind of theremin patch for extra spook. But it also grooves like a motherfucker and makes me want to dance around like an idiot. The riffs are great too, if that’s your thing (if you’re reading this and follow us it should be your thing).
+  <br/>
   <br/>
   <img height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/535716be-ab08-6b37-02fe-681bce4281d6.jpg" width="300"/>
 </p>
@@ -61,6 +65,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
   <br/>
   Speaking of riffs, this album is basically just one giant riff. Echoes of the Rift is 45 minutes of immaculately-composed instrumental progressive rock/metal. This one is for the adventurer who wants to be aurally bludgeoned in the face by the sheer epicness of their journey. I guarantee you will want to scale some mountain or conquer some shit (metaphorically or literally) upon listening to this album.
   <br/>
+  <br/>
   <img height="300" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/d23126ae-42d6-d4f5-08f1-6d665c80d251.jpg" width="300"/>
 </p>
 
@@ -68,6 +73,7 @@ Oh wow, what a surprise, we broke the weather likes Gizzard. Okay, but seriously
   <b>Reformat - Precursed</b>
   <br/>
   Okay, I got one more high-octane pick for you all. There’s a specific brand of instrumental post-rock that I can’t get enough of that consists of screeching synths, electronic elements, futuristic themes and visions, and energy out the wazoo. 65daysofstatic are pretty much the standard-bearer for this niche, with a bunch of other incredible bands filling in the space around them, some darker (pg.lost, Barrens), and some lighter (Three Trapped Tigers). Reformat are in the latter category, taking a somewhat tongue-in-cheek approach to their work of composing gigantic robot apocalypse parties. Their previous effort was really good. This one is incredible. Just front to back heartstopping action. If anything could motivate me to run long distances in the heat, it would be this album.
+  <br/>
   <br/>
   <img height="272" src="https://mcusercontent.com/65c5bfbaf87d036d0dd3dcacc/images/540bd55d-b2ac-0afc-3932-fa567dda83d1.jpg" width="300"/>
 
