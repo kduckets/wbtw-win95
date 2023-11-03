@@ -41,7 +41,7 @@ function Space({ closeSpace, isMobile }) {
         style={{
           display: 'block',
           width: '100%',
-          height: isMobile ? '60vh' : '80vh',
+          height: isMobile ? '69vh' : '80vh',
           backgroundColor: 'rgb(255,255,255)',
         }}
       />
