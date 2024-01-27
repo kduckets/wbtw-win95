@@ -95,7 +95,17 @@ function About({ content }) {
             <p> <b>3.16.24 - Medford, MA </b><br/>The Bang! Space<br/>  
             <small><a href='https://ohmfoam.bandcamp.com/album/ohm-foam' target='_blank' rel="noopener noreferrer">Ohm Foam</a> & <a href='https://pseudospace.bandcamp.com/' target='_blank' rel="noopener noreferrer">Pseudospace</a></small></p>
             <img alt='wbtw-bang-space' src='/bangspace24.jpg' style={{width:'100%'}}/>
-          
+
+
+            
+            <hr class="rounded"></hr> 
+            <h3>debut album, out now:</h3>
+         
+            <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
+            <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='100%' ></img>
+            </a> 
+            <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+       
 
             <hr class="rounded"></hr> 
             <h3>cabin fever EP!</h3>
@@ -104,13 +114,6 @@ function About({ content }) {
          <img src='/cabin_fever_cover.png' alt='cabin-fever-cover' width='100%' ></img>
          </a> 
 
-         <hr class="rounded"></hr> 
-            <h3>debut album, out now:</h3>
-         
-            <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
-            <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='100%' ></img>
-            </a> 
-            <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
        
             <hr class="rounded"></hr> 
 
