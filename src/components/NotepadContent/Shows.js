@@ -69,7 +69,9 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
-            <small><i>more shows coming soon</i></small>
+            <p> <b>3.16.24 - Medford, MA </b><br/> The Bang! Space<br/>  
+            <small><a href='https://ohmfoam.bandcamp.com/album/ohm-foam' target='_blank' rel="noopener noreferrer">Ohm Foam</a> & <a href='https://pseudospace.bandcamp.com/' target='_blank' rel="noopener noreferrer">Pseudospace</a></small></p>
+            <img alt='wbtw-bang-space' src='/bangspace24.jpg' style={{width:'50%'}}/>
            
             <h3>past shows</h3>
             
