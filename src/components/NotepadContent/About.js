@@ -90,12 +90,11 @@ function About({ content }) {
             />
             <small>drop your email to get the weather report</small>
             </StyledDiv>
-            {/* <hr class="rounded"></hr> 
+            <hr class="rounded"></hr> 
             <h3>next show:</h3>
-            <p> <b>5.6.23 - Somerville, MA </b><a href='https://www.eventbrite.com/e/we-broke-the-weather-free-rock-the-cosmic-vultures-renee-maskin-tickets-593430676127' target='_blank' rel="noopener noreferrer"><small>[tickets]</small></a><br/>
-            The Jungle<br/>  
-            <small><a href='https://freerockband.com/' target='_blank' rel="noopener noreferrer">Free Rock</a>, <a href='https://www.facebook.com/thecosmicvultures' target='_blank' rel="noopener noreferrer">The Cosmic Vultures</a>,            <a href=' https://www.facebook.com/reneemaskinmusic/' target='_blank' rel="noopener noreferrer">Renee Maskin</a></small></p> */}
-
+            <p> <b>3.16.24 - Medford, MA </b><br/>The Bang! Space<br/>  
+            <small><a href='https://ohmfoam.bandcamp.com/album/ohm-foam' target='_blank' rel="noopener noreferrer">Ohm Foam</a> & <a href='https://pseudospace.bandcamp.com/' target='_blank' rel="noopener noreferrer">Pseudospace</a></small></p>
+            <img alt='wbtw-bang-space' src='/bangspace24.jpg' style={{width:'100%'}}/>
           
 
             <hr class="rounded"></hr> 
