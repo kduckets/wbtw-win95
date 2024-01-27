@@ -73,7 +73,7 @@ function About({ content }) {
             fields={[
               {
                 name: "EMAIL",
-                placeholder: "email",
+                placeholder: "newsletter signup",
                 type: "email",
                 required: true,
               },
@@ -97,7 +97,7 @@ function About({ content }) {
             <img alt='wbtw-bang-space' src='/bangspace24.jpg' style={{width:'100%'}}/>
 
 
-            
+
             <hr class="rounded"></hr> 
             <h3>debut album, out now:</h3>
          
