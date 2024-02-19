@@ -20,7 +20,7 @@ function Mine({ closeMine, isMobile }) {
       
         function lose() {
           setIsActive(!isActive);
-          setMessage(message=>'try again');
+          setMessage(message=>'restart game?');
         }
 
 
