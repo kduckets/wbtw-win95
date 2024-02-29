@@ -91,7 +91,7 @@ function About({ content }) {
             <small>drop your email to get the weather report</small>
             </StyledDiv>
             
-            <hr class="rounded"></hr> 
+            {/* <hr class="rounded"></hr> 
             <h3>new single 'Marionette' streaming now!</h3>
          
             <a href="https://webroketheweather.bandcamp.com/track/marionette-single?campaign=website" target="_blank" rel="noopener noreferrer">
@@ -99,9 +99,9 @@ function About({ content }) {
             </a> 
 
             <hr class="rounded"></hr>
-            <p class='alert'><small><i>heads up! all LP1 merch 50% off at the 
-              <a href='https://webroketheweather.bandcamp.com/merch?campaign=website' target="_blank" rel="noopener noreferrer">bandcamp store</a> with code 'restart'
-            </i></small></p> 
+            <p><small><i>heads up! all LP1 merch 50% off at the 
+              <a href='https://webroketheweather.bandcamp.com/merch?campaign=website' target="_blank" rel="noopener noreferrer"> bandcamp store</a> with code 'restart'
+            </i></small></p>  */}
      
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
