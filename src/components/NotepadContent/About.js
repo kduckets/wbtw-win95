@@ -113,7 +113,7 @@ function About({ content }) {
 
 
             <hr class="rounded"></hr> 
-            <h3>debut album</h3>
+            <h3>wbtw's debut album:</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='100%' ></img>
