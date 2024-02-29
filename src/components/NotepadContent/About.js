@@ -90,6 +90,19 @@ function About({ content }) {
             />
             <small>drop your email to get the weather report</small>
             </StyledDiv>
+            
+            <hr class="rounded"></hr> 
+            <h3>new single 'Marionette' streaming now!</h3>
+         
+            <a href="https://webroketheweather.bandcamp.com/track/marionette-single?campaign=website" target="_blank" rel="noopener noreferrer">
+            <img src='/marionette-cover.jpg' alt='marionette-cover' width='100%' ></img>
+            </a> 
+
+            <hr class="rounded"></hr>
+            <p class='alert'><small><i>heads up! all LP1 merch 50% off at the 
+              <a href='https://webroketheweather.bandcamp.com/merch?campaign=website' target="_blank" rel="noopener noreferrer">bandcamp store</a> with code 'restart'
+            </i></small></p> 
+     
             <hr class="rounded"></hr> 
             <h3>next show:</h3>
             <p> <b>3.16.24 - Medford, MA </b><br/>The Bang! Space<br/>  
@@ -99,7 +112,7 @@ function About({ content }) {
 
 
             <hr class="rounded"></hr> 
-            <h3>debut album, out now:</h3>
+            <h3>debut album</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/we-broke-the-weather?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/wbtw-cover.jpg' alt='wbtw-cover' width='100%' ></img>
@@ -108,7 +121,7 @@ function About({ content }) {
        
 
             <hr class="rounded"></hr> 
-            <h3>cabin fever EP!</h3>
+            <h3>cabin fever EP (a bandcamp exclusive)</h3>
          
          <a href="https://webroketheweather.bandcamp.com/album/cabin-fever-ep?campaign=website" target="_blank" rel="noopener noreferrer">
          <img src='/cabin_fever_cover.png' alt='cabin-fever-cover' width='100%' ></img>
@@ -136,11 +149,11 @@ function About({ content }) {
                   
                    <p>andy - drums, vocals, count-ins</p>
                  
-                   <p>steve - bass, moog, brown notes</p>
+                   <p>steve - bass, moog, synth wizardry, brown notes</p>
                      
                    <p>scott - guitar, sax, vocals, garage banding</p>
 
-                   <p>kev - guitar/loud noises</p></i>
+                   <p>kev - guitar/other loud noises</p></i>
 
                 
                    <p><a className="email" href="mailto:webroketheweather@gmail.com">webroketheweather@gmail.com</a></p>

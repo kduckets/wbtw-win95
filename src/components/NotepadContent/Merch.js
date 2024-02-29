@@ -65,7 +65,11 @@ function Merch({ content }) {
                 }
                 </StyledList>
                 </StyledDiv>
-            <hr class="rounded"></hr> 
+            <hr class="rounded"></hr>
+            <p class='alert'><small><i>heads up! all LP1 merch 50% off at the 
+              <a href='https://webroketheweather.bandcamp.com/merch?campaign=website' target="_blank" rel="noopener noreferrer">bandcamp store</a> with code 'restart'
+            </i></small></p> 
+            <hr class="rounded"></hr>
             <h3>eco wallet compact disc</h3>  
             <p>CD comes in 100% plastic-free eco wallet gatefold</p>
            
@@ -104,15 +108,11 @@ function Merch({ content }) {
           <br/>
           <hr class="rounded"></hr> 
             <br/>
-       
-       <br/>
-            <small><i>In an effort to play some small role in contributing to much needed solutions, we broke the weather is donating a portion of 2022 
-              album and merch proceeds to the  <a href="https://www.climateemergencyfund.org/" 
-              target="_blank" rel="noopener noreferrer">Climate Emergency Fund</a>, a fantastic eNGO that funds "young, ultra-ambitious organizations that tell the truth about the climate emergency, disrupt normalcy, organize mass protests, and demand transformative change." Thanks for caring and supporting this important work!</i></small>
+          
             <div>
 
               <br/>
-              </div>  
+           </div>  
 
         </div>
     )
