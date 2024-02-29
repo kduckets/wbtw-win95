@@ -87,7 +87,7 @@ const ErrorPage = () => (
         <br />
 
         <CenterText as="p">
-          <a href="/">click here to go back to safety</a>
+          <a href="/">click here to Restart the Game</a>
           <Blink> _</Blink>
         </CenterText>
       </Frame>
