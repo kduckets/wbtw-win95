@@ -91,7 +91,7 @@ function About({ content }) {
             <small>drop your email to get the weather report</small>
             </StyledDiv>
             
-            {/* 
+            
               <hr class="rounded"></hr>
             <p><small><i>heads up! all LP1 merch 50% off at the 
               <a href='https://webroketheweather.bandcamp.com/merch?campaign=website' target="_blank" rel="noopener noreferrer"> bandcamp store</a> with code 'restart'
@@ -102,7 +102,7 @@ function About({ content }) {
             <a href="https://webroketheweather.bandcamp.com/track/marionette-single?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/marionette-cover.jpg' alt='marionette-cover' width='100%' ></img>
             </a> 
-              */}
+             
      
             <hr class="rounded"></hr> 
             <h3>next show:</h3>

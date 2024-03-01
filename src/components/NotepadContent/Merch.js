@@ -65,11 +65,11 @@ function Merch({ content }) {
                 }
                 </StyledList>
                 </StyledDiv>
-            {/* <hr class="rounded"></hr>
+            <hr class="rounded"></hr>
             <p class='alert'><small><i>heads up! all LP1 merch 50% off at the 
               <a href='https://webroketheweather.bandcamp.com/merch?campaign=website' target="_blank" rel="noopener noreferrer"> bandcamp store</a> with code 'restart'
-            </i></small></p>  */}
-            
+            </i></small></p> 
+
             <hr class="rounded"></hr>
             <h3>eco wallet compact disc</h3>  
             <p>CD comes in 100% plastic-free eco wallet gatefold</p>
