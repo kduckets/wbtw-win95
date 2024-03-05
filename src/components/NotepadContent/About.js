@@ -92,10 +92,6 @@ function About({ content }) {
             </StyledDiv>
             
             
-              <hr class="rounded"></hr>
-            <p><small>heads up! all LP1 merch 50% off at the 
-              <a href='https://webroketheweather.bandcamp.com/merch?campaign=website' target="_blank" rel="noopener noreferrer"> bandcamp store</a> with code 'restart'
-            </small></p>
             <hr class="rounded"></hr> 
             <h3>new single 'Marionette' streaming now!</h3>
          
