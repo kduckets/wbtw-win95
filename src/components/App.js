@@ -43,6 +43,14 @@ const App = () => (
    <Route exact path="/404">
      <ErrorPage />
    </Route>
+   <Route exact path="-">
+   <DataContext.Provider value={dataService}>
+    <ThemeProvider>
+    <Desktop />
+    <BodyFontSizeOverride />
+      <GlobalStyle />
+    </ThemeProvider>
+  </DataContext.Provider>   </Route>
    <Route exact path="/">
    <DataContext.Provider value={dataService}>
     <ThemeProvider>
