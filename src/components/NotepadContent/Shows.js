@@ -69,6 +69,8 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
+
+            <small><i>summer 2024 shows coming soon!</i></small>
             
             <h3>past shows</h3>
 
