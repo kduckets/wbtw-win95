@@ -101,13 +101,13 @@ function About({ content }) {
             <iframe width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fqvpxvwrwbxwwc&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
              
      
-            <hr class="rounded"></hr> 
+            {/* <hr class="rounded"></hr> 
             <h3>next show:</h3>
             <p> <b>3.16.24 - Medford, MA </b><br/>The Bang! Space<br/>  
             <small><a href='https://ohmfoam.bandcamp.com/album/ohm-foam' target='_blank' rel="noopener noreferrer">Ohm Foam</a> & <a href='https://pseudospace.bandcamp.com/' target='_blank' rel="noopener noreferrer">Pseudospace</a></small></p>
             <a href='https://www.instagram.com/webroketheweather/p/C12CHwdOXhq/' target='_blank' rel="noopener noreferrer"><img alt='wbtw-bang-space' src='/bangspace24.jpg' style={{width:'100%'}}/></a>
 
-
+ */}
 
             <hr class="rounded"></hr> 
             <h3>wbtw's debut album</h3>
