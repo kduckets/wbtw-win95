@@ -93,10 +93,11 @@ function About({ content }) {
             
             
             <hr class="rounded"></hr> 
-            <h3>new single 'Marionette' streaming now!</h3>
+            <h3>new singles 'Marionette' and 'Heavens Were a Bell' streaming now!</h3>
+            <small>pre-order wbtw's upcoming album 'Restart Game':</small>
          
-            <a href="https://webroketheweather.bandcamp.com/track/marionette-single?campaign=website" target="_blank" rel="noopener noreferrer">
-            <img src='/marionette-cover.jpg' alt='marionette-cover' width='100%' ></img>
+            <a href="https://webroketheweather.bandcamp.com/album/restart-game?campaign=website" target="_blank" rel="noopener noreferrer">
+            <img src='/restart-game.jpg' alt='restart-game-cover' width='100%' ></img>
             </a> 
             <iframe width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fqvpxvwrwbxwwc&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
              
