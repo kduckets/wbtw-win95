@@ -113,6 +113,12 @@ function About({ content }) {
             <img alt='wbtw-porchfest-24' src='/wbtw porchfest 2024 ver3 invert.jpg' style={{width:'100%'}}/>
             </a>
 
+            <hr class="rounded"></hr> 
+            <h3>cabin fever EP (a bandcamp exclusive)</h3>
+         
+         <a href="https://webroketheweather.bandcamp.com/album/cabin-fever-ep?campaign=website" target="_blank" rel="noopener noreferrer">
+         <img src='/cabin_fever_cover.png' alt='cabin-fever-cover' width='100%' ></img>
+         </a> 
 
 
             <hr class="rounded"></hr> 
@@ -124,12 +130,6 @@ function About({ content }) {
             <iframe title="wbtw-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2F3bzzbq2pft9qh&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
        
 
-            <hr class="rounded"></hr> 
-            <h3>cabin fever EP (a bandcamp exclusive)</h3>
-         
-         <a href="https://webroketheweather.bandcamp.com/album/cabin-fever-ep?campaign=website" target="_blank" rel="noopener noreferrer">
-         <img src='/cabin_fever_cover.png' alt='cabin-fever-cover' width='100%' ></img>
-         </a> 
 
        
             <hr class="rounded"></hr> 
