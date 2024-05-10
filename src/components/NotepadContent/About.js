@@ -100,7 +100,7 @@ function About({ content }) {
             <img src='/restart-game.jpg' alt='restart-game-cover' width='100%' ></img>
             </a> 
             <iframe width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fqvpxvwrwbxwwc&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
-             
+             <p>check the vid for Heavens from our amazingly talented friends at <a href='https://www.studiosparks.com' target="_blank" rel="noopener noreferrer">studio sparks</a></p>
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/ruA-MgHg_LQ?si=2qdy25eeOFY7mxcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>           
 
      
