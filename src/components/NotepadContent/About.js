@@ -93,7 +93,8 @@ function About({ content }) {
             
             
             <hr class="rounded"></hr> 
-            <h3>new singles 'Marionette' and 'Heavens Were a Bell' streaming now!</h3>
+            <h3>wbtw announces their 2nd LP, Restart Game</h3>
+            <p>new singles 'Marionette' and 'Heavens Were a Bell' streaming now!</p>
          
             <a href="https://webroketheweather.bandcamp.com/album/restart-game?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/restart-game.jpg' alt='restart-game-cover' width='100%' ></img>
