@@ -69,7 +69,7 @@ function Videos({ content }) {
     
             <h3>video archives</h3>
             <p><small><i>"Heavens Were a Bell"</i></small></p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/ruA-MgHg_LQ?si=2qdy25eeOFY7mxcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>           
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/ruA-MgHg_LQ?si=2qdy25eeOFY7mxcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>           
             <p><small><i>"Through the Wall" (Live at Kennedy Studios)</i></small></p>
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/ooi2MEg4ZRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p><small><i>"Bellwether" (Live at Kennedy Studios)</i></small></p>
