@@ -104,14 +104,14 @@ function About({ content }) {
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/ruA-MgHg_LQ?si=2qdy25eeOFY7mxcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>           
 
      
-            <hr class="rounded"></hr> 
+            {/* <hr class="rounded"></hr> 
             <h3>next show:</h3>
             
             <p><b>5.11.24 - Somerville, MA</b><br/>Porchfest<br/>
            </p>
            <a href='https://beta.somervilleartscouncil.org/view/porchfest-single-entry/entry/316/' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-porchfest-24' src='/wbtw porchfest 2024 ver3 invert.jpg' style={{width:'100%'}}/>
-            </a>
+            </a> */}
 
             <hr class="rounded"></hr> 
             <h3>cabin fever EP (a bandcamp exclusive)</h3>

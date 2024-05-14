@@ -70,13 +70,15 @@ function Shows({ content }) {
 
             <h3>upcoming shows</h3>
 
+       
+            
+            <h3>past shows</h3>
+
             <p><b>5.11.24 - Somerville, MA</b><br/>Porchfest<br/>
            </p>
            <a href='https://beta.somervilleartscouncil.org/view/porchfest-single-entry/entry/316/' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-porchfest-24' src='/wbtw porchfest 2024 ver3 invert.jpg' style={{width:'100%'}}/>
             </a>
-            
-            <h3>past shows</h3>
 
             <p> <b>3.16.24 - Medford, MA </b><br/>The Bang! Space<br/>  
             <small><a href='https://ohmfoam.bandcamp.com/album/ohm-foam' target='_blank' rel="noopener noreferrer">Ohm Foam</a> & <a href='https://pseudospace.bandcamp.com/' target='_blank' rel="noopener noreferrer">Pseudospace</a></small></p>
