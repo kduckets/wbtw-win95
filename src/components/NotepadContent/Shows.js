@@ -69,7 +69,7 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
-            <p> <b>6.15.24 - Allson, MA </b><br/>Tourist Trap<br/>  
+            <p> <b>6.15.24 - Allston, MA </b><br/>Tourist Trap<br/>  
             <small>w/ <a href='https://clamb.bandcamp.com/' target='_blank' rel="noopener noreferrer">Clamb</a> </small></p>
             <a href='https://www.instagram.com/webroketheweather/reel/C7Wy18FPdy1/?hl=en' target='_blank' rel="noopener noreferrer">DM for address</a>
            
