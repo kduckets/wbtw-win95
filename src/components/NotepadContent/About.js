@@ -93,8 +93,7 @@ function About({ content }) {
             
             
             <hr class="rounded"></hr> 
-            <h3>"Restart Game" out on Argonauta Records 6/14</h3>
-            <p>new singles 'Marionette' and 'Heavens Were a Bell' streaming now!</p>
+            <h3>Restart Game OUT NOW!</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/restart-game?campaign=website" target="_blank" rel="noopener noreferrer">
             <img src='/restart-game.jpg' alt='restart-game-cover' width='100%' ></img>
