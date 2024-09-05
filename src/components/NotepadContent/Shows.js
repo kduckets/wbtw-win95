@@ -74,12 +74,12 @@ function Shows({ content }) {
             <p><b>9.7.24 - Boston, MA</b><br/>Midway Cafe<br/>
            </p>
            <a href='https://www.facebook.com/events/1036807998025772/' target='_blank' rel="noopener noreferrer">
-           <p><small>w/ <a href='https://eightfootmanchild.bandcamp.com/' target='_blank' rel="noopener noreferrer">Eight Foot Manchild</a>, <a href='https://komodorojo.bandcamp.com/' target='_blank' rel="noopener noreferrer">Komodo Rojo</a>, & <a href='https://pangsrock.bandcamp.com/' target='_blank' rel="noopener noreferrer">Pangs</a> 
+           <p>w/ <small><a href='https://eightfootmanchild.bandcamp.com/' target='_blank' rel="noopener noreferrer">Eight Foot Manchild</a>, <a href='https://komodorojo.bandcamp.com/' target='_blank' rel="noopener noreferrer">Komodo Rojo</a>, & <a href='https://pangsrock.bandcamp.com/' target='_blank' rel="noopener noreferrer">Pangs</a> 
            </small></p>
             <img alt='wbtw-midway-24' src='/wbtw midway 2024.png' style={{width:'100%'}}/>
             </a>
             
-           <i><small>more shows coming soon!</small></i>
+           {/* <i><small>more shows coming soon!</small></i> */}
                 
             
             <h3>past shows</h3>
