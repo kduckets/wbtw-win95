@@ -93,7 +93,9 @@ function Shows({ content }) {
 
             <p> <b>6.15.24 - Allston, MA </b><br/>Tourist Trap<br/>  
             <small>w/ <a href='https://clamb.bandcamp.com/' target='_blank' rel="noopener noreferrer">Clamb</a> </small></p>
-            <a href='https://www.instagram.com/webroketheweather/reel/C7Wy18FPdy1/?hl=en' target='_blank' rel="noopener noreferrer">DM for address</a>
+            <a href='https://www.instagram.com/webroketheweather/reel/C7Wy18FPdy1/?hl=en' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-clamb-24' src='/wbtw-clamb 2024.png' style={{width:'100%'}}/>
+            </a>
 
             <p><b>5.11.24 - Somerville, MA</b><br/>Porchfest<br/>
            </p>
