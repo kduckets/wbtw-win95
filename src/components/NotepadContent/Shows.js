@@ -70,10 +70,14 @@ function Shows({ content }) {
 
             <h3>upcoming shows</h3>
 
-
+            <p><b>11.3.24 - Lowell, MA</b><br/>Taffeta Music Hall<br/></p>
+           <p>w/ <small><a href='https://www.davidcrossband.com/' target='_blank' rel='noopener noreferrer'>David Cross Band</a></small></p>
+           <a href='https://www.tixr.com/groups/taffetamusic/events/david-cross-band-plays-king-crimson-114588' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-taffeta-24' src='/DavidCrossBand_Lowell_Portrait.jpg' style={{width:'100%'}}/>
+            </a>
     
             
-           <i><small>more shows coming soon!</small></i>
+           {/* <i><small>more shows coming soon!</small></i> */}
                 
             
             <h3>past shows</h3>
