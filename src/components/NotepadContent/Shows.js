@@ -79,7 +79,8 @@ function Shows({ content }) {
             
            {/* <i><small>more shows coming soon!</small></i> */}
                 
-            
+           <hr class="rounded"></hr> 
+
             <h3>past shows</h3>
 
             <p><b>9.7.24 - Boston, MA</b><br/>Midway Cafe<br/>
