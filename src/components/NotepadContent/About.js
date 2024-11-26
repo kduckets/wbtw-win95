@@ -101,14 +101,14 @@ function About({ content }) {
             <iframe width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fkffgs2crmqdq3&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>            
            
      
-            <hr class="rounded"></hr> 
+            {/* <hr class="rounded"></hr> 
             <h3>next show:</h3>
             
             <p><b>11.3.24 - Lowell, MA</b><br/>Taffeta Music Hall<br/></p>
            <p>w/ <small><a href='https://www.davidcrossband.com/' target='_blank' rel='noopener noreferrer'>David Cross Band</a></small></p>
            <a href='https://www.tixr.com/groups/taffetamusic/events/david-cross-band-plays-king-crimson-114588' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-taffeta-24' src='/DavidCrossBand_Lowell_Portrait.jpg' style={{width:'100%'}}/>
-            </a>
+            </a> */}
 
             <hr class="rounded"></hr> 
             <h3>cabin fever EP (a bandcamp exclusive)</h3>
