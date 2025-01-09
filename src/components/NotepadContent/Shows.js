@@ -69,8 +69,15 @@ function Shows({ content }) {
                 <hr class="rounded"></hr> 
 
             <h3>upcoming shows</h3>
+
+            <p><b>2.8.25 - Lowell, MA</b><br/>Taffeta Music Hall<br/></p>
+           <p>w/ <small><a href='https://clamb.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Clamb</a> & <a href='https://therupertselection.bandcamp.com/' target='_blank' rel='noopener noreferrer'>The Rupert Selection</a></small></p>
+           <a href='https://www.tixr.com/groups/taffetamusic/events/the-rubert-selection-clamb-we-broke-the-weather-125427' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-taffeta-25' src='/wbtw-clamb-rupert.png' style={{width:'100%'}}/>
+            </a>
+
             
-           <i><small>more shows coming soon!</small></i>
+           {/* <i><small>more shows coming soon!</small></i> */}
                 
            <hr class="rounded"></hr> 
 
