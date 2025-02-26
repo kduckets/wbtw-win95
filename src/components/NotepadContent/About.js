@@ -92,7 +92,7 @@ function About({ content }) {
             </StyledDiv>
             
             
-            <hr class="rounded"></hr> 
+            {/* <hr class="rounded"></hr> 
             <h3>next show:</h3>
             
             <p><b>2.8.25 - Lowell, MA</b><br/>Taffeta Music Hall<br/></p>
@@ -107,7 +107,7 @@ function About({ content }) {
             <img src='/restart-game.jpg' alt='restart-game-cover' width='100%' ></img>
             </a> 
             <iframe width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fkffgs2crmqdq3&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>            
-           
+            */}
      
            
 
