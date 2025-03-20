@@ -71,9 +71,13 @@ function Shows({ content }) {
             <h3>upcoming shows</h3>
 
         
-
-            
-           <i><small>more shows coming soon!</small></i>
+            <p><b>3.23.25 - Somerville, MA</b><br/>The Rockwell<br/></p>
+           <p>w/ <small><a href='https://www.marujaofficial.co.uk/' target='_blank' rel='noopener noreferrer'>Maruja</a> </small></p>
+           <a href='https://www.tixr.com/groups/taffetamusic/events/the-rubert-selection-clamb-we-broke-the-weather-125427' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-rockwell-25' src='/wbtw-rockwell-25.webp' style={{width:'100%'}}/>
+            </a>
+{/*             
+           <i><small>more shows coming soon!</small></i> */}
                 
            <hr class="rounded"></hr> 
 
