@@ -81,9 +81,7 @@ function Shows({ content }) {
                     
             <p><b>3.23.25 - Somerville, MA</b><br/>The Rockwell<br/></p>
            <p>w/ <small><a href='https://www.marujaofficial.co.uk/' target='_blank' rel='noopener noreferrer'>Maruja</a> </small></p>
-           <a href='https://www.tixr.com/groups/taffetamusic/events/the-rubert-selection-clamb-we-broke-the-weather-125427' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-rockwell-25' src='/wbtw-rockwell-25.webp' style={{width:'100%'}}/>
-            </a>
             <p><b>2.8.25 - Lowell, MA</b><br/>Taffeta Music Hall<br/></p>
            <p>w/ <small><a href='https://clamb.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Clamb</a> & <a href='https://therupertselection.bandcamp.com/' target='_blank' rel='noopener noreferrer'>The Rupert Selection</a></small></p>
            <a href='https://www.tixr.com/groups/taffetamusic/events/the-rubert-selection-clamb-we-broke-the-weather-125427' target='_blank' rel="noopener noreferrer">
