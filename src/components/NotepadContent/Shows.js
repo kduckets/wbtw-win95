@@ -79,7 +79,7 @@ function Shows({ content }) {
 
 
             
-           <i><small>more shows coming soon!</small></i>
+           {/* <i><small>more shows coming soon!</small></i> */}
                 
            <hr class="rounded"></hr> 
 
