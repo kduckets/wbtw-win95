@@ -60,8 +60,7 @@ const CenterText = styled.div`
 `;
 
 const ErrorPage = () => (
-  <ThemeProvider>
-    <ErrorPageStyle />
+    <ErrorPageStyle>
 
     <Frame
       width="100%"
@@ -92,7 +91,7 @@ const ErrorPage = () => (
         </CenterText>
       </Frame>
     </Frame>
-  </ThemeProvider>
+    </ErrorPageStyle>
 );
 
 export default ErrorPage;
