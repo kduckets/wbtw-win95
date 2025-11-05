@@ -71,19 +71,35 @@ function Shows({ content }) {
             <h3>upcoming shows</h3>
               
 
-            <p><b>5.10.25 - Somerville, MA</b><br/>Porchfest! <br/>
+          
+            
+           <i><small>more shows coming soon!</small></i>
+                
+           <hr class="rounded"></hr> 
+
+            <h3>past shows</h3>
+
+    
+
+
+          <p><b>8.23.25 - Salem, MA</b><br/>Moon Base One<br/>
+           </p>
+          
+            <img alt='faces' src='/faces.jpg' style={{width:'100%'}}/>
+        
+
+            <p><b>6.13.25 - Malden, MA</b><br/>Faces<br/>
+           </p>
+            <img alt='wbtw-moon-base-one' src='/moon_base_one.jpg' style={{width:'100%'}}/>
+
+
+          
+          <p><b>5.10.25 - Somerville, MA</b><br/>Porchfest! <br/>
            </p>
            <a href='https://somervilleartscouncil.org/view/porchfest-single-entry/entry/2123/' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-porchfest-25' src='/Porchvest 2025 v1.2.png' style={{width:'100%'}}/>
             </a>
 
-
-            
-           {/* <i><small>more shows coming soon!</small></i> */}
-                
-           <hr class="rounded"></hr> 
-
-            <h3>past shows</h3>
 
                     
             <p><b>3.23.25 - Somerville, MA</b><br/>The Rockwell<br/></p>
