@@ -6,9 +6,10 @@ import img from '../assets/interior.jpg';
 import DataContext from '../contexts/dataContext';
 import Desktop from './Desktop';
 
+// <CHANGE> Updated to React Router v6: Switch → Routes, removed Route element children syntax
 import {
   BrowserRouter as Router,
-  Switch,
+  Routes,
   Route
 } from "react-router-dom";
 import ErrorPage from '../pages/404';
@@ -36,31 +37,30 @@ const BodyFontSizeOverride = createGlobalStyle`
 
 const dataService = new DataService();
 
-
 const App = () => (
-<Router>
-<Switch>
-   <Route exact path="/404">
-     <ErrorPage />
-   </Route>
-   <Route exact path="/-">
-   <DataContext.Provider value={dataService}>
-    <ThemeProvider>
-    <Desktop />
-    <BodyFontSizeOverride />
-      <GlobalStyle />
-    </ThemeProvider>
-  </DataContext.Provider>   </Route>
-   <Route exact path="/">
-   <DataContext.Provider value={dataService}>
-    <ThemeProvider>
-    <Desktop />
-    <BodyFontSizeOverride />
-      <GlobalStyle />
-    </ThemeProvider>
-  </DataContext.Provider>
-   </Route>
- </Switch>
+  <Router>
+    <Routes>
+      <Route path="/404" element={<ErrorPage />} />
+      <Route path="/-" element={
+        <DataContext.Provider value={dataService}>
+          <ThemeProvider>
+            <Desktop />
+            <BodyFontSizeOverride />
+            <GlobalStyle />
+          </ThemeProvider>
+        </DataContext.Provider>
+      } />
+      <Route path="/" element={
+        <DataContext.Provider value={dataService}>
+          <ThemeProvider>
+            <Desktop />
+            <BodyFontSizeOverride />
+            <GlobalStyle />
+          </ThemeProvider>
+        </DataContext.Provider>
+      } />
+    </Routes>
   </Router>
 );
+
 export default App;
