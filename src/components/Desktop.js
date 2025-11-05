@@ -118,7 +118,7 @@ function Desktop() {
                     title="system failure.exe"
                     type='error'
                     message="fatal error: weather broken"
-                    buttons={[{ value: 'OK', onClick: closeAlert }]}/>
+                    buttons={[{ value: 'OK?', onClick: closeAlert }]}/>
                 )
             }
             {
