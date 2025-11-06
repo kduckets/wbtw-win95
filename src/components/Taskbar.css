@@ -1,0 +1,9 @@
+/* Override List.Item icon padding */
+.taskbar-list [class*="ListItem"] {
+  padding-left: 8px !important;
+}
+
+.taskbar-list [class*="ListItem"] > span:first-child,
+.taskbar-list [class*="ListItem"] > i:first-child {
+  margin-right: 8px !important;
+}
