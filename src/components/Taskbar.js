@@ -2,46 +2,62 @@ import React from 'react'
 import { TaskBar, List } from '@react95/core'
 import { NavLink } from "react-router-dom"
 
+// Import icons as images from a CDN or use inline styles
+const IconSprite = ({ name }) => (
+    <i 
+        className={`icon ${name}`}
+        style={{
+            display: 'inline-block',
+            width: '16px',
+            height: '16px',
+            backgroundImage: `url(https://raw.githubusercontent.com/React95/React95/master/packages/icons/src/icons/${name}.ico)`,
+            backgroundSize: 'contain',
+            backgroundRepeat: 'no-repeat',
+            marginRight: '4px'
+        }}
+    />
+)
+
 function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSpace, openSynth, openNotepad}) {
     return (
         <TaskBar
             list={
                 <List>
-                    <List.Item icon={<span className="icon folder_exe" />}>
+                    <List.Item icon={<IconSprite name="folder_exe" />}>
                         <List>
-                            <List.Item icon={<span className="icon mspaint" />} onClick={() => openPaint()}>
+                            <List.Item icon={<IconSprite name="mspaint" />} onClick={() => openPaint()}>
                                 Paint
                             </List.Item>
                             
-                            <List.Item icon={<span className="icon winmine_1" />} onClick={() => openMine()}>
+                            <List.Item icon={<IconSprite name="winmine_1" />} onClick={() => openMine()}>
                                 Minesweeper
                             </List.Item>
                             
-                            <List.Item icon={<span className="icon joy_102" />} onClick={() => openFloppy()}>
+                            <List.Item icon={<IconSprite name="joy_102" />} onClick={() => openFloppy()}>
                                 Floppy Box
                             </List.Item>
 
-                            <List.Item icon={<span className="icon flying_through_space_100" />} onClick={() => openSpace()}>
+                            <List.Item icon={<IconSprite name="flying_through_space_100" />} onClick={() => openSpace()}>
                                 Space Invaders
                             </List.Item>
                         </List>
                         Programs
                     </List.Item>
                     
-                    <List.Item icon={<span className="icon folder_file" />} onClick={() => openExplorer()}>
+                    <List.Item icon={<IconSprite name="folder_file" />} onClick={() => openExplorer()}>
                         Documents
                     </List.Item>
                     
-                    <List.Item icon={<span className="icon settings" />}>
+                    <List.Item icon={<IconSprite name="settings" />}>
                         <List>
-                            <List.Item icon={<span className="icon folder_settings" />} onClick={() => openSynth()}>
+                            <List.Item icon={<IconSprite name="folder_settings" />} onClick={() => openSynth()}>
                                 Control Panel
                             </List.Item>
                         </List>
                         Settings
                     </List.Item>
                     
-                    <List.Item icon={<span className="icon help_book" />} onClick={() => openNotepad({
+                    <List.Item icon={<IconSprite name="help_book" />} onClick={() => openNotepad({
                         id: 'credits',
                         name: 'credits',
                         icon: 'mmsys_90',
@@ -49,11 +65,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSpace, open
                         Help
                     </List.Item>
                     
-                    <List.Item icon={<span className="icon loader_bat" />}>Run...</List.Item>
+                    <List.Item icon={<IconSprite name="loader_bat" />}>Run...</List.Item>
                     
                     <List.Divider />
                     
-                    <List.Item icon={<span className="icon computer_3" />}>
+                    <List.Item icon={<IconSprite name="computer_3" />}>
                         <NavLink to="/404" style={{color:'inherit', textDecoration:'inherit'}}>
                             Shut Down...
                         </NavLink>
