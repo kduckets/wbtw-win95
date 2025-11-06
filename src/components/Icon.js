@@ -1,34 +1,17 @@
+// src/components/Icon.js
 import React from 'react';
-import {
-  FolderIcon,
-  DocumentIcon,
-  MusicIcon,
-  ApplicationIcon,
-  SystemIcon,
-  DriveIcon,
-  ComputerIcon,
-  PrinterIcon
-} from '@react95/icons';
-
-// Map icon names to actual icon components
-const ICON_MAP = {
-  media_cd: MusicIcon,
-  folder: FolderIcon,
-  document: DocumentIcon,
-  txt: DocumentIcon,
-  app: ApplicationIcon,
-  system: SystemIcon,
-  drive: DriveIcon,
-  computer: ComputerIcon,
-  printer: PrinterIcon,
-};
 
 function Icon({ name, className, onClick }) {
-  const IconComponent = ICON_MAP[name] || ApplicationIcon; // Default to app icon
+  // Since icon names have underscores and can't be imported directly,
+  // we'll render them as img elements using the CDN or local paths
   return (
-    <div className={className} onClick={onClick} style={{ cursor: 'pointer' }}>
-      <IconComponent />
-    </div>
+    <img 
+      src={`https://raw.githubusercontent.com/React95/React95/HEAD/packages/icons/src/icons/${name}.ico`}
+      alt={name}
+      className={className}
+      onClick={onClick}
+      style={{ width: '32px', height: '32px', cursor: 'pointer' }}
+    />
   );
 }
 
