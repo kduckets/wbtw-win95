@@ -1,6 +1,10 @@
 /* Target the specific List.Item class */
 .r95_1lxkvz40 {
   padding-left: 8px !important;
+  /* Added vertical padding to make menu items taller */
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+  line-height: 1.5 !important;
 }
 
 /* Reduce spacing between icon and text */
@@ -12,14 +16,26 @@
 .r95_1lxkvz42 {
   padding-left: 0 !important;
   min-width: 200px !important;
+  /* Added vertical padding to the list container */
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
 }
 
 /* Additional specificity for nested items */
 .taskbar-list .r95_1lxkvz40 {
   padding-left: 8px !important;
+  /* Ensure nested items also have vertical spacing */
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
 }
 
 /* Make the entire taskbar menu wider */
 .taskbar-list [class*="TaskBar"] {
   min-width: 200px !important;
+}
+
+/* Add spacing to dividers for better visual separation */
+.r95_1lxkvz42 hr {
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
 }
