@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Icon } from '@react95/core'
+import { Icon } from './Icon' 
 
 const StyledItem = styled.div`
 	display: flex;
