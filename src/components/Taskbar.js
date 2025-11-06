@@ -1,6 +1,5 @@
 import React from 'react'
 import { TaskBar, List } from '@react95/core'
-import '@react95/icons/icons.css'
 import { NavLink } from "react-router-dom"
 
 function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSpace, openSynth, openNotepad}) {
@@ -8,41 +7,41 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSpace, open
         <TaskBar
             list={
                 <List>
-                    <List.Item icon="folder_exe">
+                    <List.Item icon={<span className="icon folder_exe" />}>
                         <List>
-                            <List.Item icon="mspaint" onClick={() => openPaint()}>
+                            <List.Item icon={<span className="icon mspaint" />} onClick={() => openPaint()}>
                                 Paint
                             </List.Item>
                             
-                            <List.Item icon="winmine_1" onClick={() => openMine()}>
+                            <List.Item icon={<span className="icon winmine_1" />} onClick={() => openMine()}>
                                 Minesweeper
                             </List.Item>
                             
-                            <List.Item icon="joy_102" onClick={() => openFloppy()}>
+                            <List.Item icon={<span className="icon joy_102" />} onClick={() => openFloppy()}>
                                 Floppy Box
                             </List.Item>
 
-                            <List.Item icon="flying_through_space_100" onClick={() => openSpace()}>
+                            <List.Item icon={<span className="icon flying_through_space_100" />} onClick={() => openSpace()}>
                                 Space Invaders
                             </List.Item>
                         </List>
                         Programs
                     </List.Item>
                     
-                    <List.Item icon="folder_file" onClick={() => openExplorer()}>
+                    <List.Item icon={<span className="icon folder_file" />} onClick={() => openExplorer()}>
                         Documents
                     </List.Item>
                     
-                    <List.Item icon="settings">
+                    <List.Item icon={<span className="icon settings" />}>
                         <List>
-                            <List.Item icon="folder_settings" onClick={() => openSynth()}>
+                            <List.Item icon={<span className="icon folder_settings" />} onClick={() => openSynth()}>
                                 Control Panel
                             </List.Item>
                         </List>
                         Settings
                     </List.Item>
                     
-                    <List.Item icon="help_book" onClick={() => openNotepad({
+                    <List.Item icon={<span className="icon help_book" />} onClick={() => openNotepad({
                         id: 'credits',
                         name: 'credits',
                         icon: 'mmsys_90',
@@ -50,11 +49,11 @@ function Taskbar({openExplorer, openPaint, openMine, openFloppy, openSpace, open
                         Help
                     </List.Item>
                     
-                    <List.Item icon="loader_bat">Run...</List.Item>
+                    <List.Item icon={<span className="icon loader_bat" />}>Run...</List.Item>
                     
                     <List.Divider />
                     
-                    <List.Item icon="computer_3">
+                    <List.Item icon={<span className="icon computer_3" />}>
                         <NavLink to="/404" style={{color:'inherit', textDecoration:'inherit'}}>
                             Shut Down...
                         </NavLink>
