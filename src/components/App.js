@@ -1,12 +1,12 @@
 import React from 'react';
 import { createGlobalStyle } from 'styled-components';
-import { GlobalStyle, ThemeProvider } from '@react95/core';
+import '@react95/core/GlobalStyle';
+import '@react95/core/themes/win95.css';
 import DataService from '../services/dataService';
 import img from '../assets/interior.jpg';
 import DataContext from '../contexts/dataContext';
 import Desktop from './Desktop';
 
-// <CHANGE> Updated to React Router v6: Switch → Routes, removed Route element children syntax
 import {
   BrowserRouter as Router,
   Routes,
@@ -43,20 +43,14 @@ const App = () => (
       <Route path="/404" element={<ErrorPage />} />
       <Route path="/-" element={
         <DataContext.Provider value={dataService}>
-          <ThemeProvider>
-            <Desktop />
-            <BodyFontSizeOverride />
-            <GlobalStyle />
-          </ThemeProvider>
+          <Desktop />
+          <BodyFontSizeOverride />
         </DataContext.Provider>
       } />
       <Route path="/" element={
         <DataContext.Provider value={dataService}>
-          <ThemeProvider>
-            <Desktop />
-            <BodyFontSizeOverride />
-            <GlobalStyle />
-          </ThemeProvider>
+          <Desktop />
+          <BodyFontSizeOverride />
         </DataContext.Provider>
       } />
     </Routes>
