@@ -4,7 +4,7 @@ import Notepad from './Notepad';
 import DataContext from '../contexts/dataContext'
 import Shortcuts from './Shortcuts';
 import Player from './Player';
-import Alert from '@react95/core/Alert';
+import { Alert } from '@react95/core'
 import Mine from './Mine';
 import Paint from './Paint';
 import Floppy from './Floppy';
