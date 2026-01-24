@@ -73,7 +73,11 @@ function Shows({ content }) {
 
           
             
-           <i><small>more shows coming soon!</small></i>
+           {/* <i><small>more shows coming soon!</small></i> */}
+             <p><b>1.24.25 - Livestream</b><br/>The David Bieber Archives<br/></p>
+           <a href='https://youtube.com/@thebostonconcertnetwork?si=hDHeQvXjkCmGqqoN' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-bieber-26' src='/bieber.png' style={{width:'100%'}}/>
+            </a>
                 
            <hr class="rounded"></hr> 
 
