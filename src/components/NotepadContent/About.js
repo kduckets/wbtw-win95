@@ -95,9 +95,10 @@ function About({ content }) {
           <hr class="rounded"></hr> 
             <h3>next show:</h3>
             
-            <p><b>1.24.25 - Livestream</b><br/>The David Bieber Archives<br/></p>
-           <a href='https://youtube.com/@thebostonconcertnetwork?si=hDHeQvXjkCmGqqoN' target='_blank' rel="noopener noreferrer">
-            <img alt='wbtw-bieber-26' src='/bieber.png' style={{width:'100%'}}/>
+            <p><b>3.28.25</b><br/>The Jungle<br/></p>
+           <a href='https://www.thejunglemusicclub.com/events-calendar' target='_blank' rel="noopener noreferrer">
+            <img alt='wbtw-jungle-26' src='/2026jungleflyer.png' style={{width:'100%'}}/>
+             <p>w/ <small><a href='https://clamb.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Clamb</a> & <a href='https://honeycassette.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Honey Cassette</a></small></p>
             </a>
 
             <hr class="rounded"></hr> 
