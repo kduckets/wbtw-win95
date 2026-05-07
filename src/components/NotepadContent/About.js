@@ -93,7 +93,7 @@ function About({ content }) {
             
             
           <hr class="rounded"></hr> 
-            <h3>next show:</h3>
+            {/* <h3>next show:</h3>
             
             <p><b>3.28.26</b><br/>The Jungle<br/></p>
            <p>w/ <small><a href='https://clamb.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Clamb</a> & <a href='https://honeycassette.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Honey Cassette</a></small></p>
@@ -112,7 +112,7 @@ function About({ content }) {
             <iframe width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fkffgs2crmqdq3&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>            
         
      
-           
+            */}
 
             <hr class="rounded"></hr> 
             <h3>cabin fever EP (a bandcamp exclusive)</h3>
