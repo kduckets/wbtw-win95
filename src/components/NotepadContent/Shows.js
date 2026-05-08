@@ -76,7 +76,7 @@ function Shows({ content }) {
           <p><b>5.10.25 - Somerville, MA</b><br/>Porchfest! <br/>
            </p>
            <a href='https://somervilleartscouncil.org/view/porchfest-single-entry/entry/64642/' target='_blank' rel="noopener noreferrer">
-            {/* <img alt='wbtw-porchfest-26' src='/Porchvest 2025 v1.2.png' style={{width:'100%'}}/> */}
+            <img alt='wbtw-porchfest-26' src='/wbtw-porchfest-2026.jpeg' style={{width:'100%'}}/>
             </a>
            {/* <i><small>more shows coming soon!</small></i> */}
 
