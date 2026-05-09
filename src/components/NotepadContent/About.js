@@ -102,6 +102,7 @@ function About({ content }) {
 
             <img alt='wbtw-jungle-26' src='/2026jungleflyer.png' style={{width:'100%'}}/>
             </a>
+                 */}
 
             <hr class="rounded"></hr> 
             <h3>Restart Game OUT NOW!</h3>
@@ -115,7 +116,8 @@ function About({ content }) {
          
 
             <hr class="rounded"></hr> 
-               */}
+          
+               
             <h3>cabin fever EP (a bandcamp exclusive)</h3>
          
          <a href="https://webroketheweather.bandcamp.com/album/cabin-fever-ep?campaign=website" target="_blank" rel="noopener noreferrer">
@@ -136,15 +138,7 @@ function About({ content }) {
        
             <hr class="rounded"></hr> 
 
-            <h3>wbtw, live! <small>(at kennedy studios)</small></h3>
-
-            <a href="https://webroketheweather.bandcamp.com/album/live-at-kennedy-studios?campaign=website" target="_blank" rel="noopener noreferrer">
-            <img src='/wbtw-live.jpg' alt='wbtw-live' width='100%' ></img>
-            </a> 
-            <iframe title="wbtw-live-streams" width="100%" height="52" src="https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fjjqxqhhznxttq&theme=light" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
-
-
-            <hr class="rounded"></hr> 
+            
             
 
             <small>
