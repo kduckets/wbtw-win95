@@ -102,9 +102,10 @@ function About({ content }) {
 
             <img alt='wbtw-jungle-26' src='/2026jungleflyer.png' style={{width:'100%'}}/>
             </a>
-                 */}
+                
 
             <hr class="rounded"></hr> 
+             */}
             <h3>Restart Game OUT NOW!</h3>
          
             <a href="https://webroketheweather.bandcamp.com/album/restart-game?campaign=website" target="_blank" rel="noopener noreferrer">
