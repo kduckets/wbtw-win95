@@ -72,16 +72,16 @@ function Shows({ content }) {
               
 
           
-                  
-          <p><b>5.10.25 - Somerville, MA</b><br/>Porchfest! <br/>
+           <i><small>more shows coming soon!</small></i>
+
+
+            <h3>past shows</h3>
+
+           <p><b>5.10.25 - Somerville, MA</b><br/>Porchfest! <br/>
            </p>
            <a href='https://somervilleartscouncil.org/view/porchfest-single-entry/entry/64642/' target='_blank' rel="noopener noreferrer">
             <img alt='wbtw-porchfest-26' src='/wbtw-porchfest-2026.jpeg' style={{width:'100%'}}/>
             </a>
-           {/* <i><small>more shows coming soon!</small></i> */}
-
-
-            <h3>past shows</h3>
 
         <p><b>3.28.26</b><br/>The Jungle<br/></p>
         <p>w/ <small><a href='https://clamb.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Clamb</a> & <a href='https://honeycassette.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Honey Cassette</a></small></p>
